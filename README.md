@@ -62,9 +62,9 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | ---------------------------------------------------------------------------------------- |
 | [DApp University](https://www.youtube.com/c/DAppuniversity/videos)                       |
 | [Eat the blocks](https://www.youtube.com/c/EatTheBlocks/videos)                          |
-| [2](https://youtu.be/YJ-D1RMI0T0)                                                        |
-| [3](https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) |
-| [Nader bit](https://www.youtube.com/)                                                    |
+| [Ivan on Tech](https://www.youtube.com/c/IvanonTech/)                                                        |
+| [Nader Dabit](https://www.youtube.com/c/naderdabit/)                                                    |
+| [Samarth Developer](https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w/)                                                    |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
