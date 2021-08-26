@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-- Fork this Repository [**here**](https://github.com/blockchain-development-resources/resources/fork)
+- Fork this Repository [**here**](https://github.com/frankiefab100/Blockchain-Development-Resources/fork)
 
 - Clone the forked Repository
 
