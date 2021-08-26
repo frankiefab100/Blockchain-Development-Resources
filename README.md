@@ -62,7 +62,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | ---------------------------------------------------------------------------------------- |
 | [DApp University](https://www.youtube.com/c/DAppuniversity/videos)                       |
 | [Eat the blocks](https://www.youtube.com/c/EatTheBlocks/videos)                          |
-| [1](https://www.youtube.com/watch?v=kAnc9Stmbi8)                                         |
 | [2](https://youtu.be/YJ-D1RMI0T0)                                                        |
 | [3](https://www.youtube.com/watch?v=pqxNmdwEHio&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) |
 | [Nader bit](https://www.youtube.com/)                                                    |
