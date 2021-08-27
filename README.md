@@ -75,7 +75,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 |                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Complete DApp Solidity React Blockchain Development](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development/?ranMID=39197&ranEAID=*7W41uFlkSs&ranSiteID=.7W41uFlkSs-o.8BWADwBI0nLp5Es8wKeA&LSNPUBID=*7W41uFlkSs&utm_source=aff-campaign&utm_medium=udemyads&couponCode=08B60E5B24443063AF7B) |
-| [Blockchain 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)                                                                                                                                                                                                                                         |
+| [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)                                                                                                                                                                                                                                         |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -128,7 +128,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
 </div>
 
-## Gamified Tutorial
+## Gamified Tutorials
 
 |                                           |
 | ----------------------------------------- |
@@ -197,7 +197,7 @@ Bank 4.0 - Brett King
 
 Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain - Roberto Infante
 
-Mastering the Lighning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt
+Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt
 
 Seizing Opportunities in the Blockchain and Digital Currency Revolution: A Handbook for Enthusiasts - Chimezie Chuta
 
