@@ -2,7 +2,7 @@
 
 The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles, books and twitter threads for blockchain enthusiasts, enginners, crypto traders, developers and designer.
 
-Learning resources on learn how to deploy smart contracts on Ethereum, build DApps, DeFi, DAO, NFTs and Token protocol.
+Learning resources on learn how to deploy smart contracts on Ethereum, build DApps, DeFi, DEX, DAO, NFTs and Token protocol.
 
 It also comprises of How-to-use tutorials on Blockchain engineering tools & Technologies - **Solidity, Hardhat, Web3js, Ganache, RemixIDE, Metamask, Ethersjs, Truffle, OpenZeppelin, Infura, Reactjs etc**
 
@@ -51,6 +51,9 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Money legos](https://money-legos.studydefi.com/#/)        |
 | [Duneanalytics](https://duneanalytics.com/)                |
 | [Ethfiddle](https://ethfiddle.com/)                        |
+| [UseWeb3](https://useweb3.xyz)                        |
+| [NFTschool(https://nftschool.dev)                        |
+| [101blockchains](https://101blockchains.com)                        |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -65,6 +68,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ivan on Tech](https://www.youtube.com/c/IvanonTech/)                                                        |
 | [Nader Dabit](https://www.youtube.com/c/naderdabit/)                                                    |
 | [Samarth Developer](https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w/)                                                    |
+| [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)                                                    |
+| [Merunas Grincalaitis](https://www.youtube.com/channel/UCJInIwgW1duAEnMHHxDK7XQ)                                                    |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -169,24 +174,13 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
 </div>
 
-## Online Forums
-
-|                                                   |
-| ------------------------------------------------- |
-| [Reddit Ethereum](https://r/ethereum)             |
-| [Reddit Ethereum Dev](https://r/ethdev)           |
-| [Reddit Cryptocurrency](https://r/cryptocurrency) |
-| [Reddit DeFi](https://r/defi)                     |
-
-<div align="right">
-    <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
-</div>
-
 ## Recommendated Books
 
 Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood
 
 Mastering Ethereum: Implement Advanced Blockchain Applications - Merunas Grincalaitis
+
+Mastering Bitcoin: Programming the Open Blockchain - Andreas M. Antonopoulos
 
 The Infinite Machine - Camila Russo
 
@@ -201,6 +195,8 @@ Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain -
 Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt
 
 Seizing Opportunities in the Blockchain and Digital Currency Revolution: A Handbook for Enthusiasts - Chimezie Chuta
+
+Ethereum Blockchain Developer Guide - Thomas Wiesner
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
