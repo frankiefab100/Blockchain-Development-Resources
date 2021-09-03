@@ -20,9 +20,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - [Github Repositories](#github-repositories)
 - [Articles & Blog posts](#articles-&-blog-posts)
 - [Gamified Tutorials](#gamified-tutorials)
-- [Twitter Threads](#twitter-threads)
 - [Documentations](#documentations)
-- [Online Forums](#online-forums)
 - [Recommendated Books](#recommendated-books)
 
 ---
@@ -48,12 +46,14 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Tenderly](https://dashboard.tenderly.co)                  |
 | [Damnvulnerable DeFi](https://www.damnvulnerabledefi.xyz/) |
 | [vyper.fun](https://vyper.fun/lessons.html#)               |
-| [Money legos](https://money-legos.studydefi.com/#/)        |
+| [Money legos](https://money-legos.studydefi.com/)        |
 | [Duneanalytics](https://duneanalytics.com/)                |
 | [Ethfiddle](https://ethfiddle.com/)                        |
-| [UseWeb3](https://useweb3.xyz)                        |
-| [NFTschool(https://nftschool.dev)                        |
-| [101blockchains](https://101blockchains.com)                        |
+| [UseWeb3](https://useweb3.xyz)                             |
+| [NFTschool(https://nftschool.dev)                          |
+| [101blockchains](https://101blockchains.com)               |
+| [Blockgeeks.com](https://blockgeeks.com)               |
+
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -65,11 +65,11 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | ---------------------------------------------------------------------------------------- |
 | [DApp University](https://www.youtube.com/c/DAppuniversity/videos)                       |
 | [Eat the blocks](https://www.youtube.com/c/EatTheBlocks/videos)                          |
-| [Ivan on Tech](https://www.youtube.com/c/IvanonTech/)                                                        |
-| [Nader Dabit](https://www.youtube.com/c/naderdabit/)                                                    |
-| [Samarth Developer](https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w/)                                                    |
-| [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)                                                    |
-| [Merunas Grincalaitis](https://www.youtube.com/channel/UCJInIwgW1duAEnMHHxDK7XQ)                                                    |
+| [Ivan on Tech](https://www.youtube.com/c/IvanonTech/)                                    |
+| [Nader Dabit](https://www.youtube.com/c/naderdabit/)                                     |
+| [Samarth Developer](https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w/)           |
+| [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)              |
+| [Merunas Grincalaitis](https://www.youtube.com/channel/UCJInIwgW1duAEnMHHxDK7XQ)         |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -89,11 +89,21 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 ## Github Repositories
 
 - https://github.com/jklepatch/eattheblocks
-
+- https://github.com/benstew/blockchain-for-software-engineers
 - https://github.com/benstew/blockchain-for-software-engineers/
 - https://github.com/crytic/awesome-ethereum-security
-- https://github.com/jklepatch/eattheblocks/tree/master/
 - https://github.com/iearn-finance/yearn-starter-pack
+- https://github.com/pbrudny/learning-solidity-2018
+- https://github.com/OffcierCia/DeFi-Developer-Road-Map
+- https://github.com/ConsenSys/ethereum-developer-tools-list
+- https://github.com/yjjnls/awesome-blockchain
+- https://github.com/protofire/blockchain-learning-path
+- https://github.com/bkrem/awesome-solidity
+- https://github.com/BlockchainBooks/blockchainbooks.github.io
+- https://github.com/jpantunes/awesome-cryptoeconomics
+- https://github.com/OpenZeppelin/awesome-openzeppelin
+- https://github.com/coinpride/CryptoList
+- https://github.com/BlockchainLabsNZ/awesome-solidity
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -105,23 +115,11 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 
 - https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06
 
-- https://media.consensys.net/an-definitive-list-of-ethereum-developer-tools-2159ce865974
-
-- https://blockgeeks.com/guides/what-is-blockchain-technology/
-
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
-
-- https://blockgeeks.com/guides/what-is-cryptocurrency/
-
-- https://blockgeeks.com/guides/ethereum/
 
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 
-- https://consensys.github.io/smart-contract-best-practices/screencast/195-compound-leveraged-yield-farming
-
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
-
-- https://ethereum.org/en/developers/
 
 - https://blog.oliverjumpertz.dev/how
 
@@ -139,15 +137,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | ----------------------------------------- |
 | [Cryptozombies](https://cryptozombies.io) |
 | [Ethernaut](https://ethernaut.openzeppelin.com/) |
-
-<div align="right">
-    <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
-</div>
-
-## Twitter Threads
-
-- https://twitter.com/scupytrooples/status/1257943758345080839
-- https://twitter.com/cortesja/status/1387821133043486724?s=19
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
