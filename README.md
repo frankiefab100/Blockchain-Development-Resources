@@ -1,9 +1,8 @@
 # Blockchain Development Resources
 
-The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles, books and twitter threads for blockchain enthusiasts, enginners, crypto traders, developers and designer.
+The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles  and books for blockchain enthusiasts, enginners, crypto traders, developers, designers and stakeholders in the Crypto space.
 
 Learning resources on learn how to deploy smart contracts on Ethereum, build DApps, DeFi, DEX, DAO, NFTs and Token protocol.
-
 It also comprises of How-to-use tutorials on Blockchain engineering tools & Technologies - **Solidity, Hardhat, Web3js, Ganache, RemixIDE, Metamask, Ethersjs, Truffle, OpenZeppelin, Infura, Reactjs etc**
 
 #### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue.
@@ -112,17 +111,11 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 ## Articles & Blog Posts
 
 - https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/
-
 - https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06
-
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
-
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
-
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
-
 - https://blog.oliverjumpertz.dev/how
-
 - https://blockonomi.com/solidity
 - https://investopedia.com/solidity
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
