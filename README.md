@@ -49,7 +49,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Duneanalytics](https://duneanalytics.com/)                |
 | [Ethfiddle](https://ethfiddle.com/)                        |
 | [UseWeb3](https://useweb3.xyz)                             |
-| [NFTschool(https://nftschool.dev)                          |
+| [NFTschool](https://nftschool.dev)                          |
 | [101blockchains](https://101blockchains.com)               |
 | [Blockgeeks.com](https://blockgeeks.com)               |
 
