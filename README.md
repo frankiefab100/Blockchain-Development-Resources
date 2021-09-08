@@ -1,3 +1,4 @@
+![BDR header](https://user-images.githubusercontent.com/46662771/132558872-9fb63b1d-5c15-470a-8a84-23464519ff15.jpg)
 # Blockchain Development Resources
 
 The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles  and books for blockchain enthusiasts, enginners, crypto traders, developers, designers and stakeholders in the Crypto space.
@@ -45,14 +46,14 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Tenderly](https://dashboard.tenderly.co)                  |
 | [Damnvulnerable DeFi](https://www.damnvulnerabledefi.xyz/) |
 | [vyper.fun](https://vyper.fun/lessons.html#)               |
-| [Money legos](https://money-legos.studydefi.com/)        |
+| [Money legos](https://money-legos.studydefi.com/)          |
 | [Duneanalytics](https://duneanalytics.com/)                |
 | [Ethfiddle](https://ethfiddle.com/)                        |
 | [UseWeb3](https://useweb3.xyz)                             |
-| [NFTschool](https://nftschool.dev)                          |
+| [NFTschool](https://nftschool.dev)                         |
 | [101blockchains](https://101blockchains.com)               |
-| [Blockgeeks.com](https://blockgeeks.com)               |
-
+| [Blockgeeks.com](https://blockgeeks.com)                   |
+| [Blockonomi.com](https://blockonomi.com)                   |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -116,7 +117,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
 - https://blog.oliverjumpertz.dev/how
-- https://blockonomi.com/solidity
 - https://investopedia.com/solidity
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 
@@ -179,6 +179,7 @@ Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant 
 Seizing Opportunities in the Blockchain and Digital Currency Revolution: A Handbook for Enthusiasts - Chimezie Chuta
 
 Ethereum Blockchain Developer Guide - Thomas Wiesner
+
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
