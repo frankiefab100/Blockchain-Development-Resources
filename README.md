@@ -180,6 +180,7 @@ Seizing Opportunities in the Blockchain and Digital Currency Revolution: A Handb
 
 Ethereum Blockchain Developer Guide - Thomas Wiesner
 
+Hands on Smart Contract Development with Solidity and Ethereum: From fundamentals to deployment - Randall Kanna & Dave Hoover
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
