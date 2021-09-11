@@ -81,6 +81,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Complete DApp Solidity React Blockchain Development](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development/?ranMID=39197&ranEAID=*7W41uFlkSs&ranSiteID=.7W41uFlkSs-o.8BWADwBI0nLp5Es8wKeA&LSNPUBID=*7W41uFlkSs&utm_source=aff-campaign&utm_medium=udemyads&couponCode=08B60E5B24443063AF7B) |
 | [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)                                                                                                                                                                                                                                         |
+| [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
+| [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -116,7 +118,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
-- https://blog.oliverjumpertz.dev/how
+- https://blog.oliverjumpertz.dev
 - https://investopedia.com/solidity
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 
