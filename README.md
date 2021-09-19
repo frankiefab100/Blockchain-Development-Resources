@@ -121,6 +121,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://blog.oliverjumpertz.dev
 - https://investopedia.com/solidity
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
+- https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
