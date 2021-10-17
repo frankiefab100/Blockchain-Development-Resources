@@ -35,8 +35,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Web3devs.com](https://web3devs.com)                       |
 | [DApp University](https://www.dappuniversity.com/)         |
 | [Eattheblocks.com](https://eattheblocks.com)               |
-| [Blockchainhub.net](https://blockchainhub.net)                   |
-| [DApp Tools](https://dapp.tools/)                    |
+| [Blockchainhub.net](https://blockchainhub.net)             |
+| [Kerala Blockchain Academy](https://kba.ai)                |
 | [We teach Blockchain](https://weteachblockchain.org)       |
 | [Encode.club](https://encode.club)                         |
 | [Bloxroute](https://bloxroute.com/)                        |
@@ -111,6 +111,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/OpenZeppelin/awesome-openzeppelin
 - https://github.com/coinpride/CryptoList
 - https://github.com/BlockchainLabsNZ/awesome-solidity
+- https://github.com/dapphub/dapptools#installation
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -148,9 +149,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | Website                                                                                                      | About                                                        |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Solidity Docs](https://docs.soliditylang.org)                                                               | Solidity Tutorial Documentation                              |
-| [Questbook](https://bip.so)                                                                                  | Building a bank with Solidity that isn't a toy foe beginners |
+| [Questbook](https://www.questbook.app)                                                                                  | Questbook is a Decentralized Universityâ€‹ where learning is always free |
 | [Cryptodevhub.io](https://wiki.cryptodevhub.io/ethereum-evm/getting-started)                                 | Ethereum Virtual Machine - Getting Started                   |
-| [Learn Solidity](https://discord.com/invite/hjgq5uzJ)                                                        | Learn Solidity from Discord                                  |
 | [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html) | Advanced Smart Contracts                                     |
 | [Solidity Tutorial - Learn x in y minutes](https://learnxinyminutes.com/docs/solidity)                       | Solidity Tutorial                                            |
 | [OpenZeppelin Docs](https://docs.openzeppelin.com/learn/)                                                    | OpenZeppelin Documentation                                   |
