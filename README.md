@@ -35,8 +35,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Web3devs.com](https://web3devs.com)                       |
 | [DApp University](https://www.dappuniversity.com/)         |
 | [Eattheblocks.com](https://eattheblocks.com)               |
-| [Blockchainhub.net](https://dapp.tools/)                   |
-| [DApp Tools](https://blockchainhub.net)                    |
+| [Blockchainhub.net](https://blockchainhub.net)                   |
+| [DApp Tools](https://dapp.tools/)                    |
 | [We teach Blockchain](https://weteachblockchain.org)       |
 | [Encode.club](https://encode.club)                         |
 | [Bloxroute](https://bloxroute.com/)                        |
@@ -70,6 +70,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Samarth Developer](https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w/)           |
 | [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)              |
 | [Merunas Grincalaitis](https://www.youtube.com/channel/UCJInIwgW1duAEnMHHxDK7XQ)         |
+| [Will it Scale](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)    |
+| [Design Course](https://youtube.com/playlist?list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FDJr3)    |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -80,9 +82,12 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 |                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Complete DApp Solidity React Blockchain Development](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development/?ranMID=39197&ranEAID=*7W41uFlkSs&ranSiteID=.7W41uFlkSs-o.8BWADwBI0nLp5Es8wKeA&LSNPUBID=*7W41uFlkSs&utm_source=aff-campaign&utm_medium=udemyads&couponCode=08B60E5B24443063AF7B) |
-| [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)                                                                                                                                                                                                                                         |
+| [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)                                                                                                                                                                                                                                       |
 | [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
 | [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)
+| [Blockchain and deep learning of AI](https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/)
+| [Understanding Blockchain Technology](https://www.udemy.com/course/understanding-blockchain-technology/)
+| [Ethereum](https://www.ludu.co/course/ethereum)
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
