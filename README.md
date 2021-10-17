@@ -54,6 +54,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [101blockchains](https://101blockchains.com)               |
 | [Blockgeeks.com](https://blockgeeks.com)                   |
 | [Blockonomi.com](https://blockonomi.com)                   |
+| [Buildspace](https://buildspace.so)                   |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -149,7 +150,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | Website                                                                                                      | About                                                        |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Solidity Docs](https://docs.soliditylang.org)                                                               | Solidity Tutorial Documentation                              |
-| [Questbook](https://www.questbook.app)                                                                                  | Questbook is a Decentralized Universityâ€‹ where learning is always free |
+| [Questbook](https://www.questbook.app)                                                                                  | Questbook is a Decentralized University where learning is always free |
 | [Cryptodevhub.io](https://wiki.cryptodevhub.io/ethereum-evm/getting-started)                                 | Ethereum Virtual Machine - Getting Started                   |
 | [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html) | Advanced Smart Contracts                                     |
 | [Solidity Tutorial - Learn x in y minutes](https://learnxinyminutes.com/docs/solidity)                       | Solidity Tutorial                                            |
@@ -159,6 +160,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethereum](https://eth-brownie.readthedocs.io/en/stable/index.html)                                          | Ethereum Tutorial                                            |
 | [Remix IDE Docs](https://remix.ethereum.org)                                                                 | Remix Tutorial                                               |
 | [Ethereum Docs](https://studio.ethereum.org/)                                                                | Ethereum Tutorial                                            |
+| [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)                                                                | Alchemy.com Documentation
+                                        |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -172,7 +175,7 @@ Mastering Ethereum: Implement Advanced Blockchain Applications - Merunas Grincal
 
 Mastering Bitcoin: Programming the Open Blockchain - Andreas M. Antonopoulos
 
-The Infinite Machine - Camila Russo
+The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum - Camila Russo
 
 Mastering Bitcoin: Unlocking Digital Cryptocurrencies - Andreas Antonopoulos
 
@@ -189,6 +192,11 @@ Seizing Opportunities in the Blockchain and Digital Currency Revolution: A Handb
 Ethereum Blockchain Developer Guide - Thomas Wiesner
 
 Hands on Smart Contract Development with Solidity and Ethereum: From fundamentals to deployment - Randall Kanna & Dave Hoover
+
+The Spatial Web: How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World - Gabriel Rene
+
+The Blockchain Developer:  A practical guide  - Elad Elrom
+
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
