@@ -73,6 +73,10 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Merunas Grincalaitis](https://www.youtube.com/channel/UCJInIwgW1duAEnMHHxDK7XQ)         |
 | [Will it Scale](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)    |
 | [Design Course](https://youtube.com/playlist?list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FDJr3)    |
+| [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)         |
+| [Alchemy](https://www.youtube.com/channel/UCtvTdPZWUwW4whk9CLlCBug)    |
+| [Hashlips NFT](https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8)    |
+
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
