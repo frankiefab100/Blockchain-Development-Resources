@@ -54,8 +54,11 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [101blockchains](https://101blockchains.com)               |
 | [Blockgeeks.com](https://blockgeeks.com)                   |
 | [Blockonomi.com](https://blockonomi.com)                   |
-| [Buildspace](https://buildspace.so)                   |
-| [EthereumDev](https://ethereumdev.io/)                   |
+| [Buildspace](https://buildspace.so)                        |
+| [EthereumDev](https://ethereumdev.io/)                     |
+| [ProtoSchool](https://proto.school/tutorials)              |
+| [Dacade](https://dacade.org)                               |
+| [Figment](https://learn.figment.io)                        |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
