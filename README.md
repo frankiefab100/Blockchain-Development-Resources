@@ -59,6 +59,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [ProtoSchool](https://proto.school/tutorials)              |
 | [Dacade](https://dacade.org)                               |
 | [Figment](https://learn.figment.io)                        |
+| [Finematics](https://finematics.com)                        |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -131,6 +132,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/OpenZeppelin/awesome-openzeppelin
 - https://github.com/coinpride/CryptoList
 - https://github.com/BlockchainLabsNZ/awesome-solidity
+- https://github.com/ErichDylus/Smart-Contract-Resources
 - https://github.com/dapphub/dapptools#installation
 
 <div align="right">
@@ -140,9 +142,12 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 
 ## Articles & Blog Posts
 
+- https://www.freecodecamp.org/news/what-is-web3/amp/#click=https://t.co/93kxqzr3I4
 - https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/
 - https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06
+- https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
+- https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
 - https://blog.oliverjumpertz.dev
