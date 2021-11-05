@@ -154,6 +154,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
 - https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
+- https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
 - https://blog.oliverjumpertz.dev
 - https://investopedia.com/solidity
@@ -180,7 +181,17 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Remix IDE Docs](https://remix.ethereum.org)                                                                 | Remix Tutorial                                               |
 | [Ethereum Docs](https://studio.ethereum.org/)                                                                | Ethereum Tutorial                                            |
 | [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy.com Documentation
-
+|
+| [Vyer Docs](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)                                      | Vyper Tutorial  
+| 
+| [Decentology Docs](https://docs.decentology.com/)                                                              | Decentology Documentation      
+|
+| [Ethers Docs](https://docs.ethers.io/v5/)                                                                      | Ethers Documentation      
+|
+| [Ethspring Docs](https://docs.decentology.com/)                                                               | Ethspring Documentation      
+|
+| [Hardhat Docs](https://hardhat.org/getting-started/)                                                           | Hardhat Documentation                                       
+|
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
 </div>
