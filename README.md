@@ -41,11 +41,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Encode.club](https://encode.club)                         |
 | [Bloxroute](https://bloxroute.com/)                        |
 | [Ethtx](https://ethtx.info)                                |
-| [Capturetheether.com](https://capturetheether.com/)        |
 | [Chainshot.com](https://www.chainshot.com/)                |
 | [Tenderly](https://dashboard.tenderly.co)                  |
-| [Damnvulnerable DeFi](https://www.damnvulnerabledefi.xyz/) |
-| [vyper.fun](https://vyper.fun/lessons.html#)               |
 | [Money legos](https://money-legos.studydefi.com/)          |
 | [Duneanalytics](https://duneanalytics.com/)                |
 | [Ethfiddle](https://ethfiddle.com/)                        |
@@ -71,6 +68,9 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | ----------------------------------------- |
 | [Cryptozombies](https://cryptozombies.io) |
 | [Ethernaut](https://ethernaut.openzeppelin.com/) |
+| [Damnvulnerable DeFi](https://www.damnvulnerabledefi.xyz/) |
+| [vyper.fun](https://vyper.fun/lessons.html#)               |
+| [Capture the ether](https://capturetheether.com/)        |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -174,7 +174,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethereum](https://eth-brownie.readthedocs.io/en/stable/index.html)                                          | Ethereum Tutorial                                            |
 | [Remix IDE Docs](https://remix.ethereum.org)                                                                 | Remix Tutorial                                               |
 | [Ethereum Docs](https://studio.ethereum.org/)                                                                | Ethereum Tutorial                                            |
-| [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)                                                                | Alchemy.com Documentation
+| [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy.com Documentation
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
