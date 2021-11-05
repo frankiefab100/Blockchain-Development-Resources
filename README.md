@@ -170,28 +170,32 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | Website                                                                                                      | About                                                        |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Solidity Docs](https://docs.soliditylang.org)                                                               | Solidity Tutorial Documentation                              |
-| [Questbook](https://www.questbook.app)                                                                                  | Questbook is a Decentralized University where learning is always free |
+| [Questbook](https://www.questbook.app)                                                                       | Questbook is a Decentralized University where learning is always free 
+|
 | [Cryptodevhub.io](https://wiki.cryptodevhub.io/ethereum-evm/getting-started)                                 | Ethereum Virtual Machine - Getting Started                   |
 | [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html) | Advanced Smart Contracts                                     |
 | [Solidity Tutorial - Learn x in y minutes](https://learnxinyminutes.com/docs/solidity)                       | Solidity Tutorial                                            |
 | [OpenZeppelin Docs](https://docs.openzeppelin.com/learn/)                                                    | OpenZeppelin Documentation                                   |
 | [OpenZeppelin by Ethernaut](https://ethernaut.openzeppelin.com/)                                             | OpenZeppelin Tutorials by Ethernaut                          |
 | [Solidity Docs II](https://solidity.readthedocs.io/en/v0.7.3/)                                               | Solidity Tutorial Documentation                              |
-| [Ethereum](https://eth-brownie.readthedocs.io/en/stable/index.html)                                          | Ethereum Tutorial                                            |
-| [Remix IDE Docs](https://remix.ethereum.org)                                                                 | Remix Tutorial                                               |
-| [Ethereum Docs](https://studio.ethereum.org/)                                                                | Ethereum Tutorial                                            |
-| [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy.com Documentation
+| [Ethereum](https://eth-brownie.readthedocs.io/en/stable/index.html)                                          | Ethereum Tutorial                                     
+|
+| [Remix IDE Docs](https://remix.ethereum.org)                                                                 | Remix Tutorial                                     
+|
+| [Ethereum Docs](https://studio.ethereum.org/)                                                                | Ethereum Tutorial                         
 |
 | [Vyer Docs](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)                                      | Vyper Tutorial  
-| 
-| [Decentology Docs](https://docs.decentology.com/)                                                              | Decentology Documentation      
 |
-| [Ethers Docs](https://docs.ethers.io/v5/)                                                                      | Ethers Documentation      
+| [Decentology Docs](https://docs.decentology.com/)                                                              | Decentology Documentation     
+|
+| [Ethers Docs](https://docs.ethers.io/v5/)                                                                      | Ethers Documentation     
 |
 | [Ethspring Docs](https://docs.decentology.com/)                                                               | Ethspring Documentation      
 |
-| [Hardhat Docs](https://hardhat.org/getting-started/)                                                           | Hardhat Documentation                                       
+| [Hardhat Docs](https://hardhat.org/getting-started/)                                                           | Hardhat Documentation
 |
+| [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)  | Alchemy Documentation                                 
+
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
 </div>
