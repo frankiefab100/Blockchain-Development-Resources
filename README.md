@@ -31,11 +31,12 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | ---------------------------------------------------------- |
 | [Consensys Academy](https://consensys.net/academy/)        |
 | [The Blockchain school](Theblockchainschool.io)            |
+| [Blockchain Berkeley](https://blockchain.berkeley.edu/courses)            |
 | [Blockchain dev1000](https://blockchaindev1000.com/)    |
 | [Web3devs](https://web3devs.com)                       |
 | [DApp University](https://www.dappuniversity.com/)         |
 | [Eat the blocks](https://eattheblocks.com)               |
-| [Blockchainhub.net](https://blockchainhub.net)             |
+| [Blockchain Hub](https://blockchainhub.net)             |
 | [Kerala Blockchain Academy](https://kba.ai)                |
 | [We teach Blockchain](https://weteachblockchain.org)       |
 | [Encode.club](https://encode.club)                         |
@@ -103,7 +104,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 |                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Complete DApp Solidity React Blockchain Development](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development/?ranMID=39197&ranEAID=*7W41uFlkSs&ranSiteID=.7W41uFlkSs-o.8BWADwBI0nLp5Es8wKeA&LSNPUBID=*7W41uFlkSs&utm_source=aff-campaign&utm_medium=udemyads&couponCode=08B60E5B24443063AF7B) |
-| [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)                                                                                                                                                                                                                                       |
+| [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)|
 | [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
 | [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)
 | [Blockchain and deep learning of AI](https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/)
@@ -134,6 +135,10 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/BlockchainLabsNZ/awesome-solidity
 - https://github.com/ErichDylus/Smart-Contract-Resources
 - https://github.com/dapphub/dapptools#installation
+- https://github.com/NoahZinsmeister/web3-react
+- https://github.com/crytic/building-secure-contracts
+- https://github.com/decentology/web2-to-web3-resources
+
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -207,6 +212,8 @@ Ethereum Blockchain Developer Guide - Thomas Wiesner
 Hands on Smart Contract Development with Solidity and Ethereum: From fundamentals to deployment - Randall Kanna & Dave Hoover
 
 The Spatial Web: How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World - Gabriel Rene
+
+How to DeFi - Darren Lau et al
 
 The Blockchain Developer:  A practical guide  - Elad Elrom
 
