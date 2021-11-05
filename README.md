@@ -30,33 +30,33 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 |                                                            |
 | ---------------------------------------------------------- |
 | [Consensys Academy](https://consensys.net/academy/)        |
-| [The blockchain school](Theblockchainschool.io)            |
-| [Blockchaindev1000.com](https://blockchaindev1000.com/)    |
-| [Web3devs.com](https://web3devs.com)                       |
+| [The Blockchain school](Theblockchainschool.io)            |
+| [Blockchain dev1000](https://blockchaindev1000.com/)    |
+| [Web3devs](https://web3devs.com)                       |
 | [DApp University](https://www.dappuniversity.com/)         |
-| [Eattheblocks.com](https://eattheblocks.com)               |
+| [Eat the blocks](https://eattheblocks.com)               |
 | [Blockchainhub.net](https://blockchainhub.net)             |
 | [Kerala Blockchain Academy](https://kba.ai)                |
 | [We teach Blockchain](https://weteachblockchain.org)       |
 | [Encode.club](https://encode.club)                         |
 | [Bloxroute](https://bloxroute.com/)                        |
 | [Ethtx](https://ethtx.info)                                |
-| [Chainshot.com](https://www.chainshot.com/)                |
+| [Chainshot](https://www.chainshot.com/)                |
 | [Tenderly](https://dashboard.tenderly.co)                  |
 | [Money legos](https://money-legos.studydefi.com/)          |
-| [Duneanalytics](https://duneanalytics.com/)                |
+| [Dune analytics](https://duneanalytics.com/)                |
 | [Ethfiddle](https://ethfiddle.com/)                        |
 | [UseWeb3](https://useweb3.xyz)                             |
 | [NFTschool](https://nftschool.dev)                         |
-| [101blockchains](https://101blockchains.com)               |
-| [Blockgeeks.com](https://blockgeeks.com)                   |
-| [Blockonomi.com](https://blockonomi.com)                   |
+| [101 Blockchains](https://101blockchains.com)               |
+| [Blockgeeks](https://blockgeeks.com)                   |
+| [Blockonomi](https://blockonomi.com)                   |
 | [Buildspace](https://buildspace.so)                        |
 | [EthereumDev](https://ethereumdev.io/)                     |
 | [ProtoSchool](https://proto.school/tutorials)              |
 | [Dacade](https://dacade.org)                               |
 | [Figment](https://learn.figment.io)                        |
-| [Finematics](https://finematics.com)                        |
+| [Finematics](https://finematics.com)                       |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -209,6 +209,8 @@ Hands on Smart Contract Development with Solidity and Ethereum: From fundamental
 The Spatial Web: How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World - Gabriel Rene
 
 The Blockchain Developer:  A practical guide  - Elad Elrom
+
+Token Economy : How the Web3 reinvents the internet - Hermin Voshmgir
 
 
 <div align="right">
