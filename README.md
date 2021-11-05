@@ -94,6 +94,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Alchemy](https://www.youtube.com/channel/UCtvTdPZWUwW4whk9CLlCBug)    |
 | [Hashlips NFT](https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8)    |
 | [Patrick Collins](https://m.youtube.com/c/patrickcollins)    |
+| [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)    |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
