@@ -95,6 +95,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Hashlips NFT](https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8)    |
 | [Patrick Collins](https://m.youtube.com/c/patrickcollins)    |
 | [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)    |
+| [Finematics](https://www.youtube.com/c/Finematics)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -141,6 +142,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/NoahZinsmeister/web3-react
 - https://github.com/crytic/building-secure-contracts
 - https://github.com/decentology/web2-to-web3-resources
+- https://github.com/dapphub/dapptools
+- https://github.com/OffcierCia/ultimate-defi-research-base
 
 
 <div align="right">
@@ -164,6 +167,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 - https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
+- https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
+- https://secureum.substack.com/p/solidity-101
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
