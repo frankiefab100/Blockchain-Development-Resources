@@ -144,6 +144,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/decentology/web2-to-web3-resources
 - https://github.com/dapphub/dapptools
 - https://github.com/OffcierCia/ultimate-defi-research-base
+- https://github.com/matter-labs/awesome-zero-knowledge-proofs
 
 
 <div align="right">
@@ -195,7 +196,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethspring Docs](https://docs.decentology.com/)                                                                 | Ethspring Documentation                                               |
 | [Hardhat Docs](https://hardhat.org/getting-started/)                                                            | Hardhat Documentation                                                 |
 | [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy Documentation                                                 |
-                              
+| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/) |Kauri.io Documentation                                                 |                    
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
