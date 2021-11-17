@@ -19,7 +19,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - [Youtube channels](#youtube-channels)
 - [Free Online Courses](#free-online-courses)
 - [Github Repositories](#github-repositories)
-- [Articles & Blog posts](#articles-&-blog-posts)
+- [Articles](#articles)
 - [Documentations](#documentations)
 - [Recommendated Books](#recommendated-books)
 
@@ -152,12 +152,14 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 </div>
 
 
-## Articles & Blog Posts
+## Articles
 
 - https://www.freecodecamp.org/news/what-is-web3/amp/#click=https://t.co/93kxqzr3I4
 - https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/
+- https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
 - https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06
 - https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43
+- https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
 - https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
