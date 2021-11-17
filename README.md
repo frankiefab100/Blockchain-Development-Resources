@@ -161,11 +161,13 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43
 - https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
+- https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c
+- https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
 - https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
-- https://blog.oliverjumpertz.dev
+- https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e
 - https://investopedia.com/solidity
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 - https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
