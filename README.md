@@ -45,19 +45,23 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Chainshot](https://www.chainshot.com/)                |
 | [Tenderly](https://dashboard.tenderly.co)                  |
 | [Money legos](https://money-legos.studydefi.com/)          |
-| [Dune analytics](https://duneanalytics.com/)                |
+| [Dune analytics](https://duneanalytics.com/)               |
 | [Ethfiddle](https://ethfiddle.com/)                        |
 | [UseWeb3](https://useweb3.xyz)                             |
 | [NFTschool](https://nftschool.dev)                         |
-| [101 Blockchains](https://101blockchains.com)               |
-| [Blockgeeks](https://blockgeeks.com)                   |
-| [Blockonomi](https://blockonomi.com)                   |
+| [101 Blockchains](https://101blockchains.com)              |
+| [Blockgeeks](https://blockgeeks.com)                       |
+| [Blockonomi](https://blockonomi.com)                       |
 | [Buildspace](https://buildspace.so)                        |
 | [EthereumDev](https://ethereumdev.io/)                     |
 | [ProtoSchool](https://proto.school/tutorials)              |
 | [Dacade](https://dacade.org)                               |
 | [Figment](https://learn.figment.io)                        |
 | [Finematics](https://finematics.com)                       |
+| [Near University](https://www.near.university/learn/by-yourself)                |
+| [Blockchain Edu](https://learn.blockchainedu.org)                |
+| [Aepps](http://studio.aepps.com)                |
+| [Zastrin](https://www.zastrin.com/#courses)                |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -96,6 +100,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Patrick Collins](https://m.youtube.com/c/patrickcollins)    |
 | [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)    |
 | [Finematics](https://www.youtube.com/c/Finematics)|
+| [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -113,6 +118,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Blockchain and deep learning of AI](https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/)
 | [Understanding Blockchain Technology](https://www.udemy.com/course/understanding-blockchain-technology/)
 | [Ethereum](https://www.ludu.co/course/ethereum)
+| [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -123,7 +129,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/smartcontractkit/full-blockchain-solidity-course-py
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/benstew/blockchain-for-software-engineers
-- https://github.com/benstew/blockchain-for-software-engineers/
 - https://github.com/crytic/awesome-ethereum-security
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/pbrudny/learning-solidity-2018
@@ -145,6 +150,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/dapphub/dapptools
 - https://github.com/OffcierCia/ultimate-defi-research-base
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
+- https://github.com/raineorshine/solidity-by-example
+- https://github.com/DavidJohnstonCEO/DecentralizedApplications
 
 
 <div align="right">
@@ -163,6 +170,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
 - https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
+- https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c
 - https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
