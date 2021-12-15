@@ -85,8 +85,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 
 |                                                                                          |
 | ---------------------------------------------------------------------------------------- |
-| [DApp University](https://www.youtube.com/c/DAppuniversity/videos)                       |
-| [Eat the blocks](https://www.youtube.com/c/EatTheBlocks/videos)                          |
+| [DApp University](https://www.youtube.com/c/DAppuniversity)                       |
+| [Eat the blocks](https://www.youtube.com/c/EatTheBlocks)                          |
 | [Ivan on Tech](https://www.youtube.com/c/IvanonTech/)                                    |
 | [Nader Dabit](https://www.youtube.com/c/naderdabit/)                                     |
 | [Samarth Developer](https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w/)           |
