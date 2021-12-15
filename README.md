@@ -31,7 +31,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | ---------------------------------------------------------- |
 | [Consensys Academy](https://consensys.net/academy/)        |
 | [The Blockchain school](Theblockchainschool.io)            |
-| [Blockchain Berkeley](https://blockchain.berkeley.edu/courses)            |
+| [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)            |
 | [Blockchain dev1000](https://blockchaindev1000.com/)    |
 | [Web3devs](https://web3devs.com)                       |
 | [DApp University](https://www.dappuniversity.com/)         |
