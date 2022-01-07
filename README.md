@@ -30,6 +30,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 |                                                            |
 | ---------------------------------------------------------- |
 | [Consensys Academy](https://consensys.net/academy/)        |
+| [Ethereum.org](https://ethereum.org/en/developers/tutorials/)        |
 | [The Blockchain school](Theblockchainschool.io)            |
 | [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)            |
 | [Blockchain dev1000](https://blockchaindev1000.com/)    |
@@ -37,12 +38,19 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [DApp University](https://www.dappuniversity.com/)         |
 | [Eat the blocks](https://eattheblocks.com)               |
 | [Blockchain Hub](https://blockchainhub.net)             |
+| [Buildspace](https://buildspace.so)                        |
+| [EthereumDev](https://ethereumdev.io/)                     |
+| [ProtoSchool](https://proto.school/tutorials)              |
+| [Dacade](https://dacade.org)                               |
+| [Figment](https://learn.figment.io)                        |
+| [Finematics](https://finematics.com)                       |
+| [Near University](https://www.near.university/learn/by-yourself) |
 | [Kerala Blockchain Academy](https://kba.ai)                |
 | [We teach Blockchain](https://weteachblockchain.org)       |
 | [Encode.club](https://encode.club)                         |
 | [Bloxroute](https://bloxroute.com/)                        |
 | [Ethtx](https://ethtx.info)                                |
-| [Chainshot](https://www.chainshot.com/)                |
+| [Chainshot](https://www.chainshot.com/)                    |
 | [Tenderly](https://dashboard.tenderly.co)                  |
 | [Money legos](https://money-legos.studydefi.com/)          |
 | [Dune analytics](https://duneanalytics.com/)               |
@@ -52,15 +60,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [101 Blockchains](https://101blockchains.com)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
 | [Blockonomi](https://blockonomi.com)                       |
-| [Buildspace](https://buildspace.so)                        |
-| [EthereumDev](https://ethereumdev.io/)                     |
-| [ProtoSchool](https://proto.school/tutorials)              |
-| [Dacade](https://dacade.org)                               |
-| [Figment](https://learn.figment.io)                        |
-| [Finematics](https://finematics.com)                       |
-| [Near University](https://www.near.university/learn/by-yourself)                |
-| [Blockchain Edu](https://learn.blockchainedu.org)                |
-| [Aepps](http://studio.aepps.com)                |
+| [Blockchain Edu](https://learn.blockchainedu.org)          |
+| [Aepps](http://studio.aepps.com)                           |
 | [Zastrin](https://www.zastrin.com/#courses)                |
 
 <div align="right">
@@ -152,7 +153,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/raineorshine/solidity-by-example
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
-
+- https://github.com/matter-labs/awesome-zero-knowledge-proofs
+- https://github.com/dethcrypto/TypeChain
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
