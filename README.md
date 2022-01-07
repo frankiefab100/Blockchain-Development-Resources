@@ -30,9 +30,10 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 |                                                            |
 | ---------------------------------------------------------- |
 | [Consensys Academy](https://consensys.net/academy/)        |
-| [Ethereum.org](https://ethereum.org/en/developers/tutorials/)        |
+| [Ethereum.org](https://ethereum.org/en/developers/tutorials/) |
+| [Questbook](https://www.questbook.app)                     |
 | [The Blockchain School](Theblockchainschool.io)            |
-| [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)            |
+| [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)  |
 | [Blockchain dev1000](https://blockchaindev1000.com/)    |
 | [Web3devs](https://web3devs.com)                       |
 | [DApp University](https://www.dappuniversity.com/)         |
@@ -79,7 +80,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Cryptozombies](https://cryptozombies.io) |
 | [Ethernaut](https://ethernaut.openzeppelin.com/) |
 | [Damnvulnerable DeFi](https://www.damnvulnerabledefi.xyz/) |
-| [vyper.fun](https://vyper.fun/lessons.html#)               |
+| [Vyper.fun](https://vyper.fun/lessons.html#)               |
 | [Capture the ether](https://capturetheether.com/)        |
 
 <div align="right">
@@ -174,6 +175,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://www.freecodecamp.org/news/what-is-web3/amp/#click=https://t.co/93kxqzr3I4
 - https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/
 - https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
+- https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games
 - https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06
 - https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43
 - https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m
@@ -192,6 +194,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
 - https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
 - https://secureum.substack.com/p/solidity-101
+- https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk
 - https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
 - https://blog.alchemy.com/blog/nft-deployment-cost
 
@@ -205,7 +208,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | Website                                                                                                         | About                                                                 |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | [Solidity Docs](https://docs.soliditylang.org)                                                                  | Solidity Tutorial Documentation                                       |
-| [Questbook](https://www.questbook.app)                                                                          | Questbook is a Decentralized University where learning is always free |
 | [Cryptodevhub](https://wiki.cryptodevhub.io/ethereum-evm/getting-started)                                       | Ethereum Virtual Machine - Getting Started                            |
 | [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html)    | Advanced Smart Contracts                                              |
 | [Solidity Tutorial - Learn x in y minutes](https://learnxinyminutes.com/docs/solidity)                          | Solidity Tutorial                                                     |
