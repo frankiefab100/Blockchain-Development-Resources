@@ -31,7 +31,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | ---------------------------------------------------------- |
 | [Consensys Academy](https://consensys.net/academy/)        |
 | [Ethereum.org](https://ethereum.org/en/developers/tutorials/)        |
-| [The Blockchain school](Theblockchainschool.io)            |
+| [The Blockchain School](Theblockchainschool.io)            |
 | [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)            |
 | [Blockchain dev1000](https://blockchaindev1000.com/)    |
 | [Web3devs](https://web3devs.com)                       |
@@ -47,22 +47,26 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Near University](https://www.near.university/learn/by-yourself) |
 | [Kerala Blockchain Academy](https://kba.ai)                |
 | [We teach Blockchain](https://weteachblockchain.org)       |
-| [Encode.club](https://encode.club)                         |
-| [Bloxroute](https://bloxroute.com/)                        |
-| [Ethtx](https://ethtx.info)                                |
+| [UseWeb3](https://useweb3.xyz)                             |
+| [Blockchain Edu](https://learn.blockchainedu.org)          |
+| [Web3 University](https://www.web3.university/)            |
+| [Aepps](http://studio.aepps.com)                           |
+| [Zastrin](https://www.zastrin.com/#courses)                |
 | [Chainshot](https://www.chainshot.com/)                    |
+| [Althash University](https://www.althash.university)       |
+| [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/) |
 | [Tenderly](https://dashboard.tenderly.co)                  |
 | [Money legos](https://money-legos.studydefi.com/)          |
 | [Dune analytics](https://duneanalytics.com/)               |
+| [Encode.club](https://encode.club)                         |
+| [Bloxroute](https://bloxroute.com/)                        |
+| [Ethtx](https://ethtx.info)                                |
 | [Ethfiddle](https://ethfiddle.com/)                        |
-| [UseWeb3](https://useweb3.xyz)                             |
 | [NFTschool](https://nftschool.dev)                         |
 | [101 Blockchains](https://101blockchains.com)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
 | [Blockonomi](https://blockonomi.com)                       |
-| [Blockchain Edu](https://learn.blockchainedu.org)          |
-| [Aepps](http://studio.aepps.com)                           |
-| [Zastrin](https://www.zastrin.com/#courses)                |
+
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -102,6 +106,9 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)    |
 | [Finematics](https://www.youtube.com/c/Finematics)|
 | [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)|
+| [Blockholic](https://youtube.com/c/Blockholic)|
+| [Vlad Wulf](https://youtube.com/channel/UCsVoOobxAQL6NbWY2t6E6Sg)|
+| [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -155,6 +162,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/dethcrypto/TypeChain
+- https://github.com/jashmenn/bitcoin-reading-list
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -184,6 +192,9 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
 - https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
 - https://secureum.substack.com/p/solidity-101
+- https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
+- https://blog.alchemy.com/blog/nft-deployment-cost
+
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -210,8 +221,10 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethspring Docs](https://docs.decentology.com/)                                                                 | Ethspring Documentation                                               |
 | [Hardhat Docs](https://hardhat.org/getting-started/)                                                            | Hardhat Documentation                                                 |
 | [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy Documentation                                                 |
+| [Go Ethereum Docs](https://geth.ethereum.org/docs/) | Golang implementation of the Ethereum protocol Documentation                                                 |
+| [Rust Docs](https://www.rust-lang.org/learn) | Rust Documentation                                                 |
+| [Web3.py Docs](https://web3py.readthedocs.io/en/stable/) | Web3.py Documentation                                                 |
 | [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/) |Kauri.io Documentation                                                 |                    
-
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
 </div>
