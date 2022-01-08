@@ -57,6 +57,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Althash University](https://www.althash.university)       |
 | [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/) |
 | [Tenderly](https://dashboard.tenderly.co)                  |
+| [Ethernal](https://www.tryethernal.com)                  |
 | [Money legos](https://money-legos.studydefi.com/)          |
 | [Dune analytics](https://duneanalytics.com/)               |
 | [Encode.club](https://encode.club)                         |
