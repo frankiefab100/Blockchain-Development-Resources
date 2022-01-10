@@ -36,17 +36,17 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)  |
 | [Blockchain dev1000](https://blockchaindev1000.com/)    |
 | [Web3devs](https://web3devs.com)                       |
-| [DApp University](https://www.dappuniversity.com/)         |
-| [Eat the blocks](https://eattheblocks.com)               |
-| [Blockchain Hub](https://blockchainhub.net)             |
-| [Buildspace](https://buildspace.so)                        |
-| [EthereumDev](https://ethereumdev.io/)                     |
 | [ProtoSchool](https://proto.school/tutorials)              |
 | [Dacade](https://dacade.org)                               |
 | [Figment](https://learn.figment.io)                        |
 | [Finematics](https://finematics.com)                       |
 | [Near University](https://www.near.university/learn/by-yourself) |
 | [Kerala Blockchain Academy](https://kba.ai)                |
+| [DApp University](https://www.dappuniversity.com/)         |
+| [Eat the blocks](https://eattheblocks.com)               |
+| [Blockchain Hub](https://blockchainhub.net)             |
+| [Buildspace](https://buildspace.so)                        |
+| [EthereumDev](https://ethereumdev.io/)                     |
 | [We teach Blockchain](https://weteachblockchain.org)       |
 | [UseWeb3](https://useweb3.xyz)                             |
 | [Blockchain Edu](https://learn.blockchainedu.org)          |
@@ -60,7 +60,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [NFTschool](https://nftschool.dev)                         |
 | [101 Blockchains](https://101blockchains.com)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
-| [Blockonomi](https://blockonomi.com)                       |
+| [Blockonomi](https://blockonomi.com/education/)                       |
 
 
 <div align="right">
