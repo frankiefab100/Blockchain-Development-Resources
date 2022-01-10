@@ -56,14 +56,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Chainshot](https://www.chainshot.com/)                    |
 | [Althash University](https://www.althash.university)       |
 | [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/) |
-| [Tenderly](https://dashboard.tenderly.co)                  |
-| [Ethernal](https://www.tryethernal.com)                  |
-| [Money legos](https://money-legos.studydefi.com/)          |
-| [Dune analytics](https://duneanalytics.com/)               |
-| [Encode.club](https://encode.club)                         |
-| [Bloxroute](https://bloxroute.com/)                        |
-| [Ethtx](https://ethtx.info)                                |
-| [Ethfiddle](https://ethfiddle.com/)                        |
+| [Tacode](https://tacode.dev)                               |
 | [NFTschool](https://nftschool.dev)                         |
 | [101 Blockchains](https://101blockchains.com)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
@@ -109,6 +102,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Finematics](https://www.youtube.com/c/Finematics)|
 | [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)|
 | [Blockholic](https://youtube.com/c/Blockholic)|
+| [Blockchain at Berkeley](https://youtube.com/c/BlockchainatBerkeley)|
 | [Vlad Wulf](https://youtube.com/channel/UCsVoOobxAQL6NbWY2t6E6Sg)|
 | [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)|
 
@@ -165,6 +159,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
+- https://github.com/fravoll/solidity-patterns
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
