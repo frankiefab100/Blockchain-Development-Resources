@@ -58,9 +58,10 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/) |
 | [Tacode](https://tacode.dev)                               |
 | [NFTschool](https://nftschool.dev)                         |
+| [StartonSolana](https://www.startonsolana.com/)              |
 | [101 Blockchains](https://101blockchains.com)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
-| [Blockonomi](https://blockonomi.com/education/)                       |
+| [Blockonomi](https://blockonomi.com/education/)            |
 
 
 <div align="right">
@@ -104,6 +105,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Blockholic](https://youtube.com/c/Blockholic)|
 | [Blockchain at Berkeley](https://youtube.com/c/BlockchainatBerkeley)|
 | [Vlad Wulf](https://youtube.com/channel/UCsVoOobxAQL6NbWY2t6E6Sg)|
+| [Ethereum Engineering Group](https://youtube.com/c/EthereumEngineeringGroup)|
 | [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)|
 
 <div align="right">
@@ -176,6 +178,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43
 - https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
+- https://lorisleiva.com/create-a-solana-dapp-from-scratch
 - https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
 - https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c
@@ -222,7 +225,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Go Ethereum Docs](https://geth.ethereum.org/docs/) | Golang implementation of the Ethereum protocol Documentation                                                 |
 | [Rust Docs](https://www.rust-lang.org/learn) | Rust Documentation                                                 |
 | [Web3.py Docs](https://web3py.readthedocs.io/en/stable/) | Web3.py Documentation                                                 |
-| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/) |Kauri.io Documentation                                                 |                    
+| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/) | Kauri.io Documentation                                                 |       | [Kauri Docs](https://solanacookbook.com) | Developer resource for building on Solana Blockchain                                             |                
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
 </div>
