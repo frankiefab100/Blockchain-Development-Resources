@@ -216,7 +216,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethereum](https://eth-brownie.readthedocs.io/en/stable/index.html)                                             | Ethereum Tutorial                                                     |
 | [Remix IDE Docs](https://remix.ethereum.org)                                                                    | Remix Tutorial                                                        |
 | [Ethereum Docs](https://studio.ethereum.org/)                                                                   | Ethereum Tutorial                                                     |
-| [Truffle Ethereum Overview](https://trufflesuite.com/guides/ethereum-overview/)                                 | EThererum Introduction by Truffle                                     |
+| [Truffle Ethereum Overview](https://trufflesuite.com/guides/ethereum-overview/)                                 | Ethererum Introduction by Truffle                                     |
+| [Truffle Suite](https://trufflesuite.com/tutorial/)                                                             | Truffle Suite - Pet Shop Example                                      |
 | [Vyper Docs](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)                                      | Vyper Tutorial                                                        |
 | [Decentology Docs](https://docs.decentology.com/)                                                               | Decentology Documentation                                             |
 | [Ethers Docs](https://docs.ethers.io/v5/)                                                                       | Ethers Documentation                                                  |
