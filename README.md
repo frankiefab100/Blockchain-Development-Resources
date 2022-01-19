@@ -216,17 +216,18 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethereum](https://eth-brownie.readthedocs.io/en/stable/index.html)                                             | Ethereum Tutorial                                                     |
 | [Remix IDE Docs](https://remix.ethereum.org)                                                                    | Remix Tutorial                                                        |
 | [Ethereum Docs](https://studio.ethereum.org/)                                                                   | Ethereum Tutorial                                                     |
-| [Vyper Docs](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)                                       | Vyper Tutorial                                                        |
+| [Truffle Ethereum Overview](https://trufflesuite.com/guides/ethereum-overview/)                                 | EThererum Introduction by Truffle                                     |
+| [Vyper Docs](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)                                      | Vyper Tutorial                                                        |
 | [Decentology Docs](https://docs.decentology.com/)                                                               | Decentology Documentation                                             |
 | [Ethers Docs](https://docs.ethers.io/v5/)                                                                       | Ethers Documentation                                                  |
 | [Ethspring Docs](https://docs.decentology.com/)                                                                 | Ethspring Documentation                                               |
 | [Hardhat Docs](https://hardhat.org/getting-started/)                                                            | Hardhat Documentation                                                 |
 | [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy Documentation                                                 |
-| [Solana Cookbook](https://solanacookbook.com) | Developer resource for building on Solana Blockchain                                                |
-| [Go Ethereum Docs](https://geth.ethereum.org/docs/) | Golang implementation of the Ethereum protocol Documentation                                                 |
-| [Rust Docs](https://www.rust-lang.org/learn) | Rust Documentation                                                 |
-| [Web3.py Docs](https://web3py.readthedocs.io/en/stable/) | Web3.py Documentation                                                 |
-| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/) | Kauri.io Documentation                                                 |       
+| [Solana Cookbook](https://solanacookbook.com)                                                                   | Developer resource for building on Solana Blockchain                  |
+| [Go Ethereum Docs](https://geth.ethereum.org/docs/)                                                             | Golang implementation of the Ethereum protocol Documentation          |
+| [Rust Docs](https://www.rust-lang.org/learn)                                                                    | Rust Documentation                                                    |
+| [Web3.py Docs](https://web3py.readthedocs.io/en/stable/)                                                        | Web3.py Documentation                                                 |
+| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)                             | Kauri.io Documentation                                                |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
