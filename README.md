@@ -164,6 +164,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
 - https://github.com/fravoll/solidity-patterns
+- https://github.com/unstoppabledomains/decentralized-websites
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -198,7 +199,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk
 - https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
 - https://blog.alchemy.com/blog/nft-deployment-cost
-
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
