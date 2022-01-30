@@ -62,6 +62,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [101 Blockchains](https://101blockchains.com)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
 | [Blockonomi](https://blockonomi.com/education/)            |
+| [CryptoLectures](https://cryptolectures.teachable.com/)    |
 
 
 <div align="right">
@@ -107,6 +108,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Vlad Wulf](https://youtube.com/channel/UCsVoOobxAQL6NbWY2t6E6Sg)|
 | [Ethereum Engineering Group](https://youtube.com/c/EthereumEngineeringGroup)|
 | [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)|
+| [Center for Innovative Finance](https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
