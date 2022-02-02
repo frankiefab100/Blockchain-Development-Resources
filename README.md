@@ -56,6 +56,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Chainshot](https://www.chainshot.com/)                    |
 | [Althash University](https://www.althash.university)       |
 | [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/) |
+| [Cadena](https://cadena.dev)
 | [Tacode](https://tacode.dev)                               |
 | [NFTschool](https://nftschool.dev)                         |
 | [StartonSolana](https://www.startonsolana.com/)              |
