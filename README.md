@@ -1,7 +1,7 @@
 ![BDR header](https://user-images.githubusercontent.com/46662771/132558872-9fb63b1d-5c15-470a-8a84-23464519ff15.jpg)
 # Blockchain Development Resources
 
-The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles  and books for blockchain enthusiasts, enginners, crypto traders, developers, designers and stakeholders in the Crypto space.
+The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles  and books for blockchain enthusiasts, engineers, crypto traders, developers, designers and stakeholders in the Crypto space.
 
 FREE Learning resources on how to deploy smart contracts on Ethereum, build DApps, DeFi, DEX, DAO, NFTs and Token protocol.
 It also comprises of How-to-use tutorials on Blockchain engineering tools & technologies - **Solidity, Hardhat, Web3js, Ganache, RemixIDE, Metamask, Ethersjs, Truffle, OpenZeppelin, Infura, Reactjs etc**
@@ -16,12 +16,12 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 
 - [Websites](#websites)
 - [Gamified Tutorials](#gamified-tutorials)
-- [Youtube channels](#youtube-channels)
+- [Youtube Channels](#youtube-channels)
 - [Free Online Courses](#free-online-courses)
 - [Github Repositories](#github-repositories)
 - [Articles](#articles)
 - [Documentations](#documentations)
-- [Recommendated Books](#recommendated-books)
+- [Recommended Books](#recommendated-books)
 
 ---
 
@@ -128,6 +128,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Understanding Blockchain Technology](https://www.udemy.com/course/understanding-blockchain-technology/)
 | [Ethereum](https://www.ludu.co/course/ethereum)
 | [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
+| [Solidity Smart Contract & Blockchain Development (in Farsi)](https://www.youtube.com/playlist?list=PLDwI1rIhknpNyUWdFt_XD6rpTEjTkUcYo) |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
