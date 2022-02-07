@@ -3,8 +3,8 @@
 
 The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles  and books for blockchain enthusiasts, enginners, crypto traders, developers, designers and stakeholders in the Crypto space.
 
-Learning resources on learn how to deploy smart contracts on Ethereum, build DApps, DeFi, DEX, DAO, NFTs and Token protocol.
-It also comprises of How-to-use tutorials on Blockchain engineering tools & Technologies - **Solidity, Hardhat, Web3js, Ganache, RemixIDE, Metamask, Ethersjs, Truffle, OpenZeppelin, Infura, Reactjs etc**
+FREE Learning resources on how to deploy smart contracts on Ethereum, build DApps, DeFi, DEX, DAO, NFTs and Token protocol.
+It also comprises of How-to-use tutorials on Blockchain engineering tools & technologies - **Solidity, Hardhat, Web3js, Ganache, RemixIDE, Metamask, Ethersjs, Truffle, OpenZeppelin, Infura, Reactjs etc**
 
 #### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue.
 
@@ -43,7 +43,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Near University](https://www.near.university/learn/by-yourself) |
 | [Kerala Blockchain Academy](https://kba.ai)                |
 | [DApp University](https://www.dappuniversity.com/)         |
-| [Eat the blocks](https://eattheblocks.com)               |
 | [Blockchain Hub](https://blockchainhub.net)             |
 | [Buildspace](https://buildspace.so)                        |
 | [EthereumDev](https://ethereumdev.io/)                     |
@@ -64,7 +63,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Blockgeeks](https://blockgeeks.com)                       |
 | [Blockonomi](https://blockonomi.com/education/)            |
 | [CryptoLectures](https://cryptolectures.teachable.com/)    |
-
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -111,6 +109,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)|
 | [Center for Innovative Finance](https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg)|
 | [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)|
+| [Block Explorer](https://youtube.com/c/BlockExplorerMedia)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
