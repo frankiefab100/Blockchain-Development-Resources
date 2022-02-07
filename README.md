@@ -166,6 +166,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
 - https://github.com/fravoll/solidity-patterns
+https://github.com/l-henri/solidity-101
 - https://github.com/unstoppabledomains/decentralized-websites
 
 <div align="right">
