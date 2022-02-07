@@ -110,6 +110,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethereum Engineering Group](https://youtube.com/c/EthereumEngineeringGroup)|
 | [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)|
 | [Center for Innovative Finance](https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg)|
+| [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
