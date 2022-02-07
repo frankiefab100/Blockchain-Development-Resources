@@ -21,7 +21,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - [Github Repositories](#github-repositories)
 - [Articles](#articles)
 - [Documentations](#documentations)
-- [Recommended Books](#recommendated-books)
+- [Recommended Books](#recommended-books)
 
 ---
 
@@ -236,7 +236,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
 </div>
 
-## Recommendated Books
+## Recommended Books
 
 Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood
 
