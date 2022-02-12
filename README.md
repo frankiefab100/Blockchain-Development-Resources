@@ -63,6 +63,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Blockgeeks](https://blockgeeks.com)                       |
 | [Blockonomi](https://blockonomi.com/education/)            |
 | [CryptoLectures](https://cryptolectures.teachable.com/)    |
+| [Snakecharmers](https://snakecharmers.ethereum.org/) |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
