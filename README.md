@@ -64,6 +64,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Blockonomi](https://blockonomi.com/education/)            |
 | [CryptoLectures](https://cryptolectures.teachable.com/)    |
 | [Snakecharmers](https://snakecharmers.ethereum.org/) |
+| [Metaschool](https://metaschool.so/)              |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -77,7 +78,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethernaut](https://ethernaut.openzeppelin.com/) |
 | [Damnvulnerable DeFi](https://www.damnvulnerabledefi.xyz/) |
 | [Vyper.fun](https://vyper.fun/lessons.html#)               |
-| [Capture the ether](https://capturetheether.com/)        |
+| [Capture the Ether](https://capturetheether.com/)        |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
