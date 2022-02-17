@@ -112,6 +112,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Center for Innovative Finance](https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg)|
 | [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)|
 | [Block Explorer](https://youtube.com/c/BlockExplorerMedia)|
+| [CodeXpert](https://youtube.com/c/CodeXpert)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
