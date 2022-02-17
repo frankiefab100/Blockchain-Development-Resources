@@ -167,8 +167,9 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
 - https://github.com/fravoll/solidity-patterns
-https://github.com/l-henri/solidity-101
+- https://github.com/l-henri/solidity-101
 - https://github.com/unstoppabledomains/decentralized-websites
+- https://github.com/rust-in-blockchain/awesome-blockchain-rust
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
