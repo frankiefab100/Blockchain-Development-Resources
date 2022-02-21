@@ -65,6 +65,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [CryptoLectures](https://cryptolectures.teachable.com/)    |
 | [Snakecharmers](https://snakecharmers.ethereum.org/) |
 | [Metaschool](https://metaschool.so/)              |
+| [Pointer](https://www.pointer.gg/)             |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
