@@ -133,6 +133,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethereum](https://www.ludu.co/course/ethereum)
 | [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
 | [Solidity Smart Contract & Blockchain Development (in Farsi)](https://www.youtube.com/playlist?list=PLDwI1rIhknpNyUWdFt_XD6rpTEjTkUcYo) |
+| [Build a Practical NFT Ticketing Service with Solidity and React](https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c)
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -174,6 +175,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/unstoppabledomains/decentralized-websites
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
 - https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit
+- https://github.com/0xpranay/solidity-notes
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
