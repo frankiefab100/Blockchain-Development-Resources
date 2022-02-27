@@ -177,6 +177,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
 - https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit
 - https://github.com/0xpranay/solidity-notes
+- https://github.com/rust-unofficial/awesome-rust
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
