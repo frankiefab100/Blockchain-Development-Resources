@@ -203,7 +203,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
 - https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e
-- https://investopedia.com/solidity
+- https://www.investopedia.com/terms/b/blockchain.asp
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 - https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
