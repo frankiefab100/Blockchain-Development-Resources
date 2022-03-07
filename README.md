@@ -67,6 +67,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Metaschool](https://metaschool.so/)              |
 | [Pointer](https://www.pointer.gg/)             |
 | [Soldev](https://soldev.app/)           |
+| [Codiesalert](https://www.codiesalert.com/)           |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
