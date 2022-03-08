@@ -136,6 +136,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
 | [Solidity Smart Contract & Blockchain Development (in Farsi)](https://www.youtube.com/playlist?list=PLDwI1rIhknpNyUWdFt_XD6rpTEjTkUcYo) |
 | [Build a Practical NFT Ticketing Service with Solidity and React](https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c)
+| [Solidity 101: Introduction to smart contracts](https://www.defi-academy.com/courses/introduction-to-smart-contracts)
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
