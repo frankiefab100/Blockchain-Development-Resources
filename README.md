@@ -181,6 +181,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/0xpranay/solidity-notes
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/dcbuild3r/blockchain-development-guide
+- https://github.com/nosequeldeebee/blockchain-tutorial
+- https://github.com/openblockchains/awesome-blockchains
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
