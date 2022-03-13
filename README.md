@@ -62,7 +62,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Blockchain Edu](https://learn.blockchainedu.org)                |
 | [Aepps](http://studio.aepps.com)                |
 | [Zastrin](https://www.zastrin.com/#courses)                |
-| [Learn web3DAO] (https://www.learnweb3.io/)                 |
+| [learn web3 DAO](https://www.learnweb3.io/)               |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -102,7 +102,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)    |
 | [Finematics](https://www.youtube.com/c/Finematics)|
 | [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)|
-| [Crypto white board] (https://www.youtube.com/c/WhiteboardCrypto) |
+|  [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
