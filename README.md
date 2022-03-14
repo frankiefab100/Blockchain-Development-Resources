@@ -1,10 +1,10 @@
 ![BDR header](https://user-images.githubusercontent.com/46662771/132558872-9fb63b1d-5c15-470a-8a84-23464519ff15.jpg)
 # Blockchain Development Resources
 
-The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles  and books for blockchain enthusiasts, enginners, crypto traders, developers, designers and stakeholders in the Crypto space.
+The contents of this repository will help you launch a career in Blockchain development. It contains useful website, courses, tutorials, articles  and books for blockchain enthusiasts, engineers, crypto traders, developers, designers and stakeholders in the Crypto space.
 
-Learning resources on learn how to deploy smart contracts on Ethereum, build DApps, DeFi, DEX, DAO, NFTs and Token protocol.
-It also comprises of How-to-use tutorials on Blockchain engineering tools & Technologies - **Solidity, Hardhat, Web3js, Ganache, RemixIDE, Metamask, Ethersjs, Truffle, OpenZeppelin, Infura, Reactjs etc**
+FREE Learning resources on how to deploy smart contracts on Ethereum, build DApps, DeFi, DEX, DAO, NFTs and Token protocol.
+It also comprises of How-to-use tutorials on Blockchain engineering tools & technologies - **Solidity, Hardhat, Web3js, Ganache, RemixIDE, Metamask, Ethersjs, Truffle, OpenZeppelin, Infura, Reactjs etc**
 
 #### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue.
 
@@ -16,12 +16,12 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 
 - [Websites](#websites)
 - [Gamified Tutorials](#gamified-tutorials)
-- [Youtube channels](#youtube-channels)
+- [Youtube Channels](#youtube-channels)
 - [Free Online Courses](#free-online-courses)
 - [Github Repositories](#github-repositories)
 - [Articles](#articles)
 - [Documentations](#documentations)
-- [Recommendated Books](#recommendated-books)
+- [Recommended Books](#recommended-books)
 
 ---
 
@@ -30,25 +30,35 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 |                                                            |
 | ---------------------------------------------------------- |
 | [Consensys Academy](https://consensys.net/academy/)        |
-| [The Blockchain school](Theblockchainschool.io)            |
-| [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)            |
+| [Ethereum.org](https://ethereum.org/en/developers/tutorials/) |
+| [Questbook](https://www.questbook.app)                     |
+| [The Blockchain School](Theblockchainschool.io)            |
+| [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)  |
 | [Blockchain dev1000](https://blockchaindev1000.com/)    |
 | [Web3devs](https://web3devs.com)                       |
-| [DApp University](https://www.dappuniversity.com/)         |
-| [Eat the blocks](https://eattheblocks.com)               |
-| [Blockchain Hub](https://blockchainhub.net)             |
+| [ProtoSchool](https://proto.school/tutorials)              |
+| [Dacade](https://dacade.org)                               |
+| [Figment](https://learn.figment.io)                        |
+| [Finematics](https://finematics.com)                       |
+| [Near University](https://www.near.university/learn/by-yourself) |
 | [Kerala Blockchain Academy](https://kba.ai)                |
+| [DApp University](https://www.dappuniversity.com/)         |
+| [Blockchain Hub](https://blockchainhub.net)             |
+| [Buildspace](https://buildspace.so)                        |
+| [EthereumDev](https://ethereumdev.io/)                     |
 | [We teach Blockchain](https://weteachblockchain.org)       |
-| [Encode.club](https://encode.club)                         |
-| [Bloxroute](https://bloxroute.com/)                        |
-| [Ethtx](https://ethtx.info)                                |
-| [Chainshot](https://www.chainshot.com/)                |
-| [Tenderly](https://dashboard.tenderly.co)                  |
-| [Money legos](https://money-legos.studydefi.com/)          |
-| [Dune analytics](https://duneanalytics.com/)               |
-| [Ethfiddle](https://ethfiddle.com/)                        |
 | [UseWeb3](https://useweb3.xyz)                             |
+| [Blockchain Edu](https://learn.blockchainedu.org)          |
+| [Web3 University](https://www.web3.university/)            |
+| [Aepps](http://studio.aepps.com)                           |
+| [Zastrin](https://www.zastrin.com/#courses)                |
+| [Chainshot](https://www.chainshot.com/)                    |
+| [Althash University](https://www.althash.university)       |
+| [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/) |
+| [Cadena](https://cadena.dev)
+| [Tacode](https://tacode.dev)                               |
 | [NFTschool](https://nftschool.dev)                         |
+| [StartonSolana](https://www.startonsolana.com/)              |
 | [101 Blockchains](https://101blockchains.com)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
 | [Blockonomi](https://blockonomi.com)                       |
@@ -63,6 +73,13 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Aepps](http://studio.aepps.com)                |
 | [Zastrin](https://www.zastrin.com/#courses)                |
 | [learn web3 DAO](https://www.learnweb3.io/)               |
+| [Blockonomi](https://blockonomi.com/education/)            |
+| [CryptoLectures](https://cryptolectures.teachable.com/)    |
+| [Snakecharmers](https://snakecharmers.ethereum.org/) |
+| [Metaschool](https://metaschool.so/)              |
+| [Pointer](https://www.pointer.gg/)             |
+| [Soldev](https://soldev.app/)           |
+| [Codiesalert](https://www.codiesalert.com/)           |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -75,8 +92,8 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Cryptozombies](https://cryptozombies.io) |
 | [Ethernaut](https://ethernaut.openzeppelin.com/) |
 | [Damnvulnerable DeFi](https://www.damnvulnerabledefi.xyz/) |
-| [vyper.fun](https://vyper.fun/lessons.html#)               |
-| [Capture the ether](https://capturetheether.com/)        |
+| [Vyper.fun](https://vyper.fun/lessons.html#)               |
+| [Capture the Ether](https://capturetheether.com/)        |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -103,6 +120,15 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Finematics](https://www.youtube.com/c/Finematics)|
 | [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)|
 |  [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)|
+| [Blockholic](https://youtube.com/c/Blockholic)|
+| [Blockchain at Berkeley](https://youtube.com/c/BlockchainatBerkeley)|
+| [Vlad Wulf](https://youtube.com/channel/UCsVoOobxAQL6NbWY2t6E6Sg)|
+| [Ethereum Engineering Group](https://youtube.com/c/EthereumEngineeringGroup)|
+| [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)|
+| [Center for Innovative Finance](https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg)|
+| [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)|
+| [Block Explorer](https://youtube.com/c/BlockExplorerMedia)|
+| [CodeXpert](https://youtube.com/c/CodeXpert)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -121,6 +147,9 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Understanding Blockchain Technology](https://www.udemy.com/course/understanding-blockchain-technology/)
 | [Ethereum](https://www.ludu.co/course/ethereum)
 | [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
+| [Solidity Smart Contract & Blockchain Development (in Farsi)](https://www.youtube.com/playlist?list=PLDwI1rIhknpNyUWdFt_XD6rpTEjTkUcYo) |
+| [Build a Practical NFT Ticketing Service with Solidity and React](https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c)
+| [Solidity 101: Introduction to smart contracts](https://www.defi-academy.com/courses/introduction-to-smart-contracts)
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -155,7 +184,20 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/raineorshine/solidity-by-example
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
 - https://github.com/name-can-be-blank-eth/web-3-libary
-
+- https://github.com/matter-labs/awesome-zero-knowledge-proofs
+- https://github.com/dethcrypto/TypeChain
+- https://github.com/jashmenn/bitcoin-reading-list
+- https://github.com/fravoll/solidity-patterns
+- https://github.com/l-henri/solidity-101
+- https://github.com/unstoppabledomains/decentralized-websites
+- https://github.com/rust-in-blockchain/awesome-blockchain-rust
+- https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit
+- https://github.com/0xpranay/solidity-notes
+- https://github.com/rust-unofficial/awesome-rust
+- https://github.com/dcbuild3r/blockchain-development-guide
+- https://github.com/nosequeldeebee/blockchain-tutorial
+- https://github.com/openblockchains/awesome-blockchains
+- https://github.com/nakov/practical-cryptography-for-developers-book
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -167,10 +209,12 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://www.freecodecamp.org/news/what-is-web3/amp/#click=https://t.co/93kxqzr3I4
 - https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/
 - https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
+- https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games
 - https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06
 - https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43
 - https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
+- https://lorisleiva.com/create-a-solana-dapp-from-scratch
 - https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
 - https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c
@@ -179,12 +223,15 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
 - https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e
-- https://investopedia.com/solidity
+- https://www.investopedia.com/terms/b/blockchain.asp
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 - https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
 - https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
 - https://secureum.substack.com/p/solidity-101
+- https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk
+- https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
+- https://blog.alchemy.com/blog/nft-deployment-cost
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -195,7 +242,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | Website                                                                                                         | About                                                                 |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | [Solidity Docs](https://docs.soliditylang.org)                                                                  | Solidity Tutorial Documentation                                       |
-| [Questbook](https://www.questbook.app)                                                                          | Questbook is a Decentralized University where learning is always free |
 | [Cryptodevhub](https://wiki.cryptodevhub.io/ethereum-evm/getting-started)                                       | Ethereum Virtual Machine - Getting Started                            |
 | [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html)    | Advanced Smart Contracts                                              |
 | [Solidity Tutorial - Learn x in y minutes](https://learnxinyminutes.com/docs/solidity)                          | Solidity Tutorial                                                     |
@@ -211,13 +257,18 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethspring Docs](https://docs.decentology.com/)                                                                 | Ethspring Documentation                                               |
 | [Hardhat Docs](https://hardhat.org/getting-started/)                                                            | Hardhat Documentation                                                 |
 | [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy Documentation                                                 |
-| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/) |Kauri.io Documentation                                                 |                    
+| [Solana Cookbook](https://solanacookbook.com) | Developer resource for building on Solana Blockchain                                                |
+| [Go Ethereum Docs](https://geth.ethereum.org/docs/) | Golang implementation of the Ethereum protocol Documentation                                                 |
+| [Rust Docs](https://www.rust-lang.org/learn) | Rust Documentation                                                 |
+| [Web3.py Docs](https://web3py.readthedocs.io/en/stable/) | Web3.py Documentation                                                 |
+| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/) | Kauri.io Documentation                                                 |       
+| [Polygon Docs](https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy) | Polygon Academy - Getting started with Polygon                     |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
 </div>
 
-## Recommendated Books
+## Recommended Books
 
 Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood
 
