@@ -238,13 +238,14 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Solidity Tutorial - Learn x in y minutes](https://learnxinyminutes.com/docs/solidity)                          | Solidity Tutorial                                                     |
 | [OpenZeppelin Docs](https://docs.openzeppelin.com/learn/)                                                       | OpenZeppelin Documentation                                            |
 | [OpenZeppelin by Ethernaut](https://ethernaut.openzeppelin.com/)                                                | OpenZeppelin Tutorials by Ethernaut                                   |
-| [Solidity Docs II](https://solidity.readthedocs.io/en/v0.7.3/)                                                  | Solidity Tutorial Documentation                                       |
+| [Solidity Docs II](https://solidity.readthedocs.io)                                                  | Solidity Tutorial Documentation                                       |
 | [Ethereum](https://eth-brownie.readthedocs.io/en/stable/index.html)                                             | Ethereum Tutorial                                                     |
 | [Remix IDE Docs](https://remix.ethereum.org)                                                                    | Remix Tutorial                                                        |
 | [Ethereum Docs](https://studio.ethereum.org/)                                                                   | Ethereum Tutorial                                                     |
 | [Vyper Docs](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)                                       | Vyper Tutorial                                                        |
 | [Decentology Docs](https://docs.decentology.com/)                                                               | Decentology Documentation                                             |
-| [Ethers Docs](https://docs.ethers.io/v5/)                                                                       | Ethers Documentation                                                  |
+| [Ethers.js Docs](https://docs.ethers.io)                                                                       | Ethers.js Documentation                                                  |
+| [Web3.js Docs](https://web3js.readthedocs.io)                                                                       | Web3.js Documentation                                                  |
 | [Ethspring Docs](https://docs.decentology.com/)                                                                 | Ethspring Documentation                                               |
 | [Hardhat Docs](https://hardhat.org/getting-started/)                                                            | Hardhat Documentation                                                 |
 | [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy Documentation                                                 |
