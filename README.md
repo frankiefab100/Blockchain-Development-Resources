@@ -73,6 +73,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Codiesalert](https://www.codiesalert.com/)           |
 | [Soliditytips](https://soliditytips.com/)           |
 | [Learnweb3](https://web3learn.io/)           |
+| [NFTPort](https://nftport.xyz/)           |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -256,7 +257,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Go Ethereum Docs](https://geth.ethereum.org/docs/) | Golang implementation of the Ethereum protocol Documentation                                                 |
 | [Rust Docs](https://www.rust-lang.org/learn) | Rust Documentation                                                 |
 | [Web3.py Docs](https://web3py.readthedocs.io/en/stable/) | Web3.py Documentation                                                 |
-| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/) | Kauri.io Documentation                                                 |       
+| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/) | Kauri.io Documentation                                                 |
 | [Polygon Docs](https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy) | Polygon Academy - Getting started with Polygon                     |
 
 <div align="right">
