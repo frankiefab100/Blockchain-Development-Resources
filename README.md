@@ -72,6 +72,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Soldev](https://soldev.app/)           |
 | [Codiesalert](https://www.codiesalert.com/)           |
 | [Soliditytips](https://soliditytips.com/)           |
+| [Learnweb3](https://web3learn.io/)           |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
@@ -120,6 +121,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)|
 | [Block Explorer](https://youtube.com/c/BlockExplorerMedia)|
 | [CodeXpert](https://youtube.com/c/CodeXpert)|
+| [Learn Web3](https://youtube.com/channel/UCjl8iG0tFvwyLapBPluLfKw)           |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
