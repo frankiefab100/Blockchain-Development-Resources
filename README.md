@@ -191,6 +191,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/openblockchains/awesome-blockchains
 - https://github.com/nakov/practical-cryptography-for-developers-book
 - https://github.com/James-Sangalli/learn-solidity-with-examples
+https://github.com/sigp/solidity-security-blog
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
