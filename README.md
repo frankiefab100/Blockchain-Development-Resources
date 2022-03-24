@@ -123,7 +123,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [CodeXpert](https://youtube.com/c/CodeXpert)|
 | [Learn Web3](https://youtube.com/channel/UCjl8iG0tFvwyLapBPluLfKw)           |
 | [Edureka](https://www.youtube.com/watch?v=9qfxLo1rt1Q&list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1)           |
-
+| [Code Eater](https://www.youtube.com/c/CodeEater21)           |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
