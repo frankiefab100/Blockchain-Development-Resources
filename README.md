@@ -135,7 +135,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 |                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Solidity, Blockchain, and Smart Contract Course â€“ Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) |
-| [Complete DApp Solidity React Blockchain Development](https://www.udemy.com/course/complete-dapp-solidity-react-blockchain-development/?ranMID=39197&ranEAID=*7W41uFlkSs&ranSiteID=.7W41uFlkSs-o.8BWADwBI0nLp5Es8wKeA&LSNPUBID=*7W41uFlkSs&utm_source=aff-campaign&utm_medium=udemyads&couponCode=08B60E5B24443063AF7B) |
 | [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)|
 | [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
 | [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)
@@ -143,9 +142,9 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Understanding Blockchain Technology](https://www.udemy.com/course/understanding-blockchain-technology/)
 | [Ethereum](https://www.ludu.co/course/ethereum)
 | [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
-| [Solidity Smart Contract & Blockchain Development (in Farsi)](https://www.youtube.com/playlist?list=PLDwI1rIhknpNyUWdFt_XD6rpTEjTkUcYo) |
+| [Solidity Smart Contract & Blockchain Development (in Farsi)](https://www.youtube.com/playlist?list=PLDwI1rIhknpNyUWdFt_XD6rpTEjTkUcYo) 
 | [Build a Practical NFT Ticketing Service with Solidity and React](https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c)
-| [Solidity 101: Introduction to smart contracts](https://www.defi-academy.com/courses/introduction-to-smart-contracts)
+| [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
