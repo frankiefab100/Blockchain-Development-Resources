@@ -62,7 +62,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Tacode](https://tacode.dev)                               |
 | [NFTschool](https://nftschool.dev)                         |
 | [StartonSolana](https://www.startonsolana.com/)              |
-| [101 Blockchains](https://101blockchains.com)              |
+| [101 Blockchains](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
 | [Blockonomi](https://blockonomi.com/education/)            |
 | [CryptoLectures](https://cryptolectures.teachable.com/)    |
