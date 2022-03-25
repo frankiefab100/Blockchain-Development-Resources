@@ -125,6 +125,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Edureka](https://www.youtube.com/watch?v=9qfxLo1rt1Q&list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1)           |
 | [Code Eater](https://www.youtube.com/c/CodeEater21)           |
 | [Mobilefish.com](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x)           |
+| [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)           |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
