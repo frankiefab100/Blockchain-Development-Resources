@@ -229,6 +229,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
 - https://blog.alchemy.com/blog/nft-deployment-cost
 - https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/
+- https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
