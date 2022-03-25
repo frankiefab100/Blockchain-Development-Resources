@@ -62,7 +62,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Tacode](https://tacode.dev)                               |
 | [NFTschool](https://nftschool.dev)                         |
 | [StartonSolana](https://www.startonsolana.com/)              |
-| [101 Blockchains](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
 | [Blockonomi](https://blockonomi.com/education/)            |
 | [CryptoLectures](https://cryptolectures.teachable.com/)    |
@@ -148,6 +147,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Solidity Smart Contract & Blockchain Development (in Farsi)](https://www.youtube.com/playlist?list=PLDwI1rIhknpNyUWdFt_XD6rpTEjTkUcYo) 
 | [Build a Practical NFT Ticketing Service with Solidity and React](https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c)
 | [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)
+| [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
