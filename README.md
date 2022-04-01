@@ -183,7 +183,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/raineorshine/solidity-by-example
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
-- https://github.com/name-can-be-blank-eth/web-3-libary
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
@@ -301,8 +300,6 @@ How to DeFi - Darren Lau et al
 The Blockchain Developer:  A practical guide  - Elad Elrom
 
 Token Economy : How the Web3 reinvents the internet - Hermin Voshmgir
-
-The Book of Satoshi: The Collected Writings of Bitcoin Creator - Phil Champagne
 
 
 <div align="right">
