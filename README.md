@@ -38,7 +38,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [The Blockchain School](Theblockchainschool.io)                       |
 | [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)     |
 | [Blockchain dev1000](https://blockchaindev1000.com/)                  |
-| [Web3devs](https://web3devs.com)                                      |
 | [ProtoSchool](https://proto.school/tutorials)                         |
 | [Dacade](https://dacade.org)                                          |
 | [Figment](https://learn.figment.io)                                   |
