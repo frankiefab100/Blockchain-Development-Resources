@@ -236,6 +236,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
 - https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 - https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
+- https://web3devs.com/how-does-blockchain-work-guide-for-businesses/
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
