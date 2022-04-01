@@ -119,7 +119,6 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)    |
 | [Finematics](https://www.youtube.com/c/Finematics)|
 | [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)|
-|  [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)|
 | [Blockholic](https://youtube.com/c/Blockholic)|
 | [Blockchain at Berkeley](https://youtube.com/c/BlockchainatBerkeley)|
 | [Vlad Wulf](https://youtube.com/channel/UCsVoOobxAQL6NbWY2t6E6Sg)|
@@ -129,6 +128,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)|
 | [Block Explorer](https://youtube.com/c/BlockExplorerMedia)|
 | [CodeXpert](https://youtube.com/c/CodeXpert)|
+| [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)|
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
