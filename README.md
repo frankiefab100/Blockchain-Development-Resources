@@ -63,6 +63,18 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [NFTschool](https://nftschool.dev)                         |
 | [StartonSolana](https://www.startonsolana.com/)              |
 | [Blockgeeks](https://blockgeeks.com)                       |
+| [Blockonomi](https://blockonomi.com)                       |
+| [Buildspace](https://buildspace.so)                        |
+| [EthereumDev](https://ethereumdev.io/)                     |
+| [ProtoSchool](https://proto.school/tutorials)              |
+| [Dacade](https://dacade.org)                               |
+| [Figment](https://learn.figment.io)                        |
+| [Finematics](https://finematics.com)                       |
+| [Near University](https://www.near.university/learn/by-yourself)                |
+| [Blockchain Edu](https://learn.blockchainedu.org)                |
+| [Aepps](http://studio.aepps.com)                |
+| [Zastrin](https://www.zastrin.com/#courses)                |
+| [learn web3 DAO](https://www.learnweb3.io/)               |
 | [Blockonomi](https://blockonomi.com/education/)            |
 | [CryptoLectures](https://cryptolectures.teachable.com/)    |
 | [Snakecharmers](https://snakecharmers.ethereum.org/) |
@@ -122,6 +134,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)|
 | [Block Explorer](https://youtube.com/c/BlockExplorerMedia)|
 | [CodeXpert](https://youtube.com/c/CodeXpert)|
+| [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)|
 | [Learn Web3](https://youtube.com/channel/UCjl8iG0tFvwyLapBPluLfKw)           |
 | [Edureka](https://www.youtube.com/watch?v=9qfxLo1rt1Q&list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1)           |
 | [Code Eater](https://www.youtube.com/c/CodeEater21)           |
