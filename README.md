@@ -30,48 +30,48 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 
 ## Websites
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| [Consensys Academy](https://consensys.net/academy/)                   |
-| [Ethereum.org](https://ethereum.org/en/developers/tutorials/)         |
-| [Questbook](https://www.questbook.app)                                |
-| [The Blockchain School](Theblockchainschool.io)                       |
-| [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)     |
-| [Blockchain dev1000](https://blockchaindev1000.com/)                  |
-| [ProtoSchool](https://proto.school/tutorials)                         |
-| [Dacade](https://dacade.org)                                          |
-| [Figment](https://learn.figment.io)                                   |
-| [Finematics](https://finematics.com)                                  |
-| [Near University](https://www.near.university/learn/by-yourself)      |
-| [Kerala Blockchain Academy](https://kba.ai)                           |
-| [DApp University](https://www.dappuniversity.com/)                    |
-| [Blockchain Hub](https://blockchainhub.net)                           |
-| [Buildspace](https://buildspace.so)                                   |
-| [EthereumDev](https://ethereumdev.io/)                                |
-| [We teach Blockchain](https://weteachblockchain.org)                  |
-| [UseWeb3](https://useweb3.xyz)                                        |
-| [Blockchain Edu](https://learn.blockchainedu.org)                     |
-| [Web3 University](https://www.web3.university/)                       |
-| [Aepps](http://studio.aepps.com)                                      |
-| [Zastrin](https://www.zastrin.com/#courses)                           |
-| [Chainshot](https://www.chainshot.com/)                               |
-| [Althash University](https://www.althash.university)                  |
-| [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/) |
-| [Cadena](https://cadena.dev)                                          |
-| [Tacode](https://tacode.dev)                                          |
-| [NFTschool](https://nftschool.dev)                                    |
-| [StartonSolana](https://www.startonsolana.com/)                       |
-| [Blockgeeks](https://blockgeeks.com)                                  |
-| [Blockonomi](https://blockonomi.com/education/)                       |
-| [CryptoLectures](https://cryptolectures.teachable.com/)               |
-| [Snakecharmers](https://snakecharmers.ethereum.org/)                  |
-| [Metaschool](https://metaschool.so/)                                  |
-| [Pointer](https://www.pointer.gg/)                                    |
-| [Soldev](https://soldev.app/)                                         |
-| [Codiesalert](https://www.codiesalert.com/)                           |
-| [Soliditytips](https://soliditytips.com/)                             |
-| [Learnweb3](https://web3learn.io/)                                    |
-| [Cryptopedia](https://www.gemini.com/cryptopedia)                     |
+|                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- |
+| [Consensys Academy](https://consensys.net/academy/)                                                            |
+| [Ethereum.org](https://ethereum.org/en/developers/tutorials/)                                                  |
+| [Questbook](https://www.questbook.app)                                                                         |
+| [The Blockchain School](Theblockchainschool.io)                                                                |
+| [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)                                              |
+| [Blockchain dev1000](https://blockchaindev1000.com/)                                                           |
+| [ProtoSchool](https://proto.school/tutorials)                                                                  |
+| [Dacade](https://dacade.org)                                                                                   |
+| [Figment](https://learn.figment.io)                                                                            |
+| [Finematics](https://finematics.com)                                                                           |
+| [Near University](https://www.near.university/learn/by-yourself)                                               |
+| [Kerala Blockchain Academy](https://kba.ai)                                                                    |
+| [DApp University](https://www.dappuniversity.com/)                                                             |
+| [Blockchain Hub](https://blockchainhub.net)                                                                    |
+| [Buildspace](https://buildspace.so)                                                                            |
+| [EthereumDev](https://ethereumdev.io/)                                                                         |
+| [We teach Blockchain](https://weteachblockchain.org)                                                           |
+| [UseWeb3](https://useweb3.xyz)                                                                                 |
+| [Blockchain Edu](https://learn.blockchainedu.org)                                                              |
+| [Web3 University](https://www.web3.university/)                                                                |
+| [Aepps](http://studio.aepps.com)                                                                               |
+| [Zastrin](https://www.zastrin.com/)                                                                            |
+| [Chainshot](https://www.chainshot.com/)                                                                        |
+| [Althash University](https://www.althash.university/colleges-schools/blockchain-internship-youth-program-biyp) |
+| [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/)                                          |
+| [Cadena](https://cadena.dev)                                                                                   |
+| [Tacode](https://tacode.dev)                                                                                   |
+| [NFTschool](https://nftschool.dev)                                                                             |
+| [StartonSolana](https://www.startonsolana.com/)                                                                |
+| [Blockgeeks](https://blockgeeks.com)                                                                           |
+| [Blockonomi](https://blockonomi.com/education/)                                                                |
+| [CryptoLectures](https://cryptolectures.teachable.com/)                                                        |
+| [Snakecharmers](https://snakecharmers.ethereum.org/)                                                           |
+| [Metaschool](https://metaschool.so/)                                                                           |
+| [Pointer](https://www.pointer.gg/)                                                                             |
+| [Soldev](https://soldev.app/)                                                                                  |
+| [Codiesalert](https://www.codiesalert.com/)                                                                    |
+| [Soliditytips](https://soliditytips.com/)                                                                      |
+| [Learnweb3](https://web3learn.io/)                                                                             |
+| [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
