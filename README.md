@@ -115,6 +115,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Ethereum Engineering Group](https://youtube.com/c/EthereumEngineeringGroup)                          |
 | [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)                                     |
 | [Center for Innovative Finance](https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg)             |
+| [Web3 Foundation](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)|
 | [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)                                                   |
 | [Block Explorer](https://youtube.com/c/BlockExplorerMedia)                                            |
 | [CodeXpert](https://youtube.com/c/CodeXpert)                                                          |
