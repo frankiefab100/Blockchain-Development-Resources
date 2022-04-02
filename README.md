@@ -124,6 +124,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Code Eater](https://www.youtube.com/c/CodeEater21)                                                   |
 | [Mobilefish.com](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x) |
 | [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)    |
+| [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)    |
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
