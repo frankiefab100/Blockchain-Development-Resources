@@ -35,9 +35,10 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Consensys Academy](https://consensys.net/academy/)                                                            |
 | [Ethereum.org](https://ethereum.org/en/developers/tutorials/)                                                  |
 | [Questbook](https://www.questbook.app)                                                                         |
-| [The Blockchain School](Theblockchainschool.io)                                                                |
+| [Buildspace](https://buildspace.so)                                                                            |
+| [Learnweb3](https://web3learn.io/)                                                                             |
+| [The Blockchain School](https://theblockchainschool.io)                                                        |
 | [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)                                              |
-| [Blockchain dev1000](https://blockchaindev1000.com/)                                                           |
 | [ProtoSchool](https://proto.school/tutorials)                                                                  |
 | [Dacade](https://dacade.org)                                                                                   |
 | [Figment](https://learn.figment.io)                                                                            |
@@ -45,32 +46,28 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 | [Near University](https://www.near.university/learn/by-yourself)                                               |
 | [Kerala Blockchain Academy](https://kba.ai)                                                                    |
 | [DApp University](https://www.dappuniversity.com/)                                                             |
+| [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/)                                          |
 | [Blockchain Hub](https://blockchainhub.net)                                                                    |
-| [Buildspace](https://buildspace.so)                                                                            |
 | [EthereumDev](https://ethereumdev.io/)                                                                         |
-| [We teach Blockchain](https://weteachblockchain.org)                                                           |
 | [UseWeb3](https://useweb3.xyz)                                                                                 |
 | [Blockchain Edu](https://learn.blockchainedu.org)                                                              |
 | [Web3 University](https://www.web3.university/)                                                                |
-| [Aepps](http://studio.aepps.com)                                                                               |
 | [Zastrin](https://www.zastrin.com/)                                                                            |
+| [Metaschool](https://metaschool.so/)                                                                           |
 | [Chainshot](https://www.chainshot.com/)                                                                        |
 | [Althash University](https://www.althash.university/colleges-schools/blockchain-internship-youth-program-biyp) |
-| [Ethereum Blockchain Dev](https://ethereum-blockchain-developer.com/)                                          |
+| [We teach Blockchain](https://weteachblockchain.org/courses)                                                   |
 | [Cadena](https://cadena.dev)                                                                                   |
 | [Tacode](https://tacode.dev)                                                                                   |
 | [NFTschool](https://nftschool.dev)                                                                             |
 | [StartonSolana](https://www.startonsolana.com/)                                                                |
 | [Blockgeeks](https://blockgeeks.com)                                                                           |
-| [Blockonomi](https://blockonomi.com/education/)                                                                |
 | [CryptoLectures](https://cryptolectures.teachable.com/)                                                        |
 | [Snakecharmers](https://snakecharmers.ethereum.org/)                                                           |
-| [Metaschool](https://metaschool.so/)                                                                           |
 | [Pointer](https://www.pointer.gg/)                                                                             |
 | [Soldev](https://soldev.app/)                                                                                  |
 | [Codiesalert](https://www.codiesalert.com/)                                                                    |
 | [Soliditytips](https://soliditytips.com/)                                                                      |
-| [Learnweb3](https://web3learn.io/)                                                                             |
 | [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
 
 <div align="right">
@@ -237,6 +234,7 @@ _If you appreciate these contents, don't forget to give this repository a Starâ­
 - https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 - https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
 - https://web3devs.com/how-does-blockchain-work-guide-for-businesses/
+- https://blockonomi.com/solidity-tutorial/
 
 <div align="right">
     <b><a href="#table-of-contents">â†¥ Back To Top</a></b>
