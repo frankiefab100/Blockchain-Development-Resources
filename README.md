@@ -6,11 +6,11 @@
 
 A curated list of FREE resources for learning blockchain development and web3 in general. Featuring free learning platforms, websites, online courses, tutorials, documentations, games, articles and books; useful for blockchain enthusiasts, engineers, crypto enthusiasts, developers, designers and stakeholders in the web3 space.
 
-It comprises of links to range of topics like Introduction to Blockchain technology, Web3 and revolution of the Internet, deployment of smart contracts on Ethereum, Solana, Aeternity, Polygon, Celo and other EVM-compatible Blockchain networks, Minting of NFTs, building decentralized applications (DApps), lending protocols and tokens, creating decentralized  autonomous organizations (DAOs), fundamentals of cryptography and distributed ledger technology,  understanding decentralized finance, How-to-use tutorials on Blockchain development tools & technologies - **RemixIDE, Metamask, Hardhat, Web3js, Ganache, Ethersjs, Truffle, OpenZeppelin, Infura, IPFS**; including programming languages for writing smart contracts - **Solidity, Vyper, Rust, Golang, Sophia**.
+It comprises of links to range of topics like Introduction to Blockchain technology, Web3 and revolution of the Internet, deployment of smart contracts on Ethereum, Solana, Aeternity, Polygon, Celo and other EVM-compatible Blockchain networks, Minting of NFTs, building decentralized applications (DApps), lending protocols and tokens, creating decentralized  autonomous organizations (DAOs), fundamentals of cryptography and distributed ledger technology,  understanding decentralized finance, How-to-use tutorials on Blockchain development tools & technologies - **RemixIDE, Metamask, Hardhat, Web3js, Ganache, Ethersjs, Web3py, Truffle, OpenZeppelin, Infura, IPFS**; including programming languages for writing smart contracts - **Solidity, Vyper, Rust, Golang, Sophia**.
 
 #### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue
 
-_If you really appreciate the content of this repository, don't forget to give  a Star⭐ and/or Tweet about it_
+_If you really appreciate the content of this repository, don't forget to give it a Star⭐ and/or Tweet about it_
 
 ---
 
@@ -124,6 +124,7 @@ _If you really appreciate the content of this repository, don't forget to give  
 | [Mobilefish.com](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x) |
 | [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)    |
 | [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)    |
+| [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -195,6 +196,7 @@ _If you really appreciate the content of this repository, don't forget to give  
 - https://github.com/nakov/practical-cryptography-for-developers-book
 - https://github.com/James-Sangalli/learn-solidity-with-examples
 - https://github.com/sigp/solidity-security-blog
+- https://github.com/aeternity/awesome-aeternity
 - https://github.com/frankiefab100/Web3.0-Roadmap
 
 <div align="right">
@@ -277,6 +279,8 @@ _If you really appreciate the content of this repository, don't forget to give  
 </div>
 
 ## Recommended Books
+
+Bitcoin White Paper: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto
 
 Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood
 
