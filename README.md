@@ -4,13 +4,14 @@
 
 # Blockchain Development Resources
 
-A curated list of FREE resources for learning blockchain development and web3 in general. Featuring free learning platforms, websites, online courses, tutorials, documentations, games, articles and books; useful for blockchain enthusiasts, engineers, crypto enthusiasts, developers, designers and stakeholders in the web3 space.
+The contents of this repository will help you launch a career in Blockchain development. It contains useful websites, courses, tutorials, articles, practical guides and books for blockchain enthusiasts, engineers, crypto traders, developers, designers and stakeholders in the Crypto space.
 
-It comprises of links to range of topics like Introduction to Blockchain technology, Web3 and revolution of the Internet, deployment of smart contracts on Ethereum, Solana, Aeternity, Polygon, Celo and other EVM-compatible Blockchain networks, Minting of NFTs, building decentralized applications (DApps), lending protocols and tokens, creating decentralized  autonomous organizations (DAOs), fundamentals of cryptography and distributed ledger technology,  understanding decentralized finance, How-to-use tutorials on Blockchain development tools & technologies - **RemixIDE, Metamask, Hardhat, Web3js, Ganache, Ethersjs, Truffle, OpenZeppelin, Infura, IPFS**; including programming languages for writing smart contracts **Solidity, Vyper, Rust, Golang, Sophia**.
+FREE Learning resources on how to deploy smart contracts on Ethereum, build DApps, DeFi, DEX, DAO, NFTs and Token protocol.
+It also comprises of How-to-use tutorials on Blockchain engineering tools & technologies - **Solidity, Vyper, Rust, Hardhat, Web3js, Ganache, RemixIDE, Metamask, Ethersjs, Truffle, OpenZeppelin, Infura, IPFS, Reactjs etc**
 
-#### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue
+#### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue.
 
-_If you really appreciate the content of this repository, don't forget to give  a Star⭐ and/or Tweet about it_
+_If you appreciate these contents, don't forget to give this repository a Star⭐_
 
 ---
 
@@ -153,48 +154,48 @@ _If you really appreciate the content of this repository, don't forget to give  
 
 ## Github Repositories
 
-- <https://github.com/smartcontractkit/full-blockchain-solidity-course-py>
-- <https://github.com/jklepatch/eattheblocks>
-- <https://github.com/benstew/blockchain-for-software-engineers>
-- <https://github.com/crytic/awesome-ethereum-security>
-- <https://github.com/iearn-finance/yearn-starter-pack>
-- <https://github.com/pbrudny/learning-solidity-2018>
-- <https://github.com/OffcierCia/DeFi-Developer-Road-Map>
-- <https://github.com/ConsenSys/ethereum-developer-tools-list>
-- <https://github.com/yjjnls/awesome-blockchain>
-- <https://github.com/protofire/blockchain-learning-path>
-- <https://github.com/bkrem/awesome-solidity>
-- <https://github.com/BlockchainBooks/blockchainbooks.github.io>
-- <https://github.com/jpantunes/awesome-cryptoeconomics>
-- <https://github.com/OpenZeppelin/awesome-openzeppelin>
-- <https://github.com/coinpride/CryptoList>
-- <https://github.com/BlockchainLabsNZ/awesome-solidity>
-- <https://github.com/ErichDylus/Smart-Contract-Resources>
-- <https://github.com/dapphub/dapptools#installation>
-- <https://github.com/NoahZinsmeister/web3-react>
-- <https://github.com/crytic/building-secure-contracts>
-- <https://github.com/decentology/web2-to-web3-resources>
-- <https://github.com/dapphub/dapptools>
-- <https://github.com/OffcierCia/ultimate-defi-research-base>
-- <https://github.com/matter-labs/awesome-zero-knowledge-proofs>
-- <https://github.com/raineorshine/solidity-by-example>
-- <https://github.com/DavidJohnstonCEO/DecentralizedApplications>
-- <https://github.com/matter-labs/awesome-zero-knowledge-proofs>
-- <https://github.com/dethcrypto/TypeChain>
-- <https://github.com/jashmenn/bitcoin-reading-list>
-- <https://github.com/fravoll/solidity-patterns>
-- <https://github.com/l-henri/solidity-101>
-- <https://github.com/unstoppabledomains/decentralized-websites>
-- <https://github.com/rust-in-blockchain/awesome-blockchain-rust>
-- <https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit>
-- <https://github.com/0xpranay/solidity-notes>
-- <https://github.com/rust-unofficial/awesome-rust>
-- <https://github.com/dcbuild3r/blockchain-development-guide>
-- <https://github.com/nosequeldeebee/blockchain-tutorial>
-- <https://github.com/openblockchains/awesome-blockchains>
-- <https://github.com/nakov/practical-cryptography-for-developers-book>
-- <https://github.com/James-Sangalli/learn-solidity-with-examples>
-- <https://github.com/sigp/solidity-security-blog>
+- https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+- https://github.com/jklepatch/eattheblocks
+- https://github.com/benstew/blockchain-for-software-engineers
+- https://github.com/crytic/awesome-ethereum-security
+- https://github.com/iearn-finance/yearn-starter-pack
+- https://github.com/pbrudny/learning-solidity-2018
+- https://github.com/OffcierCia/DeFi-Developer-Road-Map
+- https://github.com/ConsenSys/ethereum-developer-tools-list
+- https://github.com/yjjnls/awesome-blockchain
+- https://github.com/protofire/blockchain-learning-path
+- https://github.com/bkrem/awesome-solidity
+- https://github.com/BlockchainBooks/blockchainbooks.github.io
+- https://github.com/jpantunes/awesome-cryptoeconomics
+- https://github.com/OpenZeppelin/awesome-openzeppelin
+- https://github.com/coinpride/CryptoList
+- https://github.com/BlockchainLabsNZ/awesome-solidity
+- https://github.com/ErichDylus/Smart-Contract-Resources
+- https://github.com/dapphub/dapptools#installation
+- https://github.com/NoahZinsmeister/web3-react
+- https://github.com/crytic/building-secure-contracts
+- https://github.com/decentology/web2-to-web3-resources
+- https://github.com/dapphub/dapptools
+- https://github.com/OffcierCia/ultimate-defi-research-base
+- https://github.com/matter-labs/awesome-zero-knowledge-proofs
+- https://github.com/raineorshine/solidity-by-example
+- https://github.com/DavidJohnstonCEO/DecentralizedApplications
+- https://github.com/matter-labs/awesome-zero-knowledge-proofs
+- https://github.com/dethcrypto/TypeChain
+- https://github.com/jashmenn/bitcoin-reading-list
+- https://github.com/fravoll/solidity-patterns
+- https://github.com/l-henri/solidity-101
+- https://github.com/unstoppabledomains/decentralized-websites
+- https://github.com/rust-in-blockchain/awesome-blockchain-rust
+- https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit
+- https://github.com/0xpranay/solidity-notes
+- https://github.com/rust-unofficial/awesome-rust
+- https://github.com/dcbuild3r/blockchain-development-guide
+- https://github.com/nosequeldeebee/blockchain-tutorial
+- https://github.com/openblockchains/awesome-blockchains
+- https://github.com/nakov/practical-cryptography-for-developers-book
+- https://github.com/James-Sangalli/learn-solidity-with-examples
+- https://github.com/sigp/solidity-security-blog
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -202,40 +203,40 @@ _If you really appreciate the content of this repository, don't forget to give  
 
 ## Articles
 
-- <https://www.freecodecamp.org/news/what-is-web3/amp/#click=https://t.co/93kxqzr3I4>
-- <https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/>
-- <https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13>
-- <https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games>
-- <https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06>
-- <https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43>
-- <https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m>
-- <https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/>
-- <https://lorisleiva.com/create-a-solana-dapp-from-scratch>
-- <https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c>
-- <https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6>
-- <https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c>
-- <https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/>
-- <https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/>
-- <https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum>
-- <https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf>
-- <https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e>
-- <https://www.investopedia.com/terms/b/blockchain.asp>
-- <https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew>
-- <https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/>
-- <https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/>
-- <https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46>
-- <https://secureum.substack.com/p/solidity-101>
-- <https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk>
-- <https://karl.tech/>
-- <https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/>
-- <https://blog.alchemy.com/blog/nft-deployment-cost>
-- <https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/>
-- <https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial>
-- <https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369>
-- <https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274>
-- <https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3>
-- <https://web3devs.com/how-does-blockchain-work-guide-for-businesses/>
-- <https://blockonomi.com/solidity-tutorial/>
+- https://www.freecodecamp.org/news/what-is-web3/amp/#click=https://t.co/93kxqzr3I4
+- https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/
+- https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
+- https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games
+- https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06
+- https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43
+- https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m
+- https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
+- https://lorisleiva.com/create-a-solana-dapp-from-scratch
+- https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c
+- https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
+- https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c
+- https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
+- https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
+- https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
+- https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
+- https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e
+- https://www.investopedia.com/terms/b/blockchain.asp
+- https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
+- https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+- https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
+- https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
+- https://secureum.substack.com/p/solidity-101
+- https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk
+- https://karl.tech/
+- https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
+- https://blog.alchemy.com/blog/nft-deployment-cost
+- https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/
+- https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial
+- https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+- https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
+- https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
+- https://web3devs.com/how-does-blockchain-work-guide-for-businesses/
+- https://blockonomi.com/solidity-tutorial/
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
