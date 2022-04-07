@@ -1,16 +1,16 @@
 ![BDR header](https://user-images.githubusercontent.com/46662771/132558872-9fb63b1d-5c15-470a-8a84-23464519ff15.jpg)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Blockchain%20Development%20Resources%20-%20A%20collection%20of%20FREE%20blockchain%20development%20Learning%20resources%20by%20@frankiefab100&url=https://github.com/frankiefab100/Blockchain-Development-Resources&hashtags=blockchaindevelopment,web3,ethereum,smartcontract,blockchaindeveloper,solidity) [![Twitter Follow](https://img.shields.io/twitter/follow/frankiefab100?style=social)](https://twitter.com/frankiefab100)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Blockchain%20Development%20Resources%20-%20A%20collection%20of%20FREE%20blockchain%20development%20learning%20resources%20by%20@frankiefab100&url=https://github.com/frankiefab100/Blockchain-Development-Resources&hashtags=blockchaindevelopment,web3,ethereum,smartcontract,blockchaindeveloper,solidity) [![Twitter Follow](https://img.shields.io/twitter/follow/frankiefab100?style=social)](https://twitter.com/frankiefab100)
 
 # Blockchain Development Resources
 
 A curated list of FREE resources for learning blockchain development and web3 in general. Featuring free learning platforms, websites, online courses, tutorials, documentations, games, articles and books; useful for blockchain enthusiasts, engineers, crypto enthusiasts, developers, designers and stakeholders in the web3 space.
 
-It comprises of links to range of topics like Introduction to Blockchain technology, Web3 and revolution of the Internet, deployment of smart contracts on Ethereum, Solana, Aeternity, Polygon, Celo and other EVM-compatible Blockchain networks, Minting of NFTs, building decentralized applications (DApps), lending protocols and tokens, creating decentralized  autonomous organizations (DAOs), fundamentals of cryptography and distributed ledger technology,  understanding decentralized finance, How-to-use tutorials on Blockchain development tools & technologies - **RemixIDE, Metamask, Hardhat, Web3js, Ganache, Ethersjs, Web3py, Truffle, OpenZeppelin, Infura, IPFS**; including programming languages for writing smart contracts - **Solidity, Vyper, Rust, Golang, Sophia**.
+It comprises of links to range of topics like Introduction to Blockchain technology, Web3 and revolution of the Internet, deployment of smart contracts on Ethereum, Solana, Aeternity, Polygon, Celo and other EVM-compatible Blockchain networks, Minting of NFTs, building decentralized applications (DApps), lending protocols and tokens, creating decentralized  autonomous organizations (DAOs), fundamentals of cryptography and distributed ledger technology,  understanding decentralized finance, How-to-use tutorials on Blockchain development tools and technologies - **RemixIDE, Metamask, Hardhat, Web3js, Ganache, Ethersjs, Web3py, Truffle, OpenZeppelin, Infura, IPFS**; including programming languages for writing smart contracts - **Solidity, Vyper, Rust, Golang, Sophia**.
 
-#### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue
+#### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue.
 
-_If you really appreciate the content of this repository, don't forget to give it a Star⭐ and/or Tweet about it_
+_If you really appreciate the content of this repository, don't forget to give it a Star⭐ and/or Tweet about it_.
 
 ---
 
@@ -21,8 +21,9 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Youtube Channels](#youtube-channels)
 - [Free Online Courses](#free-online-courses)
 - [Github Repositories](#github-repositories)
+- [Tutorial Docs](#tutorial-docs)
+- [Tools](#tools)
 - [Articles](#articles)
-- [Documentations](#documentations)
 - [Recommended Books](#recommended-books)
 
 ---
@@ -53,6 +54,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Web3 University](https://www.web3.university/)                                                                |
 | [Zastrin](https://www.zastrin.com/)                                                                            |
 | [Metaschool](https://metaschool.so/)                                                                           |
+| [LearnWeb3 DAO](https://www.learnweb3.io)                                                                           |
 | [Chainshot](https://www.chainshot.com/)                                                                        |
 | [Althash University](https://www.althash.university/colleges-schools/blockchain-internship-youth-program-biyp) |
 | [We teach Blockchain](https://weteachblockchain.org/courses)                                                   |
@@ -205,6 +207,61 @@ _If you really appreciate the content of this repository, don't forget to give i
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
+## Tutorial Docs
+
+| Tutorial                                                                                                          | Description                                                        |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [Blockchain Development Tutorial](https://cryptodevhub.io/wiki/blockchain-development-tutorial)                               | Getting Started with Blockchain Development by CryptoDev Hub                 |
+| [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html)    | Advanced Smart Contracts by George Brown College                                    |
+| [Getting started with Blockchain](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)        | Getting started with Blockchain by Kauri  |
+| [Ethereum Blockchain Development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development)      | Get started with blockchain development by Microsoft       |
+| [Hello World Smart Contracts](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Smart Contract Tutorial by Alchemy                                        |
+| [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity)                          | Solidity Tutorial by Learn-x-in-y-minutes                                           |
+| [Solidity Docs](https://solidity.readthedocs.io)                                                             | Solidity Tutorial                                   |
+| [OpenZeppelin Docs](https://ethernaut.openzeppelin.com/)                                           | OpenZeppelin Tutorials by Ethernaut                          |
+| [Polygon Docs](https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy)            | Getting started with Polygon by Polygon Academy |
+| [Ethereum Docs](https://studio.ethereum.org/)                   | Ethereum Tutorial                                            |
+| [Decentology Docs](https://docs.decentology.com/)                                                               | Ethspring by Decentology                              |
+| [Solana Docs](https://docs.solana.com/)      | Solana Documentation        |
+| [NEAR Docs](https://docs.near.org/docs/tutorials/overview)      | NEAR Documentation        |
+| [Terra Docs](https://docs.terra.money/docs/develop/sdks/terra-js/)      | Terra Documentation        |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
+## Tools
+> ETHEREUM & EVM ecosystem
+
+|   Tool        | Description                                                                 |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Remix IDE](https://remix.ethereum.org)                                                            |  An online Integrated Development Environment used to write, compile, debug and deploy solidity code for smart contracts                                                                              |
+| [EthFiddle](https://100dailyui.webflow.io/)                                                           | A solidity browser-based development tool                                                         |
+| [Solidity](https://docs.soliditylang.org)                                                  |  An object-oriented, high-level language for implementing smart contracts on Ethereum Virtual Machine
+| [Metamask](https://docs.metamask.io/guide)                                                |  A wallet extension for accessing and injecting the Ethereum web3 API
+| [Truffle Suite](https://trufflesuite.com/doc)                                               |  Development environment, testing framework and asset pipeline for blockchains using the EVM
+| [Web3.js](https://web3js.readthedocs.io)                                               |  A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+| [Hardhat](https://hardhat.org/getting-started/)                                               |  An Ethereum development environment that helps developers manage and automate the recurring tasks inherent to building smart contracts and DApps.
+| [Ethers.js](https://docs.ethers.io)                                               | A compact library for interacting with the Ethereum Blockchain and its ecosystem
+| [Vyper](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)                                                |  Smart contract language similar to Python programming language syntax
+| [Web3.py](https://web3py.readthedocs.io)                                                |  A Python library for interacting with Ethereum, inspired by web3.js.
+| [Go Ethereum](https://geth.ethereum.org/docs/)                                                 |  Golang implementation of Ethereum protocol
+| [Brownie](https://eth-brownie.readthedocs.io)                                                |  A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine
+| [OpenZeppelin](https://docs.openzeppelin.com/learn/)                                               |   A library for secure smart contract development and community-vetted code
+
+> SOLANA
+
+Tool/Resource        |           Description    |
+---------------------------------------|---------------------------------------|
+ [Solana Cookbook](https://solanacookbook.com) | Developer resource for building on Solana Blockchain |
+[Rust](https://www.rust-lang.org/learn)  | Programming language for writing smart contracts on Solana Blockchain |
+[Solang](https://solang.readthedocs.io/)  | Solidity Compiler for Solana |
+
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>  
+
 ## Articles
 
 - https://www.freecodecamp.org/news/what-is-web3/amp/#click=https://t.co/93kxqzr3I4
@@ -247,77 +304,41 @@ _If you really appreciate the content of this repository, don't forget to give i
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Documentations
-
-| Website                                                                                                         | About                                                        |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [Solidity Official Docs](https://docs.soliditylang.org)                                                         | Solidity Tutorial Documentation                              |
-| [Cryptodevhub Wiki](https://cryptodevhub.io/wiki/blockchain-development-tutorial)                               | Getting Started with Blockchain Development                  |
-| [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html)    | Advanced Smart Contracts                                     |
-| [Solidity Tutorial - Learn x in y minutes](https://learnxinyminutes.com/docs/solidity)                          | Solidity Tutorial                                            |
-| [OpenZeppelin Official Docs](https://docs.openzeppelin.com/learn/)                                              | OpenZeppelin Documentation                                   |
-| [OpenZeppelin Docs by Ethernaut](https://ethernaut.openzeppelin.com/)                                           | OpenZeppelin Tutorials by Ethernaut                          |
-| [Solidity Docs II](https://solidity.readthedocs.io)                                                             | Solidity Documentation                                       |
-| [Brownie Docs](https://eth-brownie.readthedocs.io)                                                              | Brownie Documentation                                        |
-| [Remix IDE Docs](https://remix.ethereum.org)                                                                    | Remix Tutorial                                               |
-| [Ethereum Official Docs](https://studio.ethereum.org/)                                                          | Ethereum Tutorial                                            |
-| [Vyper Docs](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)                                      | Vyper Tutorial                                               |
-| [Decentology Docs](https://docs.decentology.com/)                                                               | Decentology Documentation                                    |
-| [Ethers.js Docs](https://docs.ethers.io)                                                                        | Ethers.js Documentation                                      |
-| [Web3.js Docs](https://web3js.readthedocs.io)                                                                   | Web3.js Documentation                                        |
-| [Ethspring Docs](https://docs.decentology.com/)                                                                 | Ethspring Documentation                                      |
-| [Hardhat Docs](https://hardhat.org/getting-started/)                                                            | Hardhat Documentation                                        |
-| [Truffle Docs](https://trufflesuite.com/doc)                                                                    | Truffle Documentation                                        |
-| [Metamask Docs](https://docs.metamask.io/guide/)                                                                    | Metamask Documentation                                        |
-| [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy Documentation                                        |
-| [Solana Cookbook](https://solanacookbook.com)                                                                   | Developer resource for building on Solana Blockchain         |
-| [Go Ethereum Docs](https://geth.ethereum.org/docs/)                                                             | Golang implementation of the Ethereum protocol Documentation |
-| [Rust Official Docs](https://www.rust-lang.org/learn)                                                           | Rust Documentation                                           |
-| [Web3.py Docs](https://web3py.readthedocs.io)                                                                   | Web3.py Documentation                                        |
-| [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)                             | Kauri.io Documentation                                       |
-| [Polygon Docs](https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy)            | Polygon Academy - Getting started with Polygon Documentation |
-| [Ethereum Docs by Microsoft](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development)      | Get started with blockchain development Documentation        |
-| [NEAR Docs](https://docs.near.org/docs/tutorials/overview)      | NEAR Documentation        |
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
-
 ## Recommended Books
 
-Bitcoin White Paper: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto
+- Bitcoin White Paper: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto
 
-Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood
+- Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood
 
-Mastering Ethereum: Implement Advanced Blockchain Applications - Merunas Grincalaitis
+- Mastering Ethereum: Implement Advanced Blockchain Applications - Merunas Grincalaitis
 
-Mastering Bitcoin: Programming the Open Blockchain - Andreas M. Antonopoulos
+- Mastering Bitcoin: Programming the Open Blockchain - Andreas M. Antonopoulos
 
-The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum - Camila Russo
+- The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum - Camila Russo
 
-Mastering Bitcoin: Unlocking Digital Cryptocurrencies - Andreas Antonopoulos
+- Mastering Bitcoin: Unlocking Digital Cryptocurrencies - Andreas Antonopoulos
 
-Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song
+- Programming Bitcoin: Learn How to Program Bitcoin from Scratch - Jimmy Song
 
-Bank 4.0 - Brett King
+- Bank 4.0 - Brett King
 
-Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain - Roberto Infante
+- Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain - Roberto Infante
 
-Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt
+- Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt
 
-Seizing Opportunities in the Blockchain and Digital Currency Revolution: A Handbook for Enthusiasts - Chimezie Chuta
+- Seizing Opportunities in the Blockchain and Digital Currency Revolution: A Handbook for Enthusiasts - Chimezie Chuta
 
-Ethereum Blockchain Developer Guide - Thomas Wiesner
+- Ethereum Blockchain Developer Guide - Thomas Wiesner
 
-Hands on Smart Contract Development with Solidity and Ethereum: From fundamentals to deployment - Randall Kanna & Dave Hoover
+- Hands on Smart Contract Development with Solidity and Ethereum: From fundamentals to deployment - Randall Kanna & Dave Hoover
 
-The Spatial Web: How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World - Gabriel Rene
+- The Spatial Web: How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World - Gabriel Rene
 
-How to DeFi - Darren Lau et al
+- How to DeFi - Darren Lau et al
 
-The Blockchain Developer: A practical guide - Elad Elrom
+- The Blockchain Developer: A practical guide - Elad Elrom
 
-Token Economy : How the Web3 reinvents the internet - Hermin Voshmgir
+- Token Economy : How the Web3 reinvents the internet - Hermin Voshmgir
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
