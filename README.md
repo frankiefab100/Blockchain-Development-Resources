@@ -68,6 +68,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Codiesalert](https://www.codiesalert.com/)                                                                    |
 | [Soliditytips](https://soliditytips.com/)                                                                      |
 | [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
+| [Learn NEAR Club](https://learnnear.club/)                                                              |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -125,6 +126,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)    |
 | [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)    |
 | [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)    |
+| [Chainlink](https://www.youtube.com/c/chainlink)    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -239,6 +241,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
 - https://web3devs.com/how-does-blockchain-work-guide-for-businesses/
 - https://blockonomi.com/solidity-tutorial/
+- https://blog.chain.link/category/developers
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -265,6 +268,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Ethspring Docs](https://docs.decentology.com/)                                                                 | Ethspring Documentation                                      |
 | [Hardhat Docs](https://hardhat.org/getting-started/)                                                            | Hardhat Documentation                                        |
 | [Truffle Docs](https://trufflesuite.com/doc)                                                                    | Truffle Documentation                                        |
+| [Metamask Docs](https://docs.metamask.io/guide/)                                                                    | Metamask Documentation                                        |
 | [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy Documentation                                        |
 | [Solana Cookbook](https://solanacookbook.com)                                                                   | Developer resource for building on Solana Blockchain         |
 | [Go Ethereum Docs](https://geth.ethereum.org/docs/)                                                             | Golang implementation of the Ethereum protocol Documentation |
@@ -273,6 +277,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)                             | Kauri.io Documentation                                       |
 | [Polygon Docs](https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy)            | Polygon Academy - Getting started with Polygon Documentation |
 | [Ethereum Docs by Microsoft](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development)      | Get started with blockchain development Documentation        |
+| [NEAR Docs](https://docs.near.org/docs/tutorials/overview)      | NEAR Documentation        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
