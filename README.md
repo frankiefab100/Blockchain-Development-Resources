@@ -10,7 +10,7 @@ It comprises of links to range of topics like Introduction to Blockchain technol
 
 #### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue
 
-_If you really appreciate the content of this repository, don't forget to give it a Star⭐ and/or Tweet about it_
+_If you really appreciate the content of this repository, don't forget to give it a Star⭐ and/or Tweet about it_.
 
 ---
 
@@ -68,7 +68,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Codiesalert](https://www.codiesalert.com/)                                                                    |
 | [Soliditytips](https://soliditytips.com/)                                                                      |
 | [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
-| [Learn NEAR Club](https://learnnear.club/)                                                              |
+| [Learn NEAR Club](https://learnnear.club/)                                                                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -124,9 +124,9 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Code Eater](https://www.youtube.com/c/CodeEater21)                                                   |
 | [Mobilefish.com](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x) |
 | [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)    |
-| [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)    |
-| [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)    |
-| [Chainlink](https://www.youtube.com/c/chainlink)    |
+| [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)                                      |
+| [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)                                 |
+| [Chainlink](https://www.youtube.com/c/chainlink)                                                      |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -249,7 +249,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Documentations
 
-| Website                                                                                                         | About                                                        |
+| Website                                                                                                         | Description                                                        |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [Solidity Official Docs](https://docs.soliditylang.org)                                                         | Solidity Tutorial Documentation                              |
 | [Cryptodevhub Wiki](https://cryptodevhub.io/wiki/blockchain-development-tutorial)                               | Getting Started with Blockchain Development                  |
@@ -268,7 +268,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Ethspring Docs](https://docs.decentology.com/)                                                                 | Ethspring Documentation                                      |
 | [Hardhat Docs](https://hardhat.org/getting-started/)                                                            | Hardhat Documentation                                        |
 | [Truffle Docs](https://trufflesuite.com/doc)                                                                    | Truffle Documentation                                        |
-| [Metamask Docs](https://docs.metamask.io/guide/)                                                                    | Metamask Documentation                                        |
+| [Metamask Docs](https://docs.metamask.io/guide/)                                                                | Metamask Documentation                                        |
 | [Hello World Smart Contracts by Alchemy](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Alchemy Documentation                                        |
 | [Solana Cookbook](https://solanacookbook.com)                                                                   | Developer resource for building on Solana Blockchain         |
 | [Go Ethereum Docs](https://geth.ethereum.org/docs/)                                                             | Golang implementation of the Ethereum protocol Documentation |
@@ -277,7 +277,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Kauri Docs](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)                             | Kauri.io Documentation                                       |
 | [Polygon Docs](https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy)            | Polygon Academy - Getting started with Polygon Documentation |
 | [Ethereum Docs by Microsoft](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development)      | Get started with blockchain development Documentation        |
-| [NEAR Docs](https://docs.near.org/docs/tutorials/overview)      | NEAR Documentation        |
+| [NEAR Docs](https://docs.near.org/docs/tutorials/overview)                                                      | NEAR Documentation                                           |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
