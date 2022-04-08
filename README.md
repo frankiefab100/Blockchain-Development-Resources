@@ -6,7 +6,7 @@
 
 A curated list of FREE resources for learning blockchain development and web3 in general. Featuring free learning platforms, websites, online courses, tutorials, documentations, games, articles and books; useful for blockchain enthusiasts, engineers, crypto enthusiasts, developers, designers and stakeholders in the web3 space.
 
-It comprises of links to range of topics like Introduction to Blockchain technology, Web3 and revolution of the Internet, deployment of smart contracts on Ethereum, Solana, Aeternity, Polygon, Celo and other EVM-compatible Blockchain networks, Minting of NFTs, building decentralized applications (DApps), lending protocols and tokens, creating decentralized  autonomous organizations (DAOs), fundamentals of cryptography and distributed ledger technology,  understanding decentralized finance, How-to-use tutorials on Blockchain development tools and technologies - **RemixIDE, Metamask, Hardhat, Web3js, Ganache, Ethersjs, Web3py, Truffle, OpenZeppelin, Infura, IPFS**; including programming languages for writing smart contracts - **Solidity, Vyper, Rust, Golang, Sophia**.
+It comprises of links to range of topics like Introduction to Blockchain technology, Web3 and revolution of the Internet, deployment of smart contracts on Ethereum, Solana, Aeternity, Polygon, Celo and other EVM-compatible Blockchain networks, Minting of NFTs, building decentralized applications (DApps), lending protocols and tokens, creating decentralized autonomous organizations (DAOs), fundamentals of cryptography and distributed ledger technology, understanding decentralized finance, How-to-use tutorials on Blockchain development tools and technologies - **RemixIDE, Metamask, Hardhat, Web3js, Ganache, Ethersjs, Web3py, Truffle, OpenZeppelin, Infura, IPFS**; including programming languages for writing smart contracts - **Solidity, Vyper, Rust, Golang, Sophia**.
 
 #### Please carefully read [`Contributing guidelines`](./CONTRIBUTING.md) before opening a pull request or issue.
 
@@ -54,7 +54,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Web3 University](https://www.web3.university/)                                                                |
 | [Zastrin](https://www.zastrin.com/)                                                                            |
 | [Metaschool](https://metaschool.so/)                                                                           |
-| [LearnWeb3 DAO](https://www.learnweb3.io)                                                                           |
+| [LearnWeb3 DAO](https://www.learnweb3.io)                                                                      |
 | [Chainshot](https://www.chainshot.com/)                                                                        |
 | [Althash University](https://www.althash.university/colleges-schools/blockchain-internship-youth-program-biyp) |
 | [We teach Blockchain](https://weteachblockchain.org/courses)                                                   |
@@ -70,7 +70,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Codiesalert](https://www.codiesalert.com/)                                                                    |
 | [Soliditytips](https://soliditytips.com/)                                                                      |
 | [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
-| [Learn NEAR Club](https://learnnear.club/)                                                              |
+| [Learn NEAR Club](https://learnnear.club/)                                                                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -93,42 +93,42 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Youtube Channels
 
-|                                                                                                       |
-| ----------------------------------------------------------------------------------------------------- |
-| [DApp University](https://www.youtube.com/c/DAppuniversity)                                           |
-| [Eat the blocks](https://www.youtube.com/c/EatTheBlocks)                                              |
-| [Ivan on Tech](https://www.youtube.com/c/IvanonTech/)                                                 |
-| [Nader Dabit](https://www.youtube.com/c/naderdabit/)                                                  |
-| [Samarth Developer](https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w/)                        |
-| [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)                           |
-| [Merunas Grincalaitis](https://www.youtube.com/channel/UCJInIwgW1duAEnMHHxDK7XQ)                      |
-| [Will it Scale](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)                 |
-| [Design Course](https://youtube.com/playlist?list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FDJr3)                 |
-| [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)                 |
-| [Alchemy](https://www.youtube.com/channel/UCtvTdPZWUwW4whk9CLlCBug)                                   |
-| [Hashlips NFT](https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8)              |
-| [Patrick Collins](https://m.youtube.com/c/patrickcollins)                                             |
-| [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)                                 |
-| [Finematics](https://www.youtube.com/c/Finematics)                                                    |
-| [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)                          |
-| [Blockholic](https://youtube.com/c/Blockholic)                                                        |
-| [Blockchain at Berkeley](https://youtube.com/c/BlockchainatBerkeley)                                  |
-| [Vlad Wulf](https://youtube.com/channel/UCsVoOobxAQL6NbWY2t6E6Sg)                                     |
-| [Ethereum Engineering Group](https://youtube.com/c/EthereumEngineeringGroup)                          |
-| [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)                                     |
-| [Center for Innovative Finance](https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg)             |
-| [Web3 Foundation](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)|
-| [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)                                                   |
-| [Block Explorer](https://youtube.com/c/BlockExplorerMedia)                                            |
-| [CodeXpert](https://youtube.com/c/CodeXpert)                                                          |
-| [Learn Web3](https://youtube.com/channel/UCjl8iG0tFvwyLapBPluLfKw)                                    |
-| [Edureka](https://www.youtube.com/watch?v=9qfxLo1rt1Q&list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1)        |
-| [Code Eater](https://www.youtube.com/c/CodeEater21)                                                   |
-| [Mobilefish.com](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x) |
-| [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)    |
-| [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)    |
-| [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)    |
-| [Chainlink](https://www.youtube.com/c/chainlink)    |
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| [DApp University](https://www.youtube.com/c/DAppuniversity)                                            |
+| [Eat the blocks](https://www.youtube.com/c/EatTheBlocks)                                               |
+| [Ivan on Tech](https://www.youtube.com/c/IvanonTech/)                                                  |
+| [Nader Dabit](https://www.youtube.com/c/naderdabit/)                                                   |
+| [Samarth Developer](https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w/)                         |
+| [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)                            |
+| [Merunas Grincalaitis](https://www.youtube.com/channel/UCJInIwgW1duAEnMHHxDK7XQ)                       |
+| [Will it Scale](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)                  |
+| [Design Course](https://youtube.com/playlist?list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FDJr3)                  |
+| [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)                  |
+| [Alchemy](https://www.youtube.com/channel/UCtvTdPZWUwW4whk9CLlCBug)                                    |
+| [Hashlips NFT](https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8)               |
+| [Patrick Collins](https://m.youtube.com/c/patrickcollins)                                              |
+| [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)                                  |
+| [Finematics](https://www.youtube.com/c/Finematics)                                                     |
+| [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)                           |
+| [Blockholic](https://youtube.com/c/Blockholic)                                                         |
+| [Blockchain at Berkeley](https://youtube.com/c/BlockchainatBerkeley)                                   |
+| [Vlad Wulf](https://youtube.com/channel/UCsVoOobxAQL6NbWY2t6E6Sg)                                      |
+| [Ethereum Engineering Group](https://youtube.com/c/EthereumEngineeringGroup)                           |
+| [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)                                      |
+| [Center for Innovative Finance](https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg)              |
+| [Web3 Foundation](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J) |
+| [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)                                                    |
+| [Block Explorer](https://youtube.com/c/BlockExplorerMedia)                                             |
+| [CodeXpert](https://youtube.com/c/CodeXpert)                                                           |
+| [Learn Web3](https://youtube.com/channel/UCjl8iG0tFvwyLapBPluLfKw)                                     |
+| [Edureka](https://www.youtube.com/watch?v=9qfxLo1rt1Q&list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1)         |
+| [Code Eater](https://www.youtube.com/c/CodeEater21)                                                    |
+| [Mobilefish.com](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x)  |
+| [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)     |
+| [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)                                       |
+| [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)                                  |
+| [Chainlink](https://www.youtube.com/c/chainlink)                                                       |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -150,7 +150,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Solidity Smart Contract & Blockchain Development (in Farsi)](https://www.youtube.com/playlist?list=PLDwI1rIhknpNyUWdFt_XD6rpTEjTkUcYo)
 | [Build a Practical NFT Ticketing Service with Solidity and React](https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c)
 | [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)
-| [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals) |
+| [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -209,22 +209,22 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Tutorial Docs
 
-| Tutorial                                                                                                          | Description                                                        |
+| Tutorial                                                                                                        | Description                                                  |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [Blockchain Development Tutorial](https://cryptodevhub.io/wiki/blockchain-development-tutorial)                               | Getting Started with Blockchain Development by CryptoDev Hub                 |
-| [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html)    | Advanced Smart Contracts by George Brown College                                    |
-| [Getting started with Blockchain](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)        | Getting started with Blockchain by Kauri  |
-| [Ethereum Blockchain Development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development)      | Get started with blockchain development by Microsoft       |
-| [Hello World Smart Contracts](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) | Smart Contract Tutorial by Alchemy                                        |
-| [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity)                          | Solidity Tutorial by Learn-x-in-y-minutes                                           |
-| [Solidity Docs](https://solidity.readthedocs.io)                                                             | Solidity Tutorial                                   |
-| [OpenZeppelin Docs](https://ethernaut.openzeppelin.com/)                                           | OpenZeppelin Tutorials by Ethernaut                          |
-| [Polygon Docs](https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy)            | Getting started with Polygon by Polygon Academy |
-| [Ethereum Docs](https://studio.ethereum.org/)                   | Ethereum Tutorial                                            |
-| [Decentology Docs](https://docs.decentology.com/)                                                               | Ethspring by Decentology                              |
-| [Solana Docs](https://docs.solana.com/)      | Solana Documentation        |
-| [NEAR Docs](https://docs.near.org/docs/tutorials/overview)      | NEAR Documentation        |
-| [Terra Docs](https://docs.terra.money/docs/develop/sdks/terra-js/)      | Terra Documentation        |
+| [Blockchain Development Tutorial](https://cryptodevhub.io/wiki/blockchain-development-tutorial)                 | Getting Started with Blockchain Development by CryptoDev Hub |
+| [Advanced Smart Contracts](https://georgebrowncollege-toronto.github.io/Advanced-Smart-Contracts/index.html)    | Advanced Smart Contracts by George Brown College             |
+| [Getting started with Blockchain](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)        | Getting started with Blockchain by Kauri                     |
+| [Ethereum Blockchain Development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development) | Get started with blockchain development by Microsoft         |
+| [Hello World Smart Contracts](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)            | Smart Contract Tutorial by Alchemy                           |
+| [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity)                                       | Solidity Tutorial by Learn-x-in-y-minutes                    |
+| [Solidity Docs](https://solidity.readthedocs.io)                                                                | Solidity Tutorial                                            |
+| [OpenZeppelin Docs](https://ethernaut.openzeppelin.com/)                                                        | OpenZeppelin Tutorials by Ethernaut                          |
+| [Polygon Docs](https://academy.polygon.technology/module-1-getting-started/join-the-polygon-academy)            | Getting started with Polygon by Polygon Academy              |
+| [Ethereum Docs](https://studio.ethereum.org/)                                                                   | Ethereum Tutorial                                            |
+| [Decentology Docs](https://docs.decentology.com/)                                                               | Ethspring by Decentology                                     |
+| [Solana Docs](https://docs.solana.com/)                                                                         | Solana Documentation                                         |
+| [NEAR Docs](https://docs.near.org/docs/tutorials/overview)                                                      | NEAR Documentation                                           |
+| [Terra Docs](https://docs.terra.money/docs/develop/sdks/terra-js/)                                              | Terra Documentation                                          |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -233,34 +233,33 @@ _If you really appreciate the content of this repository, don't forget to give i
 ## Tools
 > ETHEREUM & EVM ecosystem
 
-|   Tool        | Description                                                                 |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Remix IDE](https://remix.ethereum.org)                                                            |  An online Integrated Development Environment used to write, compile, debug and deploy solidity code for smart contracts                                                                              |
-| [EthFiddle](https://100dailyui.webflow.io/)                                                           | A solidity browser-based development tool                                                         |
-| [Solidity](https://docs.soliditylang.org)                                                  |  An object-oriented, high-level language for implementing smart contracts on Ethereum Virtual Machine
-| [Metamask](https://docs.metamask.io/guide)                                                |  A wallet extension for accessing and injecting the Ethereum web3 API
-| [Truffle Suite](https://trufflesuite.com/doc)                                               |  Development environment, testing framework and asset pipeline for blockchains using the EVM
-| [Web3.js](https://web3js.readthedocs.io)                                               |  A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
-| [Hardhat](https://hardhat.org/getting-started/)                                               |  An Ethereum development environment that helps developers manage and automate the recurring tasks inherent to building smart contracts and DApps.
-| [Ethers.js](https://docs.ethers.io)                                               | A compact library for interacting with the Ethereum Blockchain and its ecosystem
-| [Vyper](https://vyper.readthedocs.io/en/latest/vyper-by-example.html)                                                |  Smart contract language similar to Python programming language syntax
-| [Web3.py](https://web3py.readthedocs.io)                                                |  A Python library for interacting with Ethereum, inspired by web3.js.
-| [Go Ethereum](https://geth.ethereum.org/docs/)                                                 |  Golang implementation of Ethereum protocol
-| [Brownie](https://eth-brownie.readthedocs.io)                                                |  A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine
-| [OpenZeppelin](https://docs.openzeppelin.com/learn/)                                               |   A library for secure smart contract development and community-vetted code
+| Tool                                                                  | Description                                                                                                                                      |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Remix IDE](https://remix.ethereum.org)                               | An online Integrated Development Environment used to write, compile, debug and deploy solidity code for smart contracts                          |
+| [EthFiddle](https://100dailyui.webflow.io/)                           | A solidity browser-based development tool                                                                                                        |
+| [Solidity](https://docs.soliditylang.org)                             | An object-oriented, high-level language for implementing smart contracts on Ethereum Virtual Machine                                             |
+| [Metamask](https://docs.metamask.io/guide)                            | A wallet extension for accessing and injecting the Ethereum web3 API                                                                             |
+| [Truffle Suite](https://trufflesuite.com/doc)                         | Development environment, testing framework and asset pipeline for blockchains using the EVM                                                      |
+| [Web3.js](https://web3js.readthedocs.io)                              | A collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket                           |
+| [Hardhat](https://hardhat.org/getting-started/)                       | An Ethereum development environment that helps developers manage and automate the recurring tasks inherent to building smart contracts and DApps |
+| [Ethers.js](https://docs.ethers.io)                                   | A compact library for interacting with the Ethereum Blockchain and its ecosystem                                                                 |
+| [Vyper](https://vyper.readthedocs.io/en/latest/vyper-by-example.html) | A contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM)                                               |
+| [Web3.py](https://web3py.readthedocs.io)                              | A Python library for interacting with Ethereum, inspired by web3.js                                                                              |
+| [Go Ethereum](https://geth.ethereum.org/docs/)                        | Golang implementation of Ethereum protocol                                                                                                       |
+| [Brownie](https://eth-brownie.readthedocs.io)                         | A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine                                      |
+| [OpenZeppelin](https://docs.openzeppelin.com/learn/)                  | A library for secure smart contract development and community-vetted code                                                                        |
 
 > SOLANA
 
-Tool/Resource        |           Description    |
----------------------------------------|---------------------------------------|
- [Solana Cookbook](https://solanacookbook.com) | Developer resource for building on Solana Blockchain |
-[Rust](https://www.rust-lang.org/learn)  | Programming language for writing smart contracts on Solana Blockchain |
-[Solang](https://solang.readthedocs.io/)  | Solidity Compiler for Solana |
-
+| Tool/Resource                                 | Description                                                           |
+| --------------------------------------------- | --------------------------------------------------------------------- |
+| [Solana Cookbook](https://solanacookbook.com) | Developer resource for building on Solana Blockchain                  |
+| [Rust](https://www.rust-lang.org/learn)       | Programming language for writing smart contracts on Solana Blockchain |
+| [Solang](https://solang.readthedocs.io/)      | Solidity Compiler for Solana                                          |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>  
+</div>
 
 ## Articles
 
