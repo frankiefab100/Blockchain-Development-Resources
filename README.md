@@ -250,6 +250,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Go Ethereum](https://geth.ethereum.org/docs/)                        | Golang implementation of Ethereum protocol                                                                                                       |
 | [Brownie](https://eth-brownie.readthedocs.io)                         | A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine                                      |
 | [OpenZeppelin](https://docs.openzeppelin.com/learn/)                  | A library for secure smart contract development and community-vetted code                                                                        |
+| [EVM Opcodes](https://www.ethervm.io/)                                | Ethereum Virtual Machine Opcodes                                                                                                                |
 
 > SOLANA
 
