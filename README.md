@@ -128,8 +128,9 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)     |
 | [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)                                       |
 | [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)                                  |
+
 | [Chainlink](https://www.youtube.com/c/chainlink)
-| [Codiesalert](https://youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA)                                                       |
+| [Codiesalert](https://youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA) |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -139,7 +140,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 |                                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) |
+| [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) 
 | [Build and Deploy a Modern Web 3.0 Blockchain App - Solidity Smart Contracts Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
 | [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)
 | [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
@@ -233,6 +234,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 </div>
 
 ## Tools
+
 > ETHEREUM & EVM ecosystem
 
 | Tool                                                                  | Description                                                                                                                                      |
@@ -250,7 +252,12 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Go Ethereum](https://geth.ethereum.org/docs/)                        | Golang implementation of Ethereum protocol                                                                                                       |
 | [Brownie](https://eth-brownie.readthedocs.io)                         | A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine                                      |
 | [OpenZeppelin](https://docs.openzeppelin.com/learn/)                  | A library for secure smart contract development and community-vetted code                                                                        |
-| [EVM Opcodes](https://www.ethervm.io/)                                | Ethereum Virtual Machine Opcodes                                                                                                                |
+| [EVM Codes](https://www.evm.codes/)                                   | An interactive reference to Ethereum Virtual Machine Opcodes                                                                                     |
+|  |
+| [EVM Opcodes](https://www.ethervm.io/)                                | Ethereum Virtual Machine Opcodes                                                                                                                 |
+|  |
+| [Web3 Type Converter](https://web3-type-converter.onbrn.com/)         | Convert from a bytes32/hex into a string/number or vice-versa                                                                                    |
+|  |
 
 > SOLANA
 
