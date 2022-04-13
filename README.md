@@ -128,9 +128,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)     |
 | [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)                                       |
 | [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)                                  |
-
-| [Chainlink](https://www.youtube.com/c/chainlink)
-| [Codiesalert](https://youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA) |
+| [Chainlink](https://www.youtube.com/c/chainlink)                                                       |
+| [Codiesalert](https://youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA)                                    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
