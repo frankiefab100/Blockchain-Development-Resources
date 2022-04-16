@@ -251,7 +251,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Web3.py](https://web3py.readthedocs.io)                              | A Python library for interacting with Ethereum, inspired by web3.js                                                                              |
 | [Go Ethereum](https://geth.ethereum.org/docs/)                        | Golang implementation of Ethereum protocol                                                                                                       |
 | [Brownie](https://eth-brownie.readthedocs.io)                         | A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine                                      |
-| [OpenZeppelin](https://docs.openzeppelin.com/learn/)                  | A library for secure smart contract development and community-vetted code                                                                        |
+| [OpenZeppelin](https://docs.openzeppelin.com/learn/)                  | A library for secure smart contract development and community-vetted code      
+| [Wagmi.sh](https://wagmi.sh/)                  | React Hooks library for Ethereum, built on ethers.js.                                                                  |
 | [EVM Codes](https://www.evm.codes/)                                   | An interactive reference to Ethereum Virtual Machine Opcodes                                                                                     |
 |  |
 | [EVM Opcodes](https://www.ethervm.io/)                                | Ethereum Virtual Machine Opcodes                                                                                                                 |
