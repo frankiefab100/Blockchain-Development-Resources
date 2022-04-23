@@ -204,6 +204,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/aeternity/awesome-aeternity
 - https://github.com/frankiefab100/Web3.0-Roadmap
 - https://github.com/ethereumbook/ethereumbook
+- https://github.com/Rari-Capital/solcurity
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
