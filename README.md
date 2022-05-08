@@ -149,7 +149,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Ethereum](https://www.ludu.co/course/ethereum)
 | [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
 | [Solidity Smart Contract & Blockchain Development (in Farsi)](https://www.youtube.com/playlist?list=PLDwI1rIhknpNyUWdFt_XD6rpTEjTkUcYo)
-| [Build a Practical NFT Ticketing Service with Solidity and React](https://egghead.io/courses/build-an-nft-based-ticketing-system-1a2f387c)
 | [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)
 | [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)
 
