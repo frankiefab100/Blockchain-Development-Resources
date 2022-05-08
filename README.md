@@ -208,6 +208,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/ajsantander/trivias
 - https://github.com/ventali/awesome-zk
 - https://github.com/Dhaiwat10/create-web3-frontend
+- https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
