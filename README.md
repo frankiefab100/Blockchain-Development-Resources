@@ -206,6 +206,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/ethereumbook/ethereumbook
 - https://github.com/Rari-Capital/solcurity
 - https://github.com/ajsantander/trivias
+- https://github.com/ventali/awesome-zk
+- https://github.com/Dhaiwat10/create-web3-frontend
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
