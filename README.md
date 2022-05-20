@@ -206,7 +206,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/Rari-Capital/solcurity
 - https://github.com/ajsantander/trivias
 - https://github.com/ventali/awesome-zk
-- https://github.com/Dhaiwat10/create-web3-frontend
 - https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
 - https://github.com/manojpramesh/solidity-cheatsheet
 - https://github.com/crytic/evm-opcodes
@@ -286,6 +285,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Scaffold-Eth](https://github.com/scaffold-eth/scaffold-eth)
 - [Create-eth-app](https://github.com/paulrberg/create-eth-app)
 - [Web3-react](https://github.com/NoahZinsmeister/web3-react)
+- [Web3-ui](https://github.com/Developer-DAO/web3-ui)
+- [create-web3-frontend](https://github.com/Dhaiwat10/create-web3-frontend)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
