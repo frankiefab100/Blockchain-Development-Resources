@@ -202,7 +202,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/sigp/solidity-security-blog
 - https://github.com/aeternity/awesome-aeternity
 - https://github.com/frankiefab100/Web3.0-Roadmap
-- https://github.com/ethereumbook/ethereumbook
 - https://github.com/Rari-Capital/solcurity
 - https://github.com/ajsantander/trivias
 - https://github.com/ventali/awesome-zk
@@ -340,7 +339,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 - Bitcoin White Paper: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto
 
-- Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood
+- [Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood](https://github.com/ethereumbook/ethereumbook)
 
 - Mastering Ethereum: Implement Advanced Blockchain Applications - Merunas Grincalaitis
 
