@@ -177,7 +177,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/BlockchainLabsNZ/awesome-solidity
 - https://github.com/ErichDylus/Smart-Contract-Resources
 - https://github.com/dapphub/dapptools#installation
-
 - https://github.com/crytic/building-secure-contracts
 - https://github.com/decentology/web2-to-web3-resources
 - https://github.com/dapphub/dapptools
@@ -288,19 +287,9 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Create-eth-app](https://github.com/paulrberg/create-eth-app)
 - [Web3-react](https://github.com/NoahZinsmeister/web3-react)
 
-div align="right">
-
+<div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
-
 </div>
-
-
-
-
-
-
-
-
 
 ## Articles
 
