@@ -329,6 +329,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://blockonomi.com/solidity-tutorial/
 - https://docs.openzeppelin.com/contracts/4.x/erc20
 - https://medium.com/bitfwd/how-to-create-run-your-own-dao-5e3eadd96962
+- https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
