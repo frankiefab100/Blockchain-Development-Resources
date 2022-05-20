@@ -284,6 +284,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Project Starter
 
+- [Scaffold-Eth](https://github.com/scaffold-eth/scaffold-eth)
 
 
 <div align="right">
