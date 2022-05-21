@@ -191,7 +191,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/l-henri/solidity-101
 - https://github.com/unstoppabledomains/decentralized-websites
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
-- https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit
 - https://github.com/0xpranay/solidity-notes
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/dcbuild3r/blockchain-development-guide
@@ -286,6 +285,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Web3-ui](https://github.com/Developer-DAO/web3-ui)
 - [Create-web3-frontend](https://github.com/Dhaiwat10/create-web3-frontend)
 - [Wagmi.sh](https://wagmi.sh/)
+- [Typescript Solidity Dev Starter Kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
