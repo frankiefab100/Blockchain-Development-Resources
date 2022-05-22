@@ -159,7 +159,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Github Repositories
 
-- https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+[Full blockchain solidity course python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/benstew/blockchain-for-software-engineers
 - https://github.com/crytic/awesome-ethereum-security
