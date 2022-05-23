@@ -286,7 +286,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Create-web3-frontend](https://github.com/Dhaiwat10/create-web3-frontend)
 - [Wagmi.sh](https://wagmi.sh/)
 - [Typescript Solidity Dev Starter Kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit)
-- [Solana DApp scaffold](https://github.com/solana-labs/dapp-scaffold)
+- [DApp scaffold](https://github.com/solana-labs/dapp-scaffold)
+- [Solana dapp scaffold](https://github.com/swaroopmaddu/solana-dapp-scaffold)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
