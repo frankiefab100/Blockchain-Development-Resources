@@ -160,12 +160,12 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 - [Full blockchain solidity course python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 - [Blockchain for software engineers](https://github.com/benstew/blockchain-for-software-engineers)
+- [Ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/crytic/awesome-ethereum-security
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/pbrudny/learning-solidity-2018
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
-- https://github.com/ConsenSys/ethereum-developer-tools-list
 - https://github.com/yjjnls/awesome-blockchain
 - https://github.com/protofire/blockchain-learning-path
 - https://github.com/bkrem/awesome-solidity
