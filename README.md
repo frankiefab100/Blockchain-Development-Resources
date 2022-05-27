@@ -131,6 +131,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)                                  |
 | [Chainlink](https://www.youtube.com/c/chainlink)                                                       |
 | [Codiesalert](https://youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA)                                    |
+| [Web3Academy](https://youtube.com/c/Web3Academy)                                    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
