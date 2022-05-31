@@ -168,6 +168,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome blockchain](https://github.com/yjjnls/awesome-blockchain)
 - [Blockchain learning path](https://github.com/protofire/blockchain-learning-path)
 - [Awesome solidity BlockchainLabs](https://github.com/BlockchainLabsNZ/awesome-solidity)
+- [Solidity 101](https://github.com/l-henri/solidity-101)
 - [Web3.0 Roadmap](https://github.com/frankiefab100/Web3.0-Roadmap)
 - [Smart contract resources](https://github.com/ErichDylus/Smart-Contract-Resources)
 - https://github.com/jklepatch/eattheblocks
@@ -190,7 +191,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
 - https://github.com/fravoll/solidity-patterns
-- https://github.com/l-henri/solidity-101
 - https://github.com/unstoppabledomains/decentralized-websites
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
 - https://github.com/0xpranay/solidity-notes
