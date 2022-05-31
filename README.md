@@ -167,6 +167,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome ethereum security](https://github.com/crytic/awesome-ethereum-security)
 - [Awesome blockchain](https://github.com/yjjnls/awesome-blockchain)
 - [Blockchain learning path](https://github.com/protofire/blockchain-learning-path)
+- [Awesome solidity BlockchainLabs](https://github.com/BlockchainLabsNZ/awesome-solidity)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/pbrudny/learning-solidity-2018
@@ -175,7 +176,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/jpantunes/awesome-cryptoeconomics
 - https://github.com/OpenZeppelin/awesome-openzeppelin
 - https://github.com/coinpride/CryptoList
-- https://github.com/BlockchainLabsNZ/awesome-solidity
 - https://github.com/ErichDylus/Smart-Contract-Resources
 - https://github.com/dapphub/dapptools#installation
 - https://github.com/crytic/building-secure-contracts
