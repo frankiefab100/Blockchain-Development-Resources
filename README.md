@@ -168,6 +168,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome blockchain](https://github.com/yjjnls/awesome-blockchain)
 - [Blockchain learning path](https://github.com/protofire/blockchain-learning-path)
 - [Awesome solidity BlockchainLabs](https://github.com/BlockchainLabsNZ/awesome-solidity)
+- [Web3.0 Roadmap](https://github.com/frankiefab100/Web3.0-Roadmap)
+- [Smart contract resources](https://github.com/ErichDylus/Smart-Contract-Resources)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/pbrudny/learning-solidity-2018
@@ -176,7 +178,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/jpantunes/awesome-cryptoeconomics
 - https://github.com/OpenZeppelin/awesome-openzeppelin
 - https://github.com/coinpride/CryptoList
-- https://github.com/ErichDylus/Smart-Contract-Resources
 - https://github.com/dapphub/dapptools#installation
 - https://github.com/crytic/building-secure-contracts
 - https://github.com/decentology/web2-to-web3-resources
@@ -201,7 +202,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/James-Sangalli/learn-solidity-with-examples
 - https://github.com/sigp/solidity-security-blog
 - https://github.com/aeternity/awesome-aeternity
-- https://github.com/frankiefab100/Web3.0-Roadmap
 - https://github.com/Rari-Capital/solcurity
 - https://github.com/ajsantander/trivias
 - https://github.com/ventali/awesome-zk
