@@ -173,6 +173,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Smart contract resources](https://github.com/ErichDylus/Smart-Contract-Resources)
 - [Learning solidity](https://github.com/pbrudny/learning-solidity-2018)
 - [Solidity notes](https://github.com/0xpranay/solidity-notes)
+- [Learn solidity with examples](https://github.com/James-Sangalli/learn-solidity-with-examples)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
@@ -199,7 +200,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/nosequeldeebee/blockchain-tutorial
 - https://github.com/openblockchains/awesome-blockchains
 - https://github.com/nakov/practical-cryptography-for-developers-book
-- https://github.com/James-Sangalli/learn-solidity-with-examples
 - https://github.com/sigp/solidity-security-blog
 - https://github.com/aeternity/awesome-aeternity
 - https://github.com/Rari-Capital/solcurity
