@@ -176,6 +176,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Learn solidity with examples](https://github.com/James-Sangalli/learn-solidity-with-examples)
 - [Solidity patterns](https://github.com/fravoll/solidity-patterns)
 - [Solidity by examples](https://github.com/raineorshine/solidity-by-example)
+- [Blockchain development guide](https://github.com/dcbuild3r/blockchain-development-guide)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
@@ -196,7 +197,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/unstoppabledomains/decentralized-websites
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
 - https://github.com/rust-unofficial/awesome-rust
-- https://github.com/dcbuild3r/blockchain-development-guide
 - https://github.com/nosequeldeebee/blockchain-tutorial
 - https://github.com/openblockchains/awesome-blockchains
 - https://github.com/nakov/practical-cryptography-for-developers-book
