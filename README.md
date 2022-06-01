@@ -159,7 +159,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 </div>
 
 ## Github Repositories
-
+- [Full blockchain solidity course javascript](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 - [Full blockchain solidity course python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 - [Blockchain for software engineers](https://github.com/benstew/blockchain-for-software-engineers)
 - [Ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
