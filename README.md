@@ -177,6 +177,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Solidity patterns](https://github.com/fravoll/solidity-patterns)
 - [Solidity by examples](https://github.com/raineorshine/solidity-by-example)
 - [Blockchain development guide](https://github.com/dcbuild3r/blockchain-development-guide)
+- [Solidity Cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
@@ -206,7 +207,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/ajsantander/trivias
 - https://github.com/ventali/awesome-zk
 - https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
-- https://github.com/manojpramesh/solidity-cheatsheet
 - https://github.com/crytic/evm-opcodes
 
 <div align="right">
