@@ -175,6 +175,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Solidity notes](https://github.com/0xpranay/solidity-notes)
 - [Learn solidity with examples](https://github.com/James-Sangalli/learn-solidity-with-examples)
 - [Solidity patterns](https://github.com/fravoll/solidity-patterns)
+- [Solidity by examples](https://github.com/raineorshine/solidity-by-example)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
@@ -188,7 +189,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/dapphub/dapptools
 - https://github.com/OffcierCia/ultimate-defi-research-base
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
-- https://github.com/raineorshine/solidity-by-example
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/dethcrypto/TypeChain
