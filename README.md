@@ -172,6 +172,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Web3.0 Roadmap](https://github.com/frankiefab100/Web3.0-Roadmap)
 - [Smart contract resources](https://github.com/ErichDylus/Smart-Contract-Resources)
 - [Learning solidity](https://github.com/pbrudny/learning-solidity-2018)
+- [Solidity notes](https://github.com/0xpranay/solidity-notes)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
@@ -193,7 +194,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/fravoll/solidity-patterns
 - https://github.com/unstoppabledomains/decentralized-websites
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
-- https://github.com/0xpranay/solidity-notes
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/dcbuild3r/blockchain-development-guide
 - https://github.com/nosequeldeebee/blockchain-tutorial
