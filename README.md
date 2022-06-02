@@ -340,9 +340,9 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Recommended Books
 
-- Bitcoin White Paper: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto
+- [Bitcoin White Paper: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
 
-- [Ethereum Yellow Paper:A Secure Decentralized Generalised Transaction Ledger - Dr. Gavin Wood](https://ethereum.github.io/yellowpaper/paper.pdf)
+- [Ethereum Yellow Paper: A Secure Decentralized Generalised Transaction Ledger - Dr. Gavin Wood](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 - [Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood](https://github.com/ethereumbook/ethereumbook)
 
