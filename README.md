@@ -286,7 +286,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Create-web3-frontend](https://github.com/Dhaiwat10/create-web3-frontend)
 - [Wagmi.sh](https://wagmi.sh/)
 - [Typescript Solidity Dev Starter Kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit)
-- [DApp scaffold](https://github.com/solana-labs/dapp-scaffold)
+- [Dapp scaffold](https://github.com/solana-labs/dapp-scaffold)
 - [Solana dapp scaffold](https://github.com/swaroopmaddu/solana-dapp-scaffold)
 - [Polygon dapp starter kit](https://github.com/Polygon-Academy/starter-kits)
 
@@ -341,6 +341,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 ## Recommended Books
 
 - Bitcoin White Paper: A Peer-to-Peer Electronic Cash System - Satoshi Nakamoto
+
+- [Ethereum Yellow Paper:A Secure Decentralized Generalised Transaction Ledger - Dr. Gavin Wood](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 - [Mastering Ethereum: Building Smart Contracts and DApps - Andreas Antonopoulos & Dr. Gavin Wood](https://github.com/ethereumbook/ethereumbook)
 
