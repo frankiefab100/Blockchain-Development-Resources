@@ -179,6 +179,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Solidity by examples](https://github.com/raineorshine/solidity-by-example)
 - [Blockchain development guide](https://github.com/dcbuild3r/blockchain-development-guide)
 - [Solidity Cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet)
+- [Awesome list rpc nodes providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
