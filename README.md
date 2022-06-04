@@ -180,6 +180,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Blockchain development guide](https://github.com/dcbuild3r/blockchain-development-guide)
 - [Solidity Cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet)
 - [Awesome list rpc nodes providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers)
+- [Journey to become a blockchain engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/OffcierCia/DeFi-Developer-Road-Map
@@ -208,7 +209,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/Rari-Capital/solcurity
 - https://github.com/ajsantander/trivias
 - https://github.com/ventali/awesome-zk
-- https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer
 - https://github.com/crytic/evm-opcodes
 
 <div align="right">
@@ -286,8 +286,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 | Service Name                       | Description                                                  |
 | ---------------------------------- | ------------------------------------------------------------ |
-| [NodeReal](https://nodereal.io)    | NodeReal is a blockchain infrastructure and services provider. The team launched  BSC validator RapToken in the early stages of the BSC network. And now RapToken has rebranded itself as NodeReal. The team is trusted by customers worldwide as they work with a passion for blockchain technology and a deep understanding of infrastructure and security. |
-| [Infura](https://infura.io/)       | Infrutra provides infrastructure and tools for developers to build amazing Web 3.0 applications. |
+| [NodeReal](https://nodereal.io)    | NodeReal is a blockchain infrastructure and services provider  |
+| [Infura](https://infura.io/)       | Infrutra provides infrastructure and tools for developers to build amazing Web 3.0 applications |
 | [Alchemy](https://www.alchemy.com) | Alchemy provides infrastructure service needed to empower developers to build great applications that tap into the blockchain revolution |
 
 <div align="right">
