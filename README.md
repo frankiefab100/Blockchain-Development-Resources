@@ -308,6 +308,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Solana dapp scaffold](https://github.com/swaroopmaddu/solana-dapp-scaffold)
 - [Polygon dapp starter kit](https://github.com/Polygon-Academy/starter-kits)
 - [Nextjs dapp starter ts](https://github.com/G3root/nextjs-dapp-starter-ts)
+- [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
