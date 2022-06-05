@@ -184,7 +184,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [DeFi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [Web2 to web3 resources](https://github.com/decentology/web2-to-web3-resources)
 - https://github.com/jklepatch/eattheblocks
-- https://github.com/iearn-finance/yearn-starter-pack
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/jpantunes/awesome-cryptoeconomics
 - https://github.com/OpenZeppelin/awesome-openzeppelin
@@ -309,6 +308,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Polygon dapp starter kit](https://github.com/Polygon-Academy/starter-kits)
 - [Nextjs dapp starter ts](https://github.com/G3root/nextjs-dapp-starter-ts)
 - [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend)
+- [buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
