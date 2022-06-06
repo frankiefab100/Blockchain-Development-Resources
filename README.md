@@ -183,6 +183,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Journey to become a blockchain engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer)
 - [DeFi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [Web2 to web3 resources](https://github.com/decentology/web2-to-web3-resources)
+- [Blockchain tutorial](https://github.com/nosequeldeebee/blockchain-tutorial)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/jpantunes/awesome-cryptoeconomics
@@ -199,7 +200,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/unstoppabledomains/decentralized-websites
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
 - https://github.com/rust-unofficial/awesome-rust
-- https://github.com/nosequeldeebee/blockchain-tutorial
 - https://github.com/openblockchains/awesome-blockchains
 - https://github.com/nakov/practical-cryptography-for-developers-book
 - https://github.com/sigp/solidity-security-blog
