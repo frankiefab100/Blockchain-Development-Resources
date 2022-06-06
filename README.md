@@ -184,6 +184,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [DeFi developer roadmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 - [Web2 to web3 resources](https://github.com/decentology/web2-to-web3-resources)
 - [Blockchain tutorial](https://github.com/nosequeldeebee/blockchain-tutorial)
+- [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/jpantunes/awesome-cryptoeconomics
@@ -194,7 +195,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/OffcierCia/ultimate-defi-research-base
 - https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
-- https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
 - https://github.com/unstoppabledomains/decentralized-websites
