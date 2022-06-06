@@ -185,6 +185,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Web2 to web3 resources](https://github.com/decentology/web2-to-web3-resources)
 - [Blockchain tutorial](https://github.com/nosequeldeebee/blockchain-tutorial)
 - [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+- [Awesome ZK](https://github.com/ventali/awesome-zk)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/jpantunes/awesome-cryptoeconomics
@@ -193,7 +194,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/dapphub/dapptools#installation
 - https://github.com/crytic/building-secure-contracts
 - https://github.com/OffcierCia/ultimate-defi-research-base
-- https://github.com/matter-labs/awesome-zero-knowledge-proofs
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
@@ -206,7 +206,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/aeternity/awesome-aeternity
 - https://github.com/Rari-Capital/solcurity
 - https://github.com/ajsantander/trivias
-- https://github.com/ventali/awesome-zk
 - https://github.com/crytic/evm-opcodes
 
 <div align="right">
