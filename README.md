@@ -132,7 +132,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)                                  |
 | [Chainlink](https://www.youtube.com/c/chainlink)                                                       |
 | [Codiesalert](https://youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA)                                    |
-| [Web3Academy](https://youtube.com/c/Web3Academy)                                    |
+| [Web3Academy](https://youtube.com/c/Web3Academy)                                                       |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -188,12 +188,12 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 - [Awesome ZK](https://github.com/ventali/awesome-zk)
 - [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [Building secure contracts](https://github.com/crytic/building-secure-contracts)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/OpenZeppelin/awesome-openzeppelin
 - https://github.com/coinpride/CryptoList
-- https://github.com/dapphub/dapptools#installation
-- https://github.com/crytic/building-secure-contracts
+
 - https://github.com/OffcierCia/ultimate-defi-research-base
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
 - https://github.com/dethcrypto/TypeChain
