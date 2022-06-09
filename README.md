@@ -189,12 +189,13 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome ZK](https://github.com/ventali/awesome-zk)
 - [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Building secure contracts](https://github.com/crytic/building-secure-contracts)
+- [Ultimate DeFi research base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/OpenZeppelin/awesome-openzeppelin
 - https://github.com/coinpride/CryptoList
 
-- https://github.com/OffcierCia/ultimate-defi-research-base
+- 
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
