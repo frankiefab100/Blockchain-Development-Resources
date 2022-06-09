@@ -190,12 +190,11 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Building secure contracts](https://github.com/crytic/building-secure-contracts)
 - [Ultimate DeFi research base](https://github.com/OffcierCia/ultimate-defi-research-base)
+- [Solidity security blog](https://github.com/sigp/solidity-security-blog)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/OpenZeppelin/awesome-openzeppelin
 - https://github.com/coinpride/CryptoList
-
-- 
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
@@ -203,7 +202,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/nakov/practical-cryptography-for-developers-book
-- https://github.com/sigp/solidity-security-blog
 - https://github.com/aeternity/awesome-aeternity
 - https://github.com/Rari-Capital/solcurity
 - https://github.com/ajsantander/trivias
