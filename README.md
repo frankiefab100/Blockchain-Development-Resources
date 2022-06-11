@@ -199,6 +199,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
+- https://github.com/ethereum-boilerplate/ethereum-boilerplate
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
 - https://github.com/unstoppabledomains/decentralized-websites
