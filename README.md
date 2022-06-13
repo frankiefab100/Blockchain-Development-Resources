@@ -200,7 +200,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Blockchain Dark Forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
 - [Blockchain Books](https://github.com/BlockchainBooks/blockchainbooks.github.io)
 - [Eat the blocks](https://github.com/jklepatch/eattheblocks)
-- https://github.com/DavidJohnstonCEO/DecentralizedApplications
+- [Decentralized Applications](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
 - https://github.com/dethcrypto/TypeChain
 - https://github.com/jashmenn/bitcoin-reading-list
 - https://github.com/unstoppabledomains/decentralized-websites
