@@ -154,7 +154,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
 | [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)
 | [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)
-| [Blockchain Demo - web-based demonstration of blockchain concepts like hash, block, distributed ledger, token, public/private key pairs and signing](https://andersbrownworth.com/blockchain/)                                                                                             
+| [Blockchain Demo - web-based demonstration of hash, block, distributed ledger, token, public/private key pairs and signing](https://andersbrownworth.com/blockchain/)                                                                                             
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -198,12 +198,10 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Practical cryptography for developers book](https://github.com/nakov/practical-cryptography-for-developers-book)
 - [Awesome openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
 - [Blockchain Dark Forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
-- [Blockchain Books](https://github.com/BlockchainBooks/blockchainbooks.github.io)
 - [Eat the blocks](https://github.com/jklepatch/eattheblocks)
 - [Decentralized Applications](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
+- [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites)
 - https://github.com/dethcrypto/TypeChain
-- https://github.com/jashmenn/bitcoin-reading-list
-- https://github.com/unstoppabledomains/decentralized-websites
 - https://github.com/rust-in-blockchain/awesome-blockchain-rust
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/aeternity/awesome-aeternity
