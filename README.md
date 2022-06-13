@@ -204,8 +204,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [EVM Opcodes](https://github.com/crytic/evm-opcodes)
 - [Typechain](https://github.com/dethcrypto/TypeChain)
 - [Awesome blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
-- https://github.com/rust-unofficial/awesome-rust
-- https://github.com/aeternity/awesome-aeternity
+- [Awesome rust](https://github.com/rust-unofficial/awesome-rust)
+- [Awesome aeternity](https://github.com/aeternity/awesome-aeternity)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -300,12 +300,13 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Wagmi.sh](https://wagmi.sh/)
 - [Typescript Solidity Dev Starter Kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit)
 - [Dapp scaffold](https://github.com/solana-labs/dapp-scaffold)
+- [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
 - [Solana dapp scaffold](https://github.com/swaroopmaddu/solana-dapp-scaffold)
 - [Polygon dapp starter kit](https://github.com/Polygon-Academy/starter-kits)
 - [Nextjs dapp starter ts](https://github.com/G3root/nextjs-dapp-starter-ts)
 - [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend)
 - [buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
-- [Ethereum-Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
