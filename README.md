@@ -144,7 +144,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) 
 | [Build and Deploy a Modern Web 3.0 Blockchain App - Solidity Smart Contracts Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
-| [Learn Blockchain, Solidity and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)                                    
+| [Learn Blockchain, Solidity and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)                         
 | [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)
 | [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
 | [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)
@@ -154,6 +154,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
 | [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)
 | [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)
+| [Blockchain Demo - web-based demonstration of blockchain concepts like hash, block, distributed ledger, token, public/private key pairs and signing](https://andersbrownworth.com/blockchain/)                                                                                             
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -261,8 +262,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 |  |
 | [Web3 Type Converter](https://web3-type-converter.onbrn.com/)         | Convert from a bytes32/hex into a string/number or vice-versa                                                                                    |
 |  |
-| [Blockchain Demo](https://andersbrownworth.com/blockchain/)         | A web-based demonstration of blockchain concepts like hash, block, distributed ledger, token, public/private key pairs and signing                                                                                    |
-|  |
+
 
 > SOLANA
 
