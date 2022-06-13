@@ -196,6 +196,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Solidity trivias](https://github.com/ajsantander/trivias)
 - [Practical cryptography for developers book](https://github.com/nakov/practical-cryptography-for-developers-book)
 - [Awesome openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
+- [Blockchain DarkForest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
@@ -306,6 +307,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Nextjs dapp starter ts](https://github.com/G3root/nextjs-dapp-starter-ts)
 - [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend)
 - [buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
+- [Ethereum-Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
