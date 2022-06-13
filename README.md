@@ -203,7 +203,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites)
 - [EVM Opcodes](https://github.com/crytic/evm-opcodes)
 - [Typechain](https://github.com/dethcrypto/TypeChain)
-- https://github.com/rust-in-blockchain/awesome-blockchain-rust
+- [Awesome blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 - https://github.com/rust-unofficial/awesome-rust
 - https://github.com/aeternity/awesome-aeternity
 
