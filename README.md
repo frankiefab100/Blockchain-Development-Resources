@@ -307,6 +307,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Nextjs dapp starter ts](https://github.com/G3root/nextjs-dapp-starter-ts)
 - [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend)
 - [buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
+- [Ethereum-Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
