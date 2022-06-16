@@ -280,7 +280,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 > Infrastructure services provides instant and reliable infrastructure, empowering developers to create dApps and enhance efficiency.
 
 | Service Name                       | Description                                                  |
-| ---------------------------------- | ------------------------------------------------------------ |
+| ---------------------------------- | ------------------------------------------------------------- |
 | [NodeReal](https://nodereal.io)    | NodeReal is a blockchain infrastructure and services provider  |
 | [Infura](https://infura.io/)       | Infrutra provides infrastructure and tools for developers to build amazing Web 3.0 applications |
 | [Alchemy](https://www.alchemy.com) | Alchemy provides infrastructure service needed to empower developers to build great applications that tap into the blockchain revolution |
@@ -314,7 +314,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Articles
 
-- https://www.freecodecamp.org/news/what-is-web3/amp/#click=https://t.co/93kxqzr3I4
+- [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/) 
 - https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/
 - https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
 - https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games
