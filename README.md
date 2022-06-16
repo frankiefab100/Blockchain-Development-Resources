@@ -315,7 +315,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 ## Articles
 
 - [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/) 
-- https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/
+- [The complete guide to full stack ethereum development](https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/)
 - https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
 - https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games
 - https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06
