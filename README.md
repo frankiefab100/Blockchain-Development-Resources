@@ -282,7 +282,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | Service Name                       | Description                                                  |
 | ---------------------------------- | ------------------------------------------------------------- |
 | [NodeReal](https://nodereal.io)    | NodeReal is a blockchain infrastructure and services provider  |
-| [Infura](https://infura.io/)       | Infrutra provides infrastructure and tools for developers to build amazing Web 3.0 applications |
+| [Infura](https://infura.io/)       | Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
 | [Alchemy](https://www.alchemy.com) | Alchemy provides infrastructure service needed to empower developers to build great applications that tap into the blockchain revolution |
 
 <div align="right">
@@ -319,8 +319,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Learn blockchain development by playing games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
 - [An introduction to bitcoin and cryptocurrency](https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06)
 - [Ethereum dapp crash course - make an erc20 token faucet frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
-- https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m
-- https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
+- [How to create an erc20 token and a solidity vendor contract](https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m)
+- [Buildin on ethereum mainnet](https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/)
 - https://lorisleiva.com/create-a-solana-dapp-from-scratch
 - https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
