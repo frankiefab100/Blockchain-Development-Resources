@@ -318,7 +318,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [The complete guide to full stack ethereum development](https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/)
 - [Learn blockchain development by playing games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
 - [An introduction to bitcoin and cryptocurrency](https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06)
-- https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43
+- [Ethereum dapp crash course - make an erc20 token faucet frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m
 - https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
 - https://lorisleiva.com/create-a-solana-dapp-from-scratch
