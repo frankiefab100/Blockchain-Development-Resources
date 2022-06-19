@@ -315,6 +315,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 ## Articles
 
 - [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/) 
+- [Getting started as an ethereum web developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
 - [The complete guide to full stack ethereum development](https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/)
 - [Learn blockchain development by playing games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
 - [An introduction to bitcoin and cryptocurrency](https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06)
@@ -328,7 +329,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
-- https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
 - https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e
 - https://www.investopedia.com/terms/b/blockchain.asp
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
