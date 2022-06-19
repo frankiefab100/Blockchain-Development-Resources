@@ -324,8 +324,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Ethereum dev speed run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 - [Ethereum for web-developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 - [Create a solana dapp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
+- [Ethereum in depth - part1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/)
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
-- https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
