@@ -331,6 +331,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Create a solana dapp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
 - [Ethereum in depth - part1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/)
 - [How the bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+- [Solidity tutorial](https://blockonomi.com/solidity-tutorial/)
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
@@ -347,7 +348,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
 - https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
 - https://web3devs.com/how-does-blockchain-work-guide-for-businesses/
-- https://blockonomi.com/solidity-tutorial/
 - https://docs.openzeppelin.com/contracts/4.x/erc20
 - https://medium.com/bitfwd/how-to-create-run-your-own-dao-5e3eadd96962
 - https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
