@@ -332,6 +332,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Ethereum in depth - part1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/)
 - [How the bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 - [Solidity tutorial](https://blockonomi.com/solidity-tutorial/)
+- [How to create an erc-20 token on polygon](https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/)
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
@@ -343,7 +344,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://karl.tech/
 - https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
 - https://blog.alchemy.com/blog/nft-deployment-cost
-- https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/
 - https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial
 - https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
 - https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
