@@ -316,6 +316,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 ## Articles
 
 - [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/) 
+- [The meaning of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 - [Getting started as an ethereum web developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
 - [The complete guide to full stack ethereum development](https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/)
 - [Learn blockchain development by playing games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
@@ -344,7 +345,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/
 - https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial
 - https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
-- https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 - https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
 - https://web3devs.com/how-does-blockchain-work-guide-for-businesses/
 - https://blockonomi.com/solidity-tutorial/
