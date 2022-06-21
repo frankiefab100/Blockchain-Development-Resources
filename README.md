@@ -315,6 +315,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Articles
 
+- [Blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 - [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/) 
 - [The meaning of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
 - [Getting started as an ethereum web developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
@@ -333,7 +334,6 @@ _If you really appreciate the content of this repository, don't forget to give i
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
-- https://www.investopedia.com/terms/b/blockchain.asp
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
 - https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
