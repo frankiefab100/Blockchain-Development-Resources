@@ -306,7 +306,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Polygon dapp starter kit](https://github.com/Polygon-Academy/starter-kits)
 - [Nextjs dapp starter ts](https://github.com/G3root/nextjs-dapp-starter-ts)
 - [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend)
-- [buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
+- [Buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
 
 
 <div align="right">
@@ -328,12 +328,12 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [How to deploy your first smart contract on ethereum with solidity and hardhat](https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e)
 - [Create a solana dapp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
 - [Ethereum in depth - part1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/)
+- [How the bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://www.investopedia.com/terms/b/blockchain.asp
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
-- https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
 - https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
 - https://secureum.substack.com/p/solidity-101
