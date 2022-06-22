@@ -337,10 +337,10 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [How to create an erc-20 token on polygon](https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/)
 - [How to get into ethereum crypto web3 as a developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - [Building scalable full stack apps on ethereum with polygon](https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
+- [How to make an nft and render on opensea marketplace](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
-- https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
 - https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
 - https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk
 - https://karl.tech/
