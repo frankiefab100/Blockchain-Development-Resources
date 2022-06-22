@@ -333,14 +333,14 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [How the bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
 - [How does Ethereum work anyway](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - [Solidity tutorial](https://blockonomi.com/solidity-tutorial/)
+- [Solidity 101](https://secureum.substack.com/p/solidity-101)
 - [How to create an erc-20 token on polygon](https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/)
-- https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
+- [How to get into ethereum crypto web3 as a developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 - https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
 - https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 - https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
 - https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
-- https://secureum.substack.com/p/solidity-101
 - https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk
 - https://karl.tech/
 - https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
