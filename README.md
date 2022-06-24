@@ -274,9 +274,10 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 > Web3 SDK & Platforms
 
-| Platform                                      | Description                                                            |
-| --------------------------------------------- | ---------------------------------------------------------------------- |
-| [Moralis](https://moralis.io)                 | Moralis provides a single workflow for building high performance dapps |
+| Platform                                      | Description                                                                |
+| --------------------------------------------- | -------------------------------------------------------------------------- |
+| [Moralis](https://moralis.io)                 | Moralis provides a single workflow for building high performance dapps     |
+| [Thirdweb](https://thirdweb.com)              | Powerful SDK and intuitive tools for developers to implement web3 features |
 
 
 <div align="right">
