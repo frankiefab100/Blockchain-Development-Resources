@@ -22,8 +22,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Free Online Courses](#free-online-courses)
 - [Github Repositories](#github-repositories)
 - [Tutorial Docs](#tutorial-docs)
-- [Tools](#tools)
-- [Infrastructure Services](#infrastructure-services)
+- [Development Tools](#development-tools)
+- [Node Providers](#node-providers)
 - [Project Starter](#project-starter)
 - [Articles](#articles)
 - [Recommended Books](#recommended-books)
@@ -236,7 +236,7 @@ _If you really appreciate the content of this repository, don't forget to give i
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Tools
+## Development Tools
 
 > ETHEREUM & EVM ecosystem
 
@@ -276,7 +276,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 </div>
 
 
-## Infrastructure Services
+## Node Providers
 
 > Infrastructure services provides instant and reliable infrastructure, empowering developers to create dApps and enhance efficiency.
 
