@@ -271,6 +271,14 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Rust](https://www.rust-lang.org/learn)       | Programming language for writing smart contracts on Solana Blockchain |
 | [Solang](https://solang.readthedocs.io/)      | Solidity Compiler for Solana                                          |
 
+
+> Web3 SDK & Platforms
+
+| Platform                                      | Description                                                            |
+| --------------------------------------------- | ---------------------------------------------------------------------- |
+| [Moralis](https://moralis.io)                 | Moralis provides a single workflow for building high performance dapps |
+
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
