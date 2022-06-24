@@ -279,11 +279,12 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 > Infrastructure services provides instant and reliable infrastructure, empowering developers to create dApps and enhance efficiency.
 
-| Service Name                       | Description                                                  |
-| ---------------------------------- | ------------------------------------------------------------- |
-| [NodeReal](https://nodereal.io)    | NodeReal is a blockchain infrastructure and services provider  |
-| [Infura](https://infura.io/)       | Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
-| [Alchemy](https://www.alchemy.com) | Alchemy provides infrastructure service needed to empower developers to build great applications that tap into the blockchain revolution |
+| Infrastructure Service                | Description                                                                            |
+| ------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [NodeReal](https://nodereal.io)       | NodeReal is a blockchain infrastructure and services provider                                 |
+| [Infura](https://infura.io/)          | Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
+| [Alchemy](https://www.alchemy.com)    | Alchemy provides infrastructure service to build great blockchain applications                |
+| [QuickNode](https://www.quicknode.com)| Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
