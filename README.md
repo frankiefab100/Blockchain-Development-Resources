@@ -353,10 +353,10 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Intro security hacking smart contracts ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 - [How to build a blockchain in rust](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
 - [Web 3.0 and the evolution of the internet](https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk)
+- [Nft deployment cost](https://blog.alchemy.com/blog/nft-deployment-cost)
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 - https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
 - https://karl.tech/
-- https://blog.alchemy.com/blog/nft-deployment-cost
 - https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial
 - https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
 - https://web3devs.com/how-does-blockchain-work-guide-for-businesses/
