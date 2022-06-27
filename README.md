@@ -351,11 +351,11 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [How to make an nft and render on opensea marketplace](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
 - [Build defi yield farming application with chainlink](https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/)
 - [Intro security hacking smart contracts ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
+- [How to build a blockchain in rust](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
 - https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
 - https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
 - https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk
 - https://karl.tech/
-- https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
 - https://blog.alchemy.com/blog/nft-deployment-cost
 - https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial
 - https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
