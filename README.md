@@ -295,6 +295,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Infura](https://infura.io/)          | Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
 | [Alchemy](https://www.alchemy.com)    | Alchemy provides infrastructure service to build great blockchain applications                |
 | [QuickNode](https://www.quicknode.com)| A single platform for your production, staging, and testing environments                      |
+| [Ankr](https://www.ankr.com/protocol/)| The fastest and most reliable Web3 infrastructure provider                                    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
