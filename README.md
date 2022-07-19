@@ -259,6 +259,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 |  |
 | [EVM Opcodes](https://www.ethervm.io/)                                | Ethereum Virtual Machine Opcodes                                                                                                                 |
 |  |
+| [Chainlist](https://chainlist.org/)                                   | A list of EVM networks with informations used to connect wallets and Web3 middleware providers to the appropriate Chain and Network ID         |
+|  |
 | [Web3 Type Converter](https://web3-type-converter.onbrn.com/)         | Convert from a bytes32/hex into a string/number or vice-versa                                                                                    |
 |  |
 
