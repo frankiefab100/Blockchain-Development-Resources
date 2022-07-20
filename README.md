@@ -321,6 +321,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Nextjs dapp starter ts](https://github.com/G3root/nextjs-dapp-starter-ts)
 - [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend)
 - [Buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
+- [Solidity hardhat boilerplate](https://github.com/defi-wonderland/solidity-hardhat-boilerplate)
 
 
 <div align="right">
