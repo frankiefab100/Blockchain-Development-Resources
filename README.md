@@ -322,6 +322,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend)
 - [Buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
 - [Solidity hardhat boilerplate](https://github.com/defi-wonderland/solidity-hardhat-boilerplate)
+- [Solidity foundry boilerplate](https://github.com/defi-wonderland/solidity-foundry-boilerplate)
 
 
 <div align="right">
