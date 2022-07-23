@@ -323,6 +323,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
 - [Solidity hardhat boilerplate](https://github.com/defi-wonderland/solidity-hardhat-boilerplate)
 - [Solidity foundry boilerplate](https://github.com/defi-wonderland/solidity-foundry-boilerplate)
+- [Hardhat template](https://github.com/paulrberg/hardhat-template)
 
 
 <div align="right">
