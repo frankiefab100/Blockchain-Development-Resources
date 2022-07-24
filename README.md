@@ -193,6 +193,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Ultimate DeFi research base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [Solidity security](https://github.com/Rari-Capital/solcurity)
 - [Solidity security blog](https://github.com/sigp/solidity-security-blog)
+- [Solidity school](https://github.com/Aniket-Engg/solidity-school)
 - [Crypto List](https://github.com/coinpride/CryptoList)
 - [Solidity trivias](https://github.com/ajsantander/trivias)
 - [Practical cryptography for developers book](https://github.com/nakov/practical-cryptography-for-developers-book)
