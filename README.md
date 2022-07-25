@@ -188,6 +188,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome blockchains](https://github.com/openblockchains/awesome-blockchains)
 - [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 - [Awesome ZK](https://github.com/ventali/awesome-zk)
+- [Awesome ZkEVM](https://github.com/LuozhuZhang/awesome-zkevm)
 - [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Building secure contracts](https://github.com/crytic/building-secure-contracts)
 - [Ultimate DeFi research base](https://github.com/OffcierCia/ultimate-defi-research-base)
