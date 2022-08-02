@@ -326,6 +326,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Solidity hardhat boilerplate](https://github.com/defi-wonderland/solidity-hardhat-boilerplate)
 - [Solidity foundry boilerplate](https://github.com/defi-wonderland/solidity-foundry-boilerplate)
 - [Hardhat template](https://github.com/paulrberg/hardhat-template)
+- [Web3ui kit](https://github.com/web3ui/web3uikit)
 
 
 <div align="right">
