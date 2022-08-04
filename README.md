@@ -409,7 +409,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 - The Blockchain Developer: A practical guide - Elad Elrom
 
-- Token Economy : How the Web3 reinvents the internet - Hermin Voshmgir
+- [Token Economy : How the Web3 reinvents the internet - Shermin Voshmgir](https://github.com/sherminvo/TokenEconomyBook/wiki)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
