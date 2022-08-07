@@ -72,7 +72,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Codiesalert](https://www.codiesalert.com/)                                                                    |
 | [Soliditytips](https://soliditytips.com/)                                                                      |
 | [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
-| [Learn NEAR Club](https://learnnear.club/)                                                                     |
+| [Learn NEAR Club](https://learnnear.club/)   
+| [Teach yourself Web3](https://www.teachyourselfweb3.com)                                                                  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
