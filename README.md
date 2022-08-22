@@ -22,8 +22,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Free Online Courses](#free-online-courses)
 - [Github Repositories](#github-repositories)
 - [Tutorial Docs](#tutorial-docs)
-- [Tools](#tools)
-- [Infrastructure Services](#infrastructure-services)
+- [Development Tools](#development-tools)
+- [Node Providers](#node-providers)
 - [Project Starter](#project-starter)
 - [Articles](#articles)
 - [Recommended Books](#recommended-books)
@@ -72,7 +72,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Codiesalert](https://www.codiesalert.com/)                                                                    |
 | [Soliditytips](https://soliditytips.com/)                                                                      |
 | [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
-| [Learn NEAR Club](https://learnnear.club/)                                                                     |
+| [Learn NEAR Club](https://learnnear.club/)   
+| [Teach yourself Web3](https://www.teachyourselfweb3.com)                                                                  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -88,6 +89,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Vyper.fun](https://vyper.fun/lessons.html#)                                 |
 | [Capture the Ether](https://capturetheether.com/)                            |
 | [Space Doggos](https://www.bitdegree.org/course/learn-solidity-space-doggos) |
+| [Crypto Hack](https://cryptohack.org)                                        |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -144,7 +146,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) 
 | [Build and Deploy a Modern Web 3.0 Blockchain App - Solidity Smart Contracts Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
-| [Learn Blockchain, Solidity and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)                                    
+| [Learn Blockchain, Solidity and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)                         
 | [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)
 | [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
 | [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)
@@ -154,6 +156,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
 | [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)
 | [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)
+| [Blockchain Demo - web-based demonstration of hash, block, distributed ledger, token, public/private key pairs and signing](https://andersbrownworth.com/blockchain/)                                                                                             
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -187,27 +190,26 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome blockchains](https://github.com/openblockchains/awesome-blockchains)
 - [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 - [Awesome ZK](https://github.com/ventali/awesome-zk)
+- [Awesome ZkEVM](https://github.com/LuozhuZhang/awesome-zkevm)
 - [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Building secure contracts](https://github.com/crytic/building-secure-contracts)
 - [Ultimate DeFi research base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [Solidity security](https://github.com/Rari-Capital/solcurity)
 - [Solidity security blog](https://github.com/sigp/solidity-security-blog)
+- [Solidity school](https://github.com/Aniket-Engg/solidity-school)
 - [Crypto List](https://github.com/coinpride/CryptoList)
 - [Solidity trivias](https://github.com/ajsantander/trivias)
 - [Practical cryptography for developers book](https://github.com/nakov/practical-cryptography-for-developers-book)
 - [Awesome openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
-- [Blockchain DarkForest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
-- [The Crowdsourced Comprehensive Ethereum Reading List](https://github.com/Scanate/EthList)
-- https://github.com/jklepatch/eattheblocks
-- https://github.com/BlockchainBooks/blockchainbooks.github.io
-- https://github.com/DavidJohnstonCEO/DecentralizedApplications
-- https://github.com/dethcrypto/TypeChain
-- https://github.com/jashmenn/bitcoin-reading-list
-- https://github.com/unstoppabledomains/decentralized-websites
-- https://github.com/rust-in-blockchain/awesome-blockchain-rust
-- https://github.com/rust-unofficial/awesome-rust
-- https://github.com/aeternity/awesome-aeternity
-- https://github.com/crytic/evm-opcodes
+- [Blockchain Dark Forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
+- [Eat the blocks](https://github.com/jklepatch/eattheblocks)
+- [Decentralized Applications](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
+- [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites)
+- [EVM Opcodes](https://github.com/crytic/evm-opcodes)
+- [Typechain](https://github.com/dethcrypto/TypeChain)
+- [Awesome blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+- [Awesome rust](https://github.com/rust-unofficial/awesome-rust)
+- [Awesome aeternity](https://github.com/aeternity/awesome-aeternity)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -232,19 +234,20 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Solana Docs](https://docs.solana.com/)                                                                         | Solana Documentation                                         |
 | [NEAR Docs](https://docs.near.org/docs/tutorials/overview)                                                      | NEAR Documentation                                           |
 | [Avalanche Docs](https://docs.avax.network/build/tutorials)                                                     | Avalanche Documentation                                      |
+| [ZKsync Docs](https://docs.zksync.io)                                                                           | ZKSync Documentation                                            |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Tools
+## Development Tools
 
 > ETHEREUM & EVM ecosystem
 
 | Tool                                                                  | Description                                                                                                                                      |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Remix IDE](https://remix.ethereum.org)                               | An online Integrated Development Environment used to write, compile, debug and deploy solidity code for smart contracts                          |
-| [EthFiddle](https://100dailyui.webflow.io/)                           | A solidity browser-based development tool                                                                                                        |
+| [EthFiddle](https://ethfiddle.com/)                                   | A solidity browser-based development tool                                                                                                        |
 | [Solidity](https://docs.soliditylang.org)                             | An object-oriented, high-level language for implementing smart contracts on Ethereum Virtual Machine                                             |
 | [Metamask](https://docs.metamask.io/guide)                            | A wallet extension for accessing and injecting the Ethereum web3 API                                                                             |
 | [Truffle Suite](https://trufflesuite.com/doc)                         | Development environment, testing framework and asset pipeline for blockchains using the EVM                                                      |
@@ -260,10 +263,11 @@ _If you really appreciate the content of this repository, don't forget to give i
 |  |
 | [EVM Opcodes](https://www.ethervm.io/)                                | Ethereum Virtual Machine Opcodes                                                                                                                 |
 |  |
+| [Chainlist](https://chainlist.org/)                                   | A list of EVM networks with informations used to connect wallets and Web3 middleware providers to the appropriate Chain and Network ID         |
+|  |
 | [Web3 Type Converter](https://web3-type-converter.onbrn.com/)         | Convert from a bytes32/hex into a string/number or vice-versa                                                                                    |
 |  |
-| [Blockchain Demo](https://andersbrownworth.com/blockchain/)         | A web-based demonstration of blockchain concepts like hash, block, distributed ledger, token, public/private key pairs and signing                                                                                    |
-|  |
+
 
 > SOLANA
 
@@ -273,20 +277,31 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Rust](https://www.rust-lang.org/learn)       | Programming language for writing smart contracts on Solana Blockchain |
 | [Solang](https://solang.readthedocs.io/)      | Solidity Compiler for Solana                                          |
 
+
+> Web3 SDK & Platforms
+
+| Platform                                      | Description                                                                |
+| --------------------------------------------- | -------------------------------------------------------------------------- |
+| [Moralis](https://moralis.io)                 | Moralis provides a single workflow for building high performance dapps     |
+| [Thirdweb](https://thirdweb.com)              | Powerful SDK and intuitive tools for developers to implement web3 features |
+
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
 
-## Infrastructure Services
+## Node Providers
 
 > Infrastructure services provides instant and reliable infrastructure, empowering developers to create dApps and enhance efficiency.
 
-| Service Name                       | Description                                                  |
-| ---------------------------------- | ------------------------------------------------------------ |
-| [NodeReal](https://nodereal.io)    | NodeReal is a blockchain infrastructure and services provider  |
-| [Infura](https://infura.io/)       | Infrutra provides infrastructure and tools for developers to build amazing Web 3.0 applications |
-| [Alchemy](https://www.alchemy.com) | Alchemy provides infrastructure service needed to empower developers to build great applications that tap into the blockchain revolution |
+| Infrastructure Service                | Description                                                                                   |
+| ------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [NodeReal](https://nodereal.io)       | NodeReal is a blockchain infrastructure and services provider                                 |
+| [Infura](https://infura.io/)          | Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
+| [Alchemy](https://www.alchemy.com)    | Alchemy provides infrastructure service to build great blockchain applications                |
+| [QuickNode](https://www.quicknode.com)| A single platform for your production, staging, and testing environments                      |
+| [Ankr](https://www.ankr.com/protocol/)| The fastest and most reliable Web3 infrastructure provider                                    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -301,14 +316,20 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Web3-ui](https://github.com/Developer-DAO/web3-ui)
 - [Create-web3-frontend](https://github.com/Dhaiwat10/create-web3-frontend)
 - [Wagmi.sh](https://wagmi.sh/)
+- [Eth-hooks](https://scaffold-eth.github.io/eth-hooks/)
 - [Typescript Solidity Dev Starter Kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit)
 - [Dapp scaffold](https://github.com/solana-labs/dapp-scaffold)
+- [Ethereum Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
 - [Solana dapp scaffold](https://github.com/swaroopmaddu/solana-dapp-scaffold)
 - [Polygon dapp starter kit](https://github.com/Polygon-Academy/starter-kits)
 - [Nextjs dapp starter ts](https://github.com/G3root/nextjs-dapp-starter-ts)
 - [Lens protocol frontend](https://github.com/dabit3/lens-protocol-frontend)
-- [buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
-- [Ethereum-Boilerplate](https://github.com/ethereum-boilerplate/ethereum-boilerplate)
+- [Buildspace dao starter](https://github.com/buildspace/buildspace-dao-starter)
+- [Solidity hardhat boilerplate](https://github.com/defi-wonderland/solidity-hardhat-boilerplate)
+- [Solidity foundry boilerplate](https://github.com/defi-wonderland/solidity-foundry-boilerplate)
+- [Hardhat template](https://github.com/paulrberg/hardhat-template)
+- [Web3ui kit](https://github.com/web3ui/web3uikit)
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -316,43 +337,38 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Articles
 
-- https://www.freecodecamp.org/news/what-is-web3/amp/#click=https://t.co/93kxqzr3I4
-- https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/
-- https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
-- https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games
-- https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06
-- https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43
-- https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m
-- https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/
-- https://lorisleiva.com/create-a-solana-dapp-from-scratch
-- https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c
-- https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
-- https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c
-- https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/
-- https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/
-- https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum
-- https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf
-- https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e
-- https://www.investopedia.com/terms/b/blockchain.asp
-- https://hackmd.io/NS-XCiEbS2GUpI8Wu1Xdew
-- https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
-- https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/
-- https://web3.smsunarto.com/#4b807a58e77b47649b90e91d35085b46
-- https://secureum.substack.com/p/solidity-101
-- https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk
-- https://karl.tech/
-- https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/
-- https://blog.alchemy.com/blog/nft-deployment-cost
-- https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/
-- https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial
-- https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
-- https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
-- https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3
-- https://web3devs.com/how-does-blockchain-work-guide-for-businesses/
-- https://blockonomi.com/solidity-tutorial/
-- https://docs.openzeppelin.com/contracts/4.x/erc20
-- https://medium.com/bitfwd/how-to-create-run-your-own-dao-5e3eadd96962
-- https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
+- [Blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
+- [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/) 
+- [The meaning of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
+- [Getting started as an ethereum web developer](https://hackernoon.com/getting-started-as-an-ethereum-web-developer-9a2a4ab47baf)
+- [The complete guide to full stack ethereum development](https://freecodecamp.org/the-complete-guide-to-full-stack-ethereum-development/)
+- [Learn blockchain development by playing games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
+- [An introduction to bitcoin and cryptocurrency](https://hackernoon.com/an-introduction-to-bitcoin-and-cryptocurrency-618c139d1d06)
+- [Ethereum dapp crash course - make an erc20 token faucet frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
+- [How to create an erc20 token and a solidity vendor contract](https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m)
+- [Building on ethereum mainnet](https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/)
+- [Ethereum dev speed run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
+- [Ethereum for web-developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
+- [How to deploy your first smart contract on ethereum with solidity and hardhat](https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e)
+- [Create a solana dapp from scratch](https://lorisleiva.com/create-a-solana-dapp-from-scratch)
+- [Ethereum in depth - part1](https://blog.openzeppelin.com/ethereum-in-depth-part-1-968981e6f833/)
+- [How the bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/)
+- [How does Ethereum work anyway](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
+- [Solidity tutorial](https://blockonomi.com/solidity-tutorial/)
+- [Solidity 101](https://secureum.substack.com/p/solidity-101)
+- [How to create an erc-20 token on polygon](https://blog.chain.link/how-to-create-an-erc-20-token-on-polygon/)
+- [How to get into ethereum crypto web3 as a developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
+- [Building scalable full stack apps on ethereum with polygon](https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
+- [How to make an nft and render on opensea marketplace](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
+- [Build defi yield farming application with chainlink](https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/)
+- [Intro security hacking smart contracts ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
+- [How to build a blockchain in rust](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
+- [Web 3.0 and the evolution of the internet](https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk)
+- [Nft deployment cost](https://blog.alchemy.com/blog/nft-deployment-cost)
+- [How to code your own cryptokitties style game on ethereum](https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3)
+- [How to create run your own dao](https://medium.com/bitfwd/how-to-create-run-your-own-dao-5e3eadd96962)
+- [The ultimate ENS and dApp tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -394,7 +410,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 - The Blockchain Developer: A practical guide - Elad Elrom
 
-- Token Economy : How the Web3 reinvents the internet - Hermin Voshmgir
+- [Token Economy : How the Web3 reinvents the internet - Shermin Voshmgir](https://github.com/sherminvo/TokenEconomyBook/wiki)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
