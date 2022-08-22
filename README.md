@@ -202,6 +202,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Practical cryptography for developers book](https://github.com/nakov/practical-cryptography-for-developers-book)
 - [Awesome openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
 - [Blockchain Dark Forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
+- [The Crowdsourced Comprehensive Ethereum Reading List](https://github.com/Scanate/EthList)
 - [Eat the blocks](https://github.com/jklepatch/eattheblocks)
 - [Decentralized Applications](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
 - [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites)
