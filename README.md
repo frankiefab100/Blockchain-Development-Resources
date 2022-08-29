@@ -113,7 +113,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Hashlips NFT](https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8)               |
 | [Patrick Collins](https://m.youtube.com/c/patrickcollins)                                              |
 | [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)                                  |
-| [Finematics](https://www.youtube.com/c/Finematics)                                                     |
+| [Finematics](https://www.youtube.com/c/Finematics)  
+| [Moralis Web3](https://m.youtube.com/c/MoralisWeb3)                                                 |
 | [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)                           |
 | [Blockholic](https://youtube.com/c/Blockholic)                                                         |
 | [Blockchain at Berkeley](https://youtube.com/c/BlockchainatBerkeley)                                   |
