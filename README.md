@@ -198,6 +198,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
 - [Blockchain DarkForest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
 - [The Crowdsourced Comprehensive Ethereum Reading List](https://github.com/Scanate/EthList)
+- [Official Go implementation of the Ethereum protocol](https://github.com/ethereum/go-ethereum)
 - https://github.com/jklepatch/eattheblocks
 - https://github.com/BlockchainBooks/blockchainbooks.github.io
 - https://github.com/DavidJohnstonCEO/DecentralizedApplications
