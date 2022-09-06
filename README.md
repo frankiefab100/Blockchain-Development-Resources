@@ -187,28 +187,29 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome blockchains](https://github.com/openblockchains/awesome-blockchains)
 - [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 - [Awesome ZK](https://github.com/ventali/awesome-zk)
+- [Awesome ZkEVM](https://github.com/LuozhuZhang/awesome-zkevm)
 - [Awesome cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Building secure contracts](https://github.com/crytic/building-secure-contracts)
 - [Ultimate DeFi research base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [Solidity security](https://github.com/Rari-Capital/solcurity)
 - [Solidity security blog](https://github.com/sigp/solidity-security-blog)
+- [Solidity school](https://github.com/Aniket-Engg/solidity-school)
 - [Crypto List](https://github.com/coinpride/CryptoList)
 - [Solidity trivias](https://github.com/ajsantander/trivias)
 - [Practical cryptography for developers book](https://github.com/nakov/practical-cryptography-for-developers-book)
 - [Awesome openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin)
-- [Blockchain DarkForest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
+- [Blockchain Dark Forest selfguard handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
 - [The Crowdsourced Comprehensive Ethereum Reading List](https://github.com/Scanate/EthList)
+- [Eat the blocks](https://github.com/jklepatch/eattheblocks)
+- [Decentralized Applications](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
+- [Decentralized Websites](https://github.com/unstoppabledomains/decentralized-websites)
+- [EVM Opcodes](https://github.com/crytic/evm-opcodes)
+- [Typechain](https://github.com/dethcrypto/TypeChain)
+- [Awesome blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+- [Awesome rust](https://github.com/rust-unofficial/awesome-rust)
+- [Awesome aeternity](https://github.com/aeternity/awesome-aeternity)
 - [Official Go implementation of the Ethereum protocol](https://github.com/ethereum/go-ethereum)
-- https://github.com/jklepatch/eattheblocks
-- https://github.com/BlockchainBooks/blockchainbooks.github.io
-- https://github.com/DavidJohnstonCEO/DecentralizedApplications
-- https://github.com/dethcrypto/TypeChain
-- https://github.com/jashmenn/bitcoin-reading-list
-- https://github.com/unstoppabledomains/decentralized-websites
-- https://github.com/rust-in-blockchain/awesome-blockchain-rust
-- https://github.com/rust-unofficial/awesome-rust
-- https://github.com/aeternity/awesome-aeternity
-- https://github.com/crytic/evm-opcodes
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
