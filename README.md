@@ -398,7 +398,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 - Building Ethereum DApps: Decentralized Applications on the Ethereum Blockchain - Roberto Infante
 
-- Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt
+- [Mastering the Lightning Network: A Second Layer Blockchain Protocol for Instant Bitcoin Payments - Andreas Antonopoulos, Olaoluwa Osuntokun & Rene Pickhardt](https://github.com/lnbook/lnbook)
 
 - Seizing Opportunities in the Blockchain and Digital Currency Revolution: A Handbook for Enthusiasts - Chimezie Chuta
 
