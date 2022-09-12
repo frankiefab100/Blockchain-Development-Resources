@@ -386,7 +386,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 - Mastering Ethereum: Implement Advanced Blockchain Applications - Merunas Grincalaitis
 
-- Mastering Bitcoin: Programming the Open Blockchain - Andreas M. Antonopoulos
+- [Mastering Bitcoin: Programming the Open Blockchain - Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook)
 
 - The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum - Camila Russo
 
