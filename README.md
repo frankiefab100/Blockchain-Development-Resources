@@ -74,7 +74,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
 | [Learn NEAR Club](https://learnnear.club/)   
 | [Teach yourself Web3](https://www.teachyourselfweb3.com)       
-| [Web3 Freecodecamp](https://web3.freecodecamp.org/)                                                           |
+| [Web3 Freecodecamp](https://web3.freecodecamp.org/) 
+| [Cryptodappy](https://www.cryptodappy.com/)                                                          |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
