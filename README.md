@@ -36,11 +36,11 @@ _If you really appreciate the content of this repository, don't forget to give i
 | -------------------------------------------------------------------------------------------------------------- |
 | [Consensys Academy](https://consensys.net/academy/)                                                            |
 | [Ethereum.org](https://ethereum.org/en/developers/tutorials/)                                                  |
-| [Questbook](https://openquest.xyz/)                                                                         |
+| [Questbook](https://openquest.xyz/)                                                                            |
 | [Buildspace](https://buildspace.so)                                                                            |
 | [Learnweb3](https://web3learn.io/)                                                                             |
 | [The Blockchain School](https://theblockchainschool.io)                                                        |
-| [Blockchain at Berkeley](https://blockchain.berkeley.edu/courses)                                              |
+| [Blockchain at Berkeley](https://blockchain.berkeley.edu/)                                                     |
 | [ProtoSchool](https://proto.school/tutorials)                                                                  |
 | [Dacade](https://dacade.org)                                                                                   |
 | [Figment](https://learn.figment.io)                                                                            |
