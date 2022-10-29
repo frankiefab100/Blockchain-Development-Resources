@@ -216,6 +216,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome blockchain rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 - [Awesome rust](https://github.com/rust-unofficial/awesome-rust)
 - [Awesome aeternity](https://github.com/aeternity/awesome-aeternity)
+- [Metaschool learning projects](https://github.com/0xmetaschool/Learning-Projects)
+
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
