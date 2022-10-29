@@ -36,7 +36,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | -------------------------------------------------------------------------------------------------------------- |
 | [Consensys Academy](https://consensys.net/academy/)                                                            |
 | [Ethereum.org](https://ethereum.org/en/developers/tutorials/)                                                  |
-| [Questbook](https://www.questbook.app)                                                                         |
+| [Questbook](https://openquest.xyz/)                                                                         |
 | [Buildspace](https://buildspace.so)                                                                            |
 | [Learnweb3](https://web3learn.io/)                                                                             |
 | [The Blockchain School](https://theblockchainschool.io)                                                        |
@@ -77,7 +77,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Web3 Freecodecamp](https://web3.freecodecamp.org/) 
 | [Cryptodappy](https://www.cryptodappy.com/)   
 | [Cryptohunt.it](https://www.cryptohunt.it/?ref=20hhh3&r=psm)    
-| [Alchemy university](https://university.alchemy.com/)                                                   |
+| [Alchemy university](https://university.alchemy.com/)                                                 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
