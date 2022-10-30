@@ -217,6 +217,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome rust](https://github.com/rust-unofficial/awesome-rust)
 - [Awesome aeternity](https://github.com/aeternity/awesome-aeternity)
 - [Metaschool learning projects](https://github.com/0xmetaschool/Learning-Projects)
+- [Solana course](https://github.com/Unboxed-Software/solana-course)
 
 
 <div align="right">
