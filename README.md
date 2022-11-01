@@ -244,7 +244,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [NEAR Docs](https://docs.near.org/docs/tutorials/overview)                                                      | NEAR Documentation                                           |
 | [Celo Docs](https://docs.celo.org/)                                                                             | Celo Documentation                                           |
 | [Avalanche Docs](https://docs.avax.network/build/tutorials)                                                     | Avalanche Documentation                                      |
-| [ZKsync Docs](https://docs.zksync.io)                                                                           | ZKSync Documentation                                         |
+| [Flow Docs](https://developers.flow.com/)                                                                           | ZKSync Documentation                                         |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
