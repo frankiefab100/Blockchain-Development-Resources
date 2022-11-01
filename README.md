@@ -38,7 +38,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Ethereum.org](https://ethereum.org/en/developers/tutorials/)                                                  |
 | [Questbook](https://openquest.xyz/)                                                                            |
 | [Buildspace](https://buildspace.so)                                                                            |
-| [Learnweb3](https://web3learn.io/)                                                                             |
+| [Web3Learn](https://web3learn.io/)                                                                             |
 | [The Blockchain School](https://theblockchainschool.io)                                                        |
 | [Blockchain at Berkeley](https://blockchain.berkeley.edu/)                                                     |
 | [ProtoSchool](https://proto.school/tutorials)                                                                  |
