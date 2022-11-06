@@ -342,6 +342,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Hardhat template](https://github.com/paulrberg/hardhat-template)
 - [Web3ui kit](https://github.com/web3ui/web3uikit)
 - [Lens API starter](https://github.com/womenbuildweb3/lens-api-starter)
+- [Solidity template](https://github.com/mattstam/solidity-template)
 
 
 <div align="right">
