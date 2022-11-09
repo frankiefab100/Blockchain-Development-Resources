@@ -34,7 +34,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 |                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------- |
-| [Consensys Academy](https://consensys.net/academy/)                                                            |
+| [Consensys Academy](https://courses.consensys.net/collections)                                                            |
 | [Ethereum.org](https://ethereum.org/en/developers/tutorials/)                                                  |
 | [Questbook](https://openquest.xyz/)                                                                            |
 | [Buildspace](https://buildspace.so)                                                                            |
