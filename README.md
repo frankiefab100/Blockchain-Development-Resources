@@ -328,6 +328,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Web3-ui](https://github.com/Developer-DAO/web3-ui)
 - [Create-web3-frontend](https://github.com/Dhaiwat10/create-web3-frontend)
 - [Wagmi.sh](https://wagmi.sh/)
+- [create-near-app](https://github.com/near/create-near-app)
 - [Eth-hooks](https://scaffold-eth.github.io/eth-hooks/)
 - [Typescript Solidity Dev Starter Kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit)
 - [Dapp scaffold](https://github.com/solana-labs/dapp-scaffold)
