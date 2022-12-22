@@ -201,6 +201,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Ultimate DeFi research base](https://github.com/OffcierCia/ultimate-defi-research-base)
 - [Solidity security](https://github.com/Rari-Capital/solcurity)
 - [Solidity security blog](https://github.com/sigp/solidity-security-blog)
+- [Web3 security library](https://github.com/immunefi-team/Web3-Security-Library)
 - [Solidity school](https://github.com/Aniket-Engg/solidity-school)
 - [Crypto List](https://github.com/coinpride/CryptoList)
 - [Solidity trivias](https://github.com/ajsantander/trivias)
