@@ -77,7 +77,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Web3 Freecodecamp](https://web3.freecodecamp.org/) 
 | [Cryptodappy](https://www.cryptodappy.com/)   
 | [Cryptohunt.it](https://www.cryptohunt.it/?ref=20hhh3&r=psm)    
-| [Alchemy university](https://university.alchemy.com/)                                                 
+| [Alchemy university](https://university.alchemy.com/) 
+| [Buidlguidl](https://buidlguidl.com/)                                                                                  |                                          
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
