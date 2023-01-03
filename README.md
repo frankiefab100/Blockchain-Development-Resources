@@ -347,6 +347,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Web3ui kit](https://github.com/web3ui/web3uikit)
 - [Lens API starter](https://github.com/womenbuildweb3/lens-api-starter)
 - [Solidity template](https://github.com/mattstam/solidity-template)
+- [template-web3-app](https://github.com/turbo-eth/template-web3-app)
 
 
 <div align="right">
