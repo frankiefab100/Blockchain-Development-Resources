@@ -387,7 +387,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [How to code your own cryptokitties style game on ethereum](https://medium.com/loom-network/how-to-code-your-own-cryptokitties-style-game-on-ethereum-7c8ac86a4eb3)
 - [How to create run your own dao](https://medium.com/bitfwd/how-to-create-run-your-own-dao-5e3eadd96962)
 - [The ultimate ENS and dApp tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
-
+- [How Can A Newbie Start Learning About Blockchain?](https://www.blockchain-council.org/blockchain/how-can-a-newbie-start-learning-about-blockchain/)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
