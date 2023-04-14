@@ -298,7 +298,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | --------------------------------------------- | -------------------------------------------------------------------------- |
 | [Moralis](https://moralis.io)                 | Moralis provides a single workflow for building high performance dapps     |
 | [Thirdweb](https://thirdweb.com)              | Powerful SDK and intuitive tools for developers to implement web3 features |
-
+| [walletOS](https://www.pinestreetlabs.com/walletos/) | An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
