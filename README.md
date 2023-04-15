@@ -389,6 +389,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [The ultimate ENS and dApp tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 - [How Can A Newbie Start Learning About Blockchain?](https://www.blockchain-council.org/blockchain/how-can-a-newbie-start-learning-about-blockchain/)
 - [Learn Blockchain Development By Playing Games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
+- [Understanding Blockchain Explorers](https://frankiefab.hashnode.dev/understanding-blockchain-explorers)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
