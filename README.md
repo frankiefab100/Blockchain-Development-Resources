@@ -391,6 +391,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Learn Blockchain Development By Playing Games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
 - [Understanding Blockchain Explorers](https://frankiefab.hashnode.dev/understanding-blockchain-explorers)
 - [Introduction to Blockchain Wallet](https://frankiefab.hashnode.dev/introduction-to-blockchain-wallet)
+- [How To Setup Metamask Account and Add Custom Blockchain Networks](https://frankiefab.hashnode.dev/how-to-setup-metamask-account-and-add-custom-blockchain-networks)
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
