@@ -394,6 +394,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [How To Setup Metamask Account and Add Custom Blockchain Networks](https://frankiefab.hashnode.dev/how-to-setup-metamask-account-and-add-custom-blockchain-networks)
 - [A Guide To Web3 Domain Naming Services](https://frankiefab.hashnode.dev/a-guide-to-web3-domain-naming-services)
 - [20 Web3 Developer Communities You Should Join In 2023](https://frankiefab.hashnode.dev/20-web3-developer-communities-you-should-join-in-2023)
+- [The Future of Science: What You Need to Know About Decentralized Science (DeSci)](https://frankiefab.hashnode.dev/the-future-of-science-what-you-need-to-know-about-decentralized-science-desci)
 
 
 <div align="right">
