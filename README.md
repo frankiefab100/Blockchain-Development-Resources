@@ -81,7 +81,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Buidlguidl](https://buidlguidl.com/)                                                                                  |                                          
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Gamified Tutorials
@@ -97,7 +97,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Crypto Hack](https://cryptohack.org)                                        |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Youtube Channels
@@ -143,7 +143,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Web3Academy](https://youtube.com/c/Web3Academy)                                                       |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Free Online Courses
@@ -165,7 +165,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Blockchain Demo - web-based demonstration of hash, block, distributed ledger, token, public/private key pairs and signing](https://andersbrownworth.com/blockchain/)                                                                                             
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Github Repositories
@@ -223,7 +223,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Tutorial Docs
@@ -249,7 +249,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Flow Docs](https://developers.flow.com/)                                                                       | Flow Documentation                                           |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Development Tools
@@ -301,7 +301,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 
@@ -318,7 +318,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Ankr](https://www.ankr.com/protocol/)| The fastest and most reliable Web3 infrastructure provider                                    |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 
@@ -351,7 +351,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Articles
@@ -398,7 +398,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Recommended Books
@@ -440,5 +440,5 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Token Economy : How the Web3 reinvents the internet - Shermin Voshmgir](https://github.com/sherminvo/TokenEconomyBook/wiki)
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
