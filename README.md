@@ -81,7 +81,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Buidlguidl](https://buidlguidl.com/)                                                                                  |                                          
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Gamified Tutorials
@@ -97,7 +97,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Crypto Hack](https://cryptohack.org)                                        |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Youtube Channels
@@ -143,7 +143,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Web3Academy](https://youtube.com/c/Web3Academy)                                                       |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Free Online Courses
@@ -165,7 +165,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Blockchain Demo - web-based demonstration of hash, block, distributed ledger, token, public/private key pairs and signing](https://andersbrownworth.com/blockchain/)                                                                                             
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Github Repositories
@@ -223,7 +223,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Tutorial Docs
@@ -249,7 +249,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Flow Docs](https://developers.flow.com/)                                                                       | Flow Documentation                                           |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Development Tools
@@ -301,7 +301,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 
@@ -318,7 +318,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Ankr](https://www.ankr.com/protocol/)| The fastest and most reliable Web3 infrastructure provider                                    |
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 
@@ -352,7 +352,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Articles
@@ -389,9 +389,17 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [How to create run your own dao](https://medium.com/bitfwd/how-to-create-run-your-own-dao-5e3eadd96962)
 - [The ultimate ENS and dApp tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 - [How Can A Newbie Start Learning About Blockchain?](https://www.blockchain-council.org/blockchain/how-can-a-newbie-start-learning-about-blockchain/)
+- [Learn Blockchain Development By Playing Games](https://frankiefab.hashnode.dev/learn-blockchain-development-by-playing-games)
+- [Understanding Blockchain Explorers](https://frankiefab.hashnode.dev/understanding-blockchain-explorers)
+- [Introduction to Blockchain Wallet](https://frankiefab.hashnode.dev/introduction-to-blockchain-wallet)
+- [How To Setup Metamask Account and Add Custom Blockchain Networks](https://frankiefab.hashnode.dev/how-to-setup-metamask-account-and-add-custom-blockchain-networks)
+- [A Guide To Web3 Domain Naming Services](https://frankiefab.hashnode.dev/a-guide-to-web3-domain-naming-services)
+- [20 Web3 Developer Communities You Should Join In 2023](https://frankiefab.hashnode.dev/20-web3-developer-communities-you-should-join-in-2023)
+- [The Future of Science: What You Need to Know About Decentralized Science (DeSci)](https://frankiefab.hashnode.dev/the-future-of-science-what-you-need-to-know-about-decentralized-science-desci)
+
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Recommended Books
@@ -433,5 +441,5 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Token Economy : How the Web3 reinvents the internet - Shermin Voshmgir](https://github.com/sherminvo/TokenEconomyBook/wiki)
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
