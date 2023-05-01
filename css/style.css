@@ -604,7 +604,7 @@ section.cover {
 }
 
 section.cover.show {
-	display: flex;
+	/* display: flex; */
 	background: var(--coverBackground)!important;
 }
 
