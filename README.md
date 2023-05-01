@@ -324,6 +324,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Project Starter
 
+- [Create-web3-dapp](https://github.com/alchemyplatform/create-web3-dapp)
 - [Scaffold-Eth](https://github.com/scaffold-eth/scaffold-eth)
 - [Create-eth-app](https://github.com/paulrberg/create-eth-app)
 - [Web3-react](https://github.com/NoahZinsmeister/web3-react)
