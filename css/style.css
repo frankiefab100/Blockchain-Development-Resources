@@ -599,13 +599,13 @@ section.cover {
 	background-position: 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	/* height: 100vh; */
+	height: 0vh;
 	display: none
 }
 
 section.cover.show {
 	display: none;
-	background: var(--coverBackground)!important;
+	/* background: var(--coverBackground)!important; */
 }
 
 section.cover.has-mask .mask {
