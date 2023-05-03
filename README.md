@@ -16,17 +16,20 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Table of Contents
 
-- [Websites](#websites)
-- [Gamified Tutorials](#gamified-tutorials)
-- [Youtube Channels](#youtube-channels)
-- [Free Online Courses](#free-online-courses)
-- [Github Repositories](#github-repositories)
-- [Tutorial Docs](#tutorial-docs)
-- [Development Tools](#development-tools)
-- [Node Providers](#node-providers)
-- [Project Starter](#project-starter)
-- [Articles](#articles)
-- [Recommended Books](#recommended-books)
+- [Blockchain Development Resources](#blockchain-development-resources)
+      - [Please carefully read `Contributing guidelines` before opening a pull request or issue.](#please-carefully-read-contributing-guidelines-before-opening-a-pull-request-or-issue)
+  - [Table of Contents](#table-of-contents)
+  - [Websites](#websites)
+  - [Gamified Tutorials](#gamified-tutorials)
+  - [Youtube Channels](#youtube-channels)
+  - [Free Online Courses](#free-online-courses)
+  - [Github Repositories](#github-repositories)
+  - [Tutorial Docs](#tutorial-docs)
+  - [Development Tools](#development-tools)
+  - [Node Providers](#node-providers)
+  - [Project Starter](#project-starter)
+  - [Articles](#articles)
+  - [Recommended Books](#recommended-books)
 
 ---
 
@@ -34,7 +37,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 |                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------- |
-| [Consensys Academy](https://courses.consensys.net/collections)                                                            |
+| [Consensys Academy](https://courses.consensys.net/collections)                                                 |
 | [Ethereum.org](https://ethereum.org/en/developers/tutorials/)                                                  |
 | [Questbook](https://openquest.xyz/)                                                                            |
 | [Buildspace](https://buildspace.so)                                                                            |
@@ -72,13 +75,13 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Codiesalert](https://www.codiesalert.com/)                                                                    |
 | [Soliditytips](https://soliditytips.com/)                                                                      |
 | [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
-| [Learn NEAR Club](https://learnnear.club/)   
-| [Teach yourself Web3](https://www.teachyourselfweb3.com)       
-| [Web3 Freecodecamp](https://web3.freecodecamp.org/) 
-| [Cryptodappy](https://www.cryptodappy.com/)   
-| [Cryptohunt.it](https://www.cryptohunt.it/?ref=20hhh3&r=psm)    
-| [Alchemy university](https://university.alchemy.com/) 
-| [Buidlguidl](https://buidlguidl.com/)                                                                                  |                                          
+| [Learn NEAR Club](https://learnnear.club/)                                                                     |
+| [Teach yourself Web3](https://www.teachyourselfweb3.com)                                                       |
+| [Web3 Freecodecamp](https://web3.freecodecamp.org/)                                                            |
+| [Cryptodappy](https://www.cryptodappy.com/)                                                                    |
+| [Cryptohunt.it](https://www.cryptohunt.it/?ref=20hhh3&r=psm)                                                   |
+| [Alchemy university](https://university.alchemy.com/)                                                          |
+| [Buidlguidl](https://buidlguidl.com/)                                                                          |
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
@@ -118,8 +121,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Hashlips NFT](https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8)               |
 | [Patrick Collins](https://m.youtube.com/c/patrickcollins)                                              |
 | [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)                                  |
-| [Finematics](https://www.youtube.com/c/Finematics)  
-| [Moralis Web3](https://m.youtube.com/c/MoralisWeb3)                                                 |
+| [Finematics](https://www.youtube.com/c/Finematics)                                                     |
+| [Moralis Web3](https://m.youtube.com/c/MoralisWeb3)                                                    |
 | [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)                           |
 | [Blockholic](https://youtube.com/c/Blockholic)                                                         |
 | [Blockchain at Berkeley](https://youtube.com/c/BlockchainatBerkeley)                                   |
@@ -148,21 +151,21 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Free Online Courses
 
-|                                                                                                                                     |
-| ----------------------------------------------------------------------------------------------------------------------------------- |
-| [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) 
-| [Build and Deploy a Modern Web 3.0 Blockchain App - Solidity Smart Contracts Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
-| [Learn Blockchain, Solidity and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)                         
-| [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)
-| [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
-| [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)
-| [Blockchain and Deep Learning of AI](https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/)
-| [Understanding Blockchain Technology](https://www.udemy.com/course/understanding-blockchain-technology/)
-| [Ethereum](https://www.ludu.co/course/ethereum)
-| [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)
-| [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)
-| [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)
-| [Blockchain Demo - web-based demonstration of hash, block, distributed ledger, token, public/private key pairs and signing](https://andersbrownworth.com/blockchain/)                                                                                             
+|                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)                                   |
+| [Build and Deploy a Modern Web 3.0 Blockchain App - Solidity Smart Contracts Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)                                     |
+| [Learn Blockchain, Solidity and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)                                                            |
+| [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)                                                                                |
+| [Blockchain Technology](https://www.edx.org/course/blockchain-technology)                                                                                             |
+| [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)                                                                                                   |
+| [Blockchain and Deep Learning of AI](https://www.udemy.com/course/blockchain-and-deep-learning-future-of-ai/)                                                         |
+| [Understanding Blockchain Technology](https://www.udemy.com/course/understanding-blockchain-technology/)                                                              |
+| [Ethereum](https://www.ludu.co/course/ethereum)                                                                                                                       |
+| [Blockchain Technology and Applications](https://alison.com/course/diploma-in-blockchain-technology-and-applications)                                                 |
+| [Blockchain Technology Fundamentals](https://witscad.com/course/blockchain-technology-fundamentals)                                                                   |
+| [Enterprise Blockchains Fundamentals](https://academy.101blockchains.com/courses/enterprise-blockchains-fundamentals)                                                 |
+| [Blockchain Demo - web-based demonstration of hash, block, distributed ledger, token, public/private key pairs and signing](https://andersbrownworth.com/blockchain/) |
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
@@ -272,15 +275,15 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Brownie](https://eth-brownie.readthedocs.io)                         | A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine                                      |
 | [OpenZeppelin](https://docs.openzeppelin.com/learn/)                  | A library for secure smart contract development and community-vetted code                                                                        |
 | [EVM Codes](https://www.evm.codes/)                                   | An interactive reference to Ethereum Virtual Machine Opcodes                                                                                     |
-|  |
+|                                                                       |
 | [EVM Opcodes](https://www.ethervm.io/)                                | Ethereum Virtual Machine Opcodes                                                                                                                 |
-|  |
+|                                                                       |
 | [Chainlist](https://chainlist.org/)                                   | A list of EVM networks with informations used to connect wallets and Web3 middleware providers to the appropriate Chain and Network ID           |
-|  |
+|                                                                       |
 | [Web3 Type Converter](https://web3-type-converter.onbrn.com/)         | Convert from a bytes32/hex into a string/number or vice-versa                                                                                    |
-|  |
-| [Foundry](https://getfoundry.sh/)                                     | A blazing fast, portable and modular toolkit for Ethereum application development written in Rust                                                                                  |
-|  |
+|                                                                       |
+| [Foundry](https://getfoundry.sh/)                                     | A blazing fast, portable and modular toolkit for Ethereum application development written in Rust                                                |
+|                                                                       |
 
 
 > SOLANA
@@ -294,10 +297,11 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 > Web3 SDK & Platforms
 
-| Platform                                      | Description                                                                |
-| --------------------------------------------- | -------------------------------------------------------------------------- |
-| [Moralis](https://moralis.io)                 | Moralis provides a single workflow for building high performance dapps     |
-| [Thirdweb](https://thirdweb.com)              | Powerful SDK and intuitive tools for developers to implement web3 features |
+| Platform                                                                        | Description                                                                                    |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [Moralis](https://moralis.io)                                                   | Moralis provides a single workflow for building high performance dapps                         |
+| [Thirdweb](https://thirdweb.com)                                                | Powerful SDK and intuitive tools for developers to implement web3 features                     |
+| [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) | Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems |
 
 
 <div align="right">
@@ -309,13 +313,13 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 > Infrastructure services provides instant and reliable infrastructure, empowering developers to create dApps and enhance efficiency.
 
-| Infrastructure Service                | Description                                                                                   |
-| ------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [NodeReal](https://nodereal.io)       | NodeReal is a blockchain infrastructure and services provider                                 |
-| [Infura](https://infura.io/)          | Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
-| [Alchemy](https://www.alchemy.com)    | Alchemy provides infrastructure service to build great blockchain applications                |
-| [QuickNode](https://www.quicknode.com)| A single platform for your production, staging, and testing environments                      |
-| [Ankr](https://www.ankr.com/protocol/)| The fastest and most reliable Web3 infrastructure provider                                    |
+| Infrastructure Service                 | Description                                                                                   |
+| -------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [NodeReal](https://nodereal.io)        | NodeReal is a blockchain infrastructure and services provider                                 |
+| [Infura](https://infura.io/)           | Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
+| [Alchemy](https://www.alchemy.com)     | Alchemy provides infrastructure service to build great blockchain applications                |
+| [QuickNode](https://www.quicknode.com) | A single platform for your production, staging, and testing environments                      |
+| [Ankr](https://www.ankr.com/protocol/) | The fastest and most reliable Web3 infrastructure provider                                    |
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
