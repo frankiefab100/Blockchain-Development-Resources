@@ -349,6 +349,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Lens API starter](https://github.com/womenbuildweb3/lens-api-starter)
 - [Solidity template](https://github.com/mattstam/solidity-template)
 - [template-web3-app](https://github.com/turbo-eth/template-web3-app)
+- [Boilr3](https://github.com/Envoy-VC/boilr3)
 
 
 <div align="right">
