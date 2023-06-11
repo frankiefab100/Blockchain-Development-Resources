@@ -235,6 +235,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Getting started with Blockchain](https://kauri.io/#collections/Getting%20Started/blockchain-explained/)        | Getting started with Blockchain by Kauri                     |
 | [Public Good Blockchain Development Guide](https://www.devpill.me/docs)                                         | Blockchain Development Guide by Devpill                      |
 | [Ethereum Blockchain Development](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development) | Get started with blockchain development by Microsoft         |
+| [Chainstack Web3 Decoded](https://docs.chainstack.com/docs/web3-decoded-introduction)                           | Diving into Web3 development with Chaintack                  |
 | [Hello World Smart Contracts](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract)            | Smart Contract Tutorial by Alchemy                           |
 | [Learn Solidity in Y Minutes](https://learnxinyminutes.com/docs/solidity)                                       | Solidity Tutorial by Learn-x-in-y-minutes                    |
 | [Solidity Docs](https://solidity.readthedocs.io)                                                                | Solidity Tutorial                                            |
@@ -314,6 +315,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [NodeReal](https://nodereal.io)       | NodeReal is a blockchain infrastructure and services provider                                 |
 | [Infura](https://infura.io/)          | Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
 | [Alchemy](https://www.alchemy.com)    | Alchemy provides infrastructure service to build great blockchain applications                |
+| [Chainstack](https://www.chainstack.com) | Chainstack is the leading suite of services connecting developers with Web3 infrastructure |
 | [QuickNode](https://www.quicknode.com)| A single platform for your production, staging, and testing environments                      |
 | [Ankr](https://www.ankr.com/protocol/)| The fastest and most reliable Web3 infrastructure provider                                    |
 
