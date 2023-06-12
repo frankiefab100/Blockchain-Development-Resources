@@ -350,6 +350,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Solidity template](https://github.com/mattstam/solidity-template)
 - [template-web3-app](https://github.com/turbo-eth/template-web3-app)
 - [Boilr3](https://github.com/Envoy-VC/boilr3)
+- [Solidity hardhat typescript boilerplate](https://github.com/emretepedev/solidity-hardhat-typescript-boilerplate)
 
 
 <div align="right">
