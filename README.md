@@ -72,13 +72,13 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Codiesalert](https://www.codiesalert.com/)                                                                    |
 | [Soliditytips](https://soliditytips.com/)                                                                      |
 | [Cryptopedia](https://www.gemini.com/cryptopedia)                                                              |
-| [Learn NEAR Club](https://learnnear.club/)   
-| [Teach yourself Web3](https://www.teachyourselfweb3.com)       
-| [Web3 Freecodecamp](https://web3.freecodecamp.org/) 
-| [Cryptodappy](https://www.cryptodappy.com/)   
-| [Cryptohunt.it](https://www.cryptohunt.it/?ref=20hhh3&r=psm)    
-| [Alchemy university](https://university.alchemy.com/) 
-| [Buidlguidl](https://buidlguidl.com/)                                                                                  |                                          
+| [Learn NEAR Club](https://learnnear.club/)                                                                     |
+| [Teach yourself Web3](https://www.teachyourselfweb3.com)                                                       | 
+| [Web3 Freecodecamp](https://web3.freecodecamp.org/)                                                            |
+| [Cryptodappy](https://www.cryptodappy.com/)                                                                    |
+| [MetaMask Learn](https://learn.metamask.io/)                                                                   |
+| [Alchemy university](https://university.alchemy.com/)                                                          |
+| [Buidlguidl](https://buidlguidl.com/)                                                                          |                                                                                     
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
