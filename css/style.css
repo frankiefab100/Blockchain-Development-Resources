@@ -605,7 +605,7 @@ section.cover {
 
 section.cover.show {
 	display: inline;
-	/* background: var(--coverBackground)!important; */
+	background: var(--coverBackground)!important;
 }
 
 section.cover.has-mask .mask {
