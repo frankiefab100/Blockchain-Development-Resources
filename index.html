@@ -16,6 +16,14 @@
     type="text/css"
   />
   <link rel="stylesheet" href="css/style.css">
+      <!-- Edit on GitHub plugin. -->
+    <script src="//unpkg.com/docsify-edit-on-github@1/index.js"></script>
+
+    <!-- Docsify core. -->
+    <script defer src="//unpkg.com/docsify@4/lib/docsify.min.js"></script>
+    <!-- Syntax highlighting.-->
+    <!-- TODO: Add prism-bash, prism-python, prism-javascript etc. as separate items so you can load syntax highlighting for that language. -->
+    <script defer src="//unpkg.com/prismjs@1/components/prism-markdown.min.js"></script>
 </head>
 <body>
   <div id="app">Blockchain Development Resources ...</div>
@@ -47,6 +55,26 @@
         }
       ],
     }
+  </script>
+  <script>
+        var repoUrl = "https://github.com/frankiefab100/Blockchain-Development-Resources/"; ;  ; // TODO: Update.
+        var editPath = repoUrl + "/blob/main/docs/";
+        var editMsg = "📝 Edit on GitHub";
+        
+        window.$docsify = {
+            name: "Blockchain Development Resources", 
+            repo: repoUrl,
+            
+            auto2top: true,
+            coverpage: true,
+            loadSidebar: false,
+            subMaxLevel: 2,
+            themeColor: "#224", 
+            plugins: [
+                EditOnGithubPlugin.create(editPath, null, editMsg)
+            ],
+        }
+
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
