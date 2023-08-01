@@ -8,16 +8,11 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css">
   <link rel="stylesheet" href="css/style.css">
-    <!-- Edit on GitHub plugin. -->
-  <script src="//unpkg.com/docsify-edit-on-github@1/index.js"></script>
 </head>
 <body>
   <div id="app">Free Blockchain Development Resources...</div>
-  <div id="edit-link">
-    <a href="https://github.com/frankiefab100/Blockchain-Development-Resources" target="_blank">
-      <img src="https://img.shields.io/badge/Edit%20on%20GitHub-ff79c6?style=flat-square&logo=github" alt="Edit on GitHub">
-    </a>
-  </div>
+    <!-- Edit on GitHub plugin. -->
+  <script src="//unpkg.com/docsify-edit-on-github@1/index.js"></script>
   <script>
     window.$docsify = {
         search: 'auto',
@@ -39,9 +34,9 @@
         label: 'Edit on GitHub',
       },
       plugins: [
-        // EditOnGithubPlugin.create(
-        //   'https://github.com/frankiefab100/Blockchain-Development-Resources/edit/blob/nain/'
-        // ),
+        EditOnGithubPlugin.create(
+          'https://github.com/frankiefab100/Blockchain-Development-Resources/edit/blob/nain/'
+        ),
         function(hook) {
           var footer = [
             '<footer style="text-align: center;margin-top: 50px;">',
