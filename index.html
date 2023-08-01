@@ -11,12 +11,13 @@
 </head>
 <body>
   <div id="app">Free Blockchain Development Resources...</div>
-    <!-- Edit on GitHub plugin. -->
-  <script src="//unpkg.com/docsify-edit-on-github@1/index.js"></script>
   <script>
     window.$docsify = {
-        search: 'auto',
-        search: {
+      search: 'auto',
+    
+      coverpage: true,
+      name: 'Blockchain Development Resources',
+      search: {
         noData: {
           '/': 'No results!'
         },
@@ -25,8 +26,6 @@
           '/': 'Search'
         }
       },
-      coverpage: true,
-      name: 'Blockchain Development Resources',
       editOnGitHub: {
         base: 'https://github.com/frankiefab100/Blockchain-Development-Resources/edit/main/',
         repo: 'frankiefab100/Blockchain-Development-Resources',
@@ -35,7 +34,7 @@
       },
       plugins: [
         EditOnGithubPlugin.create(
-          'https://github.com/frankiefab100/Blockchain-Development-Resources/edit/blob/nain/'
+          'https://github.com/frankiefab100/Blockchain-Development-Resources/edit/blob/main/'
         ),
         function(hook) {
           var footer = [
@@ -51,6 +50,10 @@
       ],
     };
   </script>
+
+  
+    <!-- Edit on GitHub plugin. -->
+  <script src="//unpkg.com/docsify-edit-on-github@1/index.js"></script>
   <script src="//unpkg.com/docsify@latest"></script>
   <script src="//unpkg.com/docsify-darklight-theme@latest/dist/index.min.js"></script>
 </body>
