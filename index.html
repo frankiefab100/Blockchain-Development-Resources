@@ -13,8 +13,14 @@
 </head>
 <body>
   <div id="app">Free Blockchain Development Resources...</div>
+  <div id="edit-link">
+    <a href="https://github.com/frankiefab100/Blockchain-Development-Resources" target="_blank">
+      <img src="https://img.shields.io/badge/Edit%20on%20GitHub-ff79c6?style=flat-square&logo=github" alt="Edit on GitHub">
+    </a>
+  </div>
   <script>
     window.$docsify = {
+        search: 'auto',
         search: {
         noData: {
           '/': 'No results!'
@@ -33,6 +39,9 @@
         label: 'Edit on GitHub',
       },
       plugins: [
+        // EditOnGithubPlugin.create(
+        //   'https://github.com/frankiefab100/Blockchain-Development-Resources/edit/blob/nain/'
+        // ),
         function(hook) {
           var footer = [
             '<footer style="text-align: center;margin-top: 50px;">',
