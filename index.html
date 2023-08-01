@@ -33,16 +33,29 @@
         var repoUrl = "https://github.com/frankiefab100/Blockchain-Development-Resources";
         var editPath = repoUrl + "/blob/main/";
         var editMsg = "📝 Edit on GitHub";
-    
+
+    window.$docsify = {
+            name: 'Blockchain Development Resources', 
+            repo: repoUrl,
+            
+            auto2top: true,
+            coverpage: true,
+            loadSidebar: false,
+            subMaxLevel: 2,
+            themeColor: "#3170a7", 
+
+            plugins: [
+                EditOnGithubPlugin.create(editPath, null, editMsg)
+            ],
+        }
+  </script>
+
+  <script>
     window.$docsify = {
       search: 'auto',
       coverpage: true,
       name: 'Blockchain Development Resources',
-      repo: repoUrl,    
-      auto2top: true,
-      loadSidebar: false,
-      subMaxLevel: 2,
-      themeColor: "#224",
+    
       search: {
         noData: {
           '/': 'No results!'
@@ -53,9 +66,6 @@
         }
       },
       plugins: [
-          EditOnGithubPlugin.create(editPath, null, editMsg)
-        ],
-        [
         function(hook) {
           var footer = [
             '<footer style="text-align: center;margin-top: 50px;">',
