@@ -318,6 +318,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Chainstack](https://www.chainstack.com) | Chainstack is the leading suite of services connecting developers with Web3 infrastructure |
 | [QuickNode](https://www.quicknode.com)| A single platform for your production, staging, and testing environments                      |
 | [Ankr](https://www.ankr.com/protocol/)| The fastest and most reliable Web3 infrastructure provider                                    |
+| [GetBlock](https://getblock.io/)| A flexible Blockchain RPC Provider that offers instant API access to over 50 multiple blockchains   |
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
