@@ -154,6 +154,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) 
 | [Build and Deploy a Modern Web 3.0 Blockchain App - Solidity Smart Contracts Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+[Blockchain Development Powered By AI](https://www.youtube.com/watch?v=umepbfKp5rI)
 | [Learn Blockchain, Solidity and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)                         
 | [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)
 | [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
