@@ -78,7 +78,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Cryptodappy](https://www.cryptodappy.com/)                                                                    |
 | [MetaMask Learn](https://learn.metamask.io/)                                                                   |
 | [Alchemy university](https://university.alchemy.com/)                                                          |
-| [Buidlguidl](https://buidlguidl.com/)                                                                          |                                                                                     
+| [Buidlguidl](https://buidlguidl.com/)                                                                          |                  
+| [Celo Academy](https://celo.academy/)                                                                          |                  
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
@@ -372,6 +373,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Ethereum dapp crash course - make an erc20 token faucet frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [How to create an erc20 token and a solidity vendor contract](https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m)
 - [Building on ethereum mainnet](https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/)
+- [Creating, Deploying, and Minting your ERC1155 token on Celo](https://celo.academy/t/creating-deploying-minting-your-erc1155-token-on-celo/75)
 - [Ethereum dev speed run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 - [Ethereum for web-developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 - [How to deploy your first smart contract on ethereum with solidity and hardhat](https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e)
@@ -386,6 +388,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Building scalable full stack apps on ethereum with polygon](https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
 - [How to make an nft and render on opensea marketplace](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
 - [Build defi yield farming application with chainlink](https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/)
+- [How to make Contract Calls using Hardhat](https://celo.academy/t/how-to-create-and-test-contract-calls-with-celo-and-hardhat/42)
+- [Smart Contract Unit Testing with Truffle](https://celo.academy/t/unit-testing-with-truffle-and-celo/40)
 - [Intro security hacking smart contracts ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 - [How to build a blockchain in rust](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
 - [Web 3.0 and the evolution of the internet](https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk)
