@@ -169,9 +169,10 @@ _If you really appreciate the content of this repository, don't forget to give i
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Github Repositories
+## GitHub Repositories
 - [Full blockchain solidity course javascript](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 - [Full blockchain solidity course python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+- [Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI ](https://github.com/Cyfrin/foundry-full-course-f23)
 - [Blockchain for software engineers](https://github.com/benstew/blockchain-for-software-engineers)
 - [Ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
 - [Awesome solidity](https://github.com/bkrem/awesome-solidity)
@@ -181,6 +182,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome solidity BlockchainLabs](https://github.com/BlockchainLabsNZ/awesome-solidity)
 - [Solidity 101](https://github.com/l-henri/solidity-101)
 - [Web3.0 Roadmap](https://github.com/frankiefab100/Web3.0-Roadmap)
+- [Web3 Terms](https://github.com/Olanetsoft/web3terms)
 - [Smart contract resources](https://github.com/ErichDylus/Smart-Contract-Resources)
 - [Learning solidity](https://github.com/pbrudny/learning-solidity-2018)
 - [Solidity notes](https://github.com/0xpranay/solidity-notes)
