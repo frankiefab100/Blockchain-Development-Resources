@@ -61,6 +61,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Althash University](https://www.althash.university/colleges-schools/blockchain-internship-youth-program-biyp) |
 | [We teach Blockchain](https://weteachblockchain.org/courses)                                                   |
 | [Cadena](https://cadena.dev)                                                                                   |
+| [Learn Web3](https://learnweb3.io/)                                                                            |
 | [Tacode](https://tacode.dev)                                                                                   |
 | [NFTschool](https://nftschool.dev)                                                                             |
 | [StartonSolana](https://www.startonsolana.com/)                                                                |
@@ -78,7 +79,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Cryptodappy](https://www.cryptodappy.com/)                                                                    |
 | [MetaMask Learn](https://learn.metamask.io/)                                                                   |
 | [Alchemy university](https://university.alchemy.com/)                                                          |
-| [Buidlguidl](https://buidlguidl.com/)                                                                          |                                                                                     
+| [Buidlguidl](https://buidlguidl.com/)                                                                          |                  
+| [Celo Academy](https://celo.academy/)                                                                          |                  
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
@@ -104,43 +106,43 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 |                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ |
-| [DApp University](https://www.youtube.com/c/DAppuniversity)                                            |
-| [Eat the blocks](https://www.youtube.com/c/EatTheBlocks)                                               |
-| [Ivan on Tech](https://www.youtube.com/c/IvanonTech/)                                                  |
-| [Nader Dabit](https://www.youtube.com/c/naderdabit/)                                                   |
-| [Samarth Developer](https://www.youtube.com/channel/UCfBN8r71cRThmEptCGJaX7w/)                         |
-| [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)                            |
-| [Merunas Grincalaitis](https://www.youtube.com/channel/UCJInIwgW1duAEnMHHxDK7XQ)                       |
-| [Will it Scale](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)                  |
-| [Design Course](https://youtube.com/playlist?list=PL0lNJEnwfVVMuX2Ds19Wj_7Mcze3FDJr3)                  |
-| [Smart Contract Programmer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)                  |
-| [Alchemy](https://www.youtube.com/channel/UCtvTdPZWUwW4whk9CLlCBug)                                    |
-| [Hashlips NFT](https://www.youtube.com/playlist?list=PLvfQp12V0hS0-3AjKWAve5QHy3W6lOfO8)               |
-| [Patrick Collins](https://m.youtube.com/c/patrickcollins)                                              |
-| [ETHGlobal](https://www.youtube.com/channel/UCfF9ZO8Ug4xk_AJd4aeT5HA)                                  |
-| [Finematics](https://www.youtube.com/c/Finematics)  
-| [Moralis Web3](https://m.youtube.com/c/MoralisWeb3)                                                 |
-| [Practical Blockchain](https://youtube.com/channel/UCJCPs6IQ5SiDanwFg1RMysQ)                           |
+| [DApp University](https://www.youtube.com/@DAppuniversity)                                            |
+| [Eat the blocks](https://www.youtube.com/@eattheblocks)                                               |
+| [Ivan on Tech](https://www.youtube.com/@ivanontech)                                                  |
+| [Nader Dabit](https://www.youtube.com/@naderdabit)                                                   |
+| [Samarth Developer](https://www.youtube.com/@samarthdeveloper6795)                         |
+| [Austin Griffith](https://www.youtube.com/@austingriffith3550)                            |
+| [Merunas Grincalaitis](https://www.youtube.com/@merunasg)                       |
+| [Will it Scale](https://www.youtube.com/@willitscale)                  |
+| [Smart Contract Programmer](https://www.youtube.com/@smartcontractprogrammer)                  |
+| [Alchemy](https://www.youtube.com/@alchemyplatform)                                    |
+| [Hashlips NFT](https://www.youtube.com/@HashLipsNFT)               |
+| [Patrick Collins](https://www.youtube.com/@PatrickAlphaC)                                              |
+| [ETHGlobal](https://www.youtube.com/@ethglobal)                                  |
+| [Finematics](https://www.youtube.com/@finematics)  
+| [Moralis Web3](https://www.youtube.com/@moralisweb3)                                                 |
+| [Practical Blockchain](https://www.youtube.com/@practicalblockchain)                           |
 | [Blockholic](https://youtube.com/c/Blockholic)                                                         |
-| [Blockchain at Berkeley](https://youtube.com/c/BlockchainatBerkeley)                                   |
-| [Vlad Wulf](https://youtube.com/channel/UCsVoOobxAQL6NbWY2t6E6Sg)                                      |
-| [Ethereum Engineering Group](https://youtube.com/c/EthereumEngineeringGroup)                           |
-| [Web3 Club](https://youtube.com/channel/UCJbA7dA_YPbnef0vEBFuhKQ)                                      |
-| [Center for Innovative Finance](https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg)              |
-| [Web3 Foundation](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J) |
-| [Learn Web3DAO](https://youtube.com/c/LearnWeb3DAO)                                                    |
-| [Block Explorer](https://youtube.com/c/BlockExplorerMedia)                                             |
-| [CodeXpert](https://youtube.com/c/CodeXpert)                                                           |
-| [Learn Web3](https://youtube.com/channel/UCjl8iG0tFvwyLapBPluLfKw)                                     |
-| [Edureka](https://www.youtube.com/watch?v=9qfxLo1rt1Q&list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1)         |
-| [Code Eater](https://www.youtube.com/c/CodeEater21)                                                    |
-| [Mobilefish.com](https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x)  |
-| [Simplilearn](https://www.youtube.com/watch?v=yubzJw0uiE4&list=PLEiEAq2VkUUKmhU6SO2P73pTdMZnHOsDB)     |
-| [Crypto white board](https://www.youtube.com/c/WhiteboardCrypto)                                       |
-| [Aeternity Blockchain](https://www.youtube.com/c/aeternityblockchain)                                  |
-| [Chainlink](https://www.youtube.com/c/chainlink)                                                       |
-| [Codiesalert](https://youtube.com/channel/UCpuR8mLqFrHokwPZBdLNdWA)                                    |
-| [Web3Academy](https://youtube.com/c/Web3Academy)                                                       |
+| [Blockchain at Berkeley](https://www.youtube.com/@blockholic)                                   |
+| [Vlad Wulf](https://www.youtube.com/@vladwulf5207)                                      |
+| [Ethereum Engineering Group](https://youtube.com/@EthereumEngineeringGroup)                           |
+| [Web3 Club](https://www.youtube.com/@web3club)                                      |
+| [Center for Innovative Finance](https://www.youtube.com/@centerforinnovativefinance3039)              |
+| [Web3 Foundation](https://www.youtube.com/@web3foundation) |
+| [Learn Web3DAO](https://www.youtube.com/@learnweb3dao)                                                    |
+| [Block Explorer](https://www.youtube.com/@blockexplorermedia)                                             |
+| [CodeXpert](https://www.youtube.com/@codexpert)                                                           |
+| [Web3 Learn](https://youtube.com/channel/UCjl8iG0tFvwyLapBPluLfKw)                                     |
+| [Edureka](https://www.youtube.com/@edurekaIN)         |
+| [Code Eater](https://www.youtube.com/@CodeEater21)                                                    |
+| [Mobilefish.com](https://www.youtube.com/@mobilefish)  |
+| [Simplilearn](https://www.youtube.com/@simplilearn)     |
+| [Crypto white board](https://www.youtube.com/@WhiteboardCrypto)                                       |
+| [Aeternity Blockchain](https://www.youtube.com/@aeternityblockchain)                                  |
+| [Chainlink](https://www.youtube.com/@chainlink)                                                       |
+| [Codiesalert](https://www.youtube.com/@codiesalert4496)                                    |
+| [Web3Academy](https://youtube.com/@Web3Academy)                                                       |
+| [Cyfrin Audits](https://www.youtube.com/@CyfrinAudits)
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
@@ -152,6 +154,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) 
 | [Build and Deploy a Modern Web 3.0 Blockchain App - Solidity Smart Contracts Crypto](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+[Blockchain Development Powered By AI](https://www.youtube.com/watch?v=umepbfKp5rI)
 | [Learn Blockchain, Solidity and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ)                         
 | [Blockchain Theory 101](https://www.udemy.com/share/101yjc2@PUdKbFpaTVMPcUBCO0hOfg==/)
 | [Blockchain Technology](https://www.edx.org/course/blockchain-technology)
@@ -168,9 +171,10 @@ _If you really appreciate the content of this repository, don't forget to give i
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Github Repositories
+## GitHub Repositories
 - [Full blockchain solidity course javascript](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 - [Full blockchain solidity course python](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+- [Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI ](https://github.com/Cyfrin/foundry-full-course-f23)
 - [Blockchain for software engineers](https://github.com/benstew/blockchain-for-software-engineers)
 - [Ethereum developer tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)
 - [Awesome solidity](https://github.com/bkrem/awesome-solidity)
@@ -180,6 +184,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome solidity BlockchainLabs](https://github.com/BlockchainLabsNZ/awesome-solidity)
 - [Solidity 101](https://github.com/l-henri/solidity-101)
 - [Web3.0 Roadmap](https://github.com/frankiefab100/Web3.0-Roadmap)
+- [Web3 Terms](https://github.com/Olanetsoft/web3terms)
 - [Smart contract resources](https://github.com/ErichDylus/Smart-Contract-Resources)
 - [Learning solidity](https://github.com/pbrudny/learning-solidity-2018)
 - [Solidity notes](https://github.com/0xpranay/solidity-notes)
@@ -372,6 +377,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Ethereum dapp crash course - make an erc20 token faucet frontend](https://dev.to/richardmelko/ethereum-dapp-crash-course-make-an-erc20-token-faucet-frontend-2m43)
 - [How to create an erc20 token and a solidity vendor contract](https://dev.to/stermi/how-to-create-an-erc20-token-and-a-solidity-vendor-contract-to-sell-buy-your-own-token-4j1m)
 - [Building on ethereum mainnet](https://kndrck.co/posts/building-on-ethereum-mainnet-an-opinionated-guide/)
+- [Creating, Deploying, and Minting your ERC1155 token on Celo](https://celo.academy/t/creating-deploying-minting-your-erc1155-token-on-celo/75)
 - [Ethereum dev speed run](https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c)
 - [Ethereum for web-developers](https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c)
 - [How to deploy your first smart contract on ethereum with solidity and hardhat](https://stermi.medium.com/how-to-deploy-your-first-smart-contract-on-ethereum-with-solidity-and-hardhat-22f21d31096e)
@@ -386,6 +392,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Building scalable full stack apps on ethereum with polygon](https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
 - [How to make an nft and render on opensea marketplace](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
 - [Build defi yield farming application with chainlink](https://blog.chain.link/build-defi-yield-farming-application-with-chainlink/)
+- [How to make Contract Calls using Hardhat](https://celo.academy/t/how-to-create-and-test-contract-calls-with-celo-and-hardhat/42)
+- [Smart Contract Unit Testing with Truffle](https://celo.academy/t/unit-testing-with-truffle-and-celo/40)
 - [Intro security hacking smart contracts ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 - [How to build a blockchain in rust](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
 - [Web 3.0 and the evolution of the internet](https://dev.to/frankiefab100/web-30-and-the-evolution-of-the-internet-56hk)
