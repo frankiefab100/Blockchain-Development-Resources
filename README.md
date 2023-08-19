@@ -4,7 +4,7 @@
 
 # Blockchain Development Resources
 
-A curated list of FREE resources for learning blockchain development and web3 in general. Featuring free learning platforms, websites, online courses, tutorials, documentations, games, project starter templates, articles and books; useful for blockchain enthusiasts, engineers, crypto enthusiasts, developers, designers and stakeholders in the web3 space.
+A curated list of FREE resources for learning blockchain development and Web3 in general. Featuring free learning platforms, websites, online courses, tutorials, documentation, games, project starter templates, articles, and books; useful for blockchain enthusiasts, engineers, crypto enthusiasts, developers, designers, and stakeholders in the web3 space.
 
 It comprises of links to a range of topics like Introduction to Blockchain technology, Web3 and revolution of the Internet, deployment of smart contracts on Ethereum, Solana, Aeternity, Polygon, Celo and other EVM-compatible Blockchain networks, Minting of NFTs, building decentralized applications (DApps), lending protocols and tokens, creating decentralized autonomous organizations (DAOs), fundamentals of cryptography and distributed ledger technology, smart contract security, zero knowledge proof, understanding decentralized finance, How-to-use tutorials on Blockchain development tools and technologies - **RemixIDE, Metamask, Hardhat, Web3js, Ganache, Ethersjs, Web3py, Truffle, OpenZeppelin, Infura, IPFS**; including programming languages for writing smart contracts - **Solidity, Vyper, Rust, Golang, Sophia**.
 
@@ -34,7 +34,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 |                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------- |
-| [Consensys Academy](https://courses.consensys.net/collections)                                                            |
+| [Consensys Academy](https://courses.consensys.net/collections)                                                 |
 | [Ethereum.org](https://ethereum.org/en/developers/tutorials/)                                                  |
 | [Questbook](https://openquest.xyz/)                                                                            |
 | [Buildspace](https://buildspace.so)                                                                            |
@@ -225,7 +225,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 - [Awesome aeternity](https://github.com/aeternity/awesome-aeternity)
 - [Metaschool learning projects](https://github.com/0xmetaschool/Learning-Projects)
 - [Solana course](https://github.com/Unboxed-Software/solana-course)
-
+- [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+- [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
