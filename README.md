@@ -302,10 +302,10 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 > Web3 SDK & Platforms
 
-| Platform                         | Description                                                                         |
+| Platform                                      | Description                                                                |
 | --------------------------------------------- | -------------------------------------------------------------------------- |
-| [Moralis](https://moralis.io)    | Moralis provides a single workflow for building high performance dapps              |
-| [Thirdweb](https://thirdweb.com) | Powerful SDK and intuitive tools for developers to implement web3 features          |
+| [Moralis](https://moralis.io)                 | Moralis provides a single workflow for building high performance dapps     |
+| [Thirdweb](https://thirdweb.com)              | Powerful SDK and intuitive tools for developers to implement web3 features |
 | [Juno](https://juno.build)       | A blockchainless platform for developers to own and build groundbreaking apps on Web3. |
 
 <div align="right">
