@@ -265,15 +265,12 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Brownie](https://eth-brownie.readthedocs.io)                         | A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine                                      |
 | [OpenZeppelin](https://docs.openzeppelin.com/learn/)                  | A library for secure smart contract development and community-vetted code                                                                        |
 | [EVM Codes](https://www.evm.codes/)                                   | An interactive reference to Ethereum Virtual Machine Opcodes                                                                                     |
-|  |
 | [EVM Opcodes](https://www.ethervm.io/)                                | Ethereum Virtual Machine Opcodes                                                                                                                 |
-|  |
 | [Chainlist](https://chainlist.org/)                                   | A list of EVM networks with informations used to connect wallets and Web3 middleware providers to the appropriate Chain and Network ID           |
-|  |
 | [Web3 Type Converter](https://web3-type-converter.onbrn.com/)         | Convert from a bytes32/hex into a string/number or vice-versa                                                                                    |
-|  |
-| [Foundry](https://getfoundry.sh/)                                     | A blazing fast, portable and modular toolkit for Ethereum application development written in Rust                                                                                  |
-|  |
+| [Foundry](https://getfoundry.sh/)                                     | A blazing fast, portable and modular toolkit for Ethereum application development written in Rust                                                |
+| [Ethui](https://ethui.dev/)                                           | Open-source Ethereum toolkit that integrates wallets, contract explorers, Foundry and Anvil.                                                     |
+
 
 
 > SOLANA
