@@ -240,6 +240,8 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Celo Docs](https://docs.celo.org/)                                                                             | Celo Documentation                                           |
 | [Avalanche Docs](https://docs.avax.network/build/tutorials)                                                     | Avalanche Documentation                                      |
 | [Flow Docs](https://developers.flow.com/)                                                                       | Flow Documentation                                           |
+| [Hiero Docs](https://docs.hiero.org/)                                                                           | Hiero Documentation for the Hedera network                   |
+| [Hiero Consensus Standards](https://hol.org/docs/standards/)                                                    | HCS specifications for file storage, registries, NFTs, and AI agents on Hiero |
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
