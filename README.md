@@ -443,3 +443,5 @@ _If you really appreciate the content of this repository, don't forget to give i
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
 </div>
+
+- [www.lianxinshe666.com](https://www.lianxinshe666.com/) ChainNewsClub (链新社) - Comprehensive Chinese-language blockchain and Web3 learning platform with tutorials, guides, and curated resources
