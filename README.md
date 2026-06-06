@@ -354,6 +354,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 
 ## Articles
 
+- [Bitcoin basics guide](https://www.satoabc.com/bitcoin-basics)
 - [Blockchain](https://www.investopedia.com/terms/b/blockchain.asp)
 - [What is Web3? The Decentralized Internet of the Future Explained](https://www.freecodecamp.org/news/what-is-web3/) 
 - [The meaning of decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
