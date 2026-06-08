@@ -283,6 +283,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Solana Cookbook](https://solanacookbook.com) | Developer resource for building on Solana Blockchain                  |
 | [Rust](https://www.rust-lang.org/learn)       | Programming language for writing smart contracts on Solana Blockchain |
 | [Solang](https://solang.readthedocs.io/)      | Solidity Compiler for Solana                                          |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | On-chain trust scoring MCP server for Solana AI agent wallets — verify agent wallet identity before x402 micropayments |
 
 
 > Web3 SDK & Platforms
