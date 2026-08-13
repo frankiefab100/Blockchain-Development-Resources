@@ -246,6 +246,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 </div>
 
 ## Development Tools
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up, no external database, ready in 5 minutes.
 
 > ETHEREUM & EVM ecosystem
 
