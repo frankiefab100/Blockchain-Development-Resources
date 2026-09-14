@@ -67,6 +67,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | [Buidlguidl](https://buidlguidl.com/)                                                                          |
 | [DApp World](https://dapp-world.com/)                                                                          |
 | [Cyfrin Updraft](https://updraft.cyfrin.io)                                                                    |
+| [LiquidityPools](https://liquiditypools.app)                                                                      |
 
 <div align="right">
     <b><a href="##table-of-contents">↥ Back To Top</a></b>
