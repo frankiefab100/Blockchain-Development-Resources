@@ -439,7 +439,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 - The Blockchain Developer: A practical guide - Elad Elrom
 
 - [Token Economy : How the Web3 reinvents the internet - Shermin Voshmgir](https://github.com/sherminvo/TokenEconomyBook/wiki)
-- [HostDeFi](https://hostdefi.com) - Free token-safety scanner (A+–F grades) for Solana and 8 EVM chains, with a keyless REST API
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner (A+–F grades) for Solana and 7 EVM chains, with a keyless REST API
 
 
 <div align="right">
