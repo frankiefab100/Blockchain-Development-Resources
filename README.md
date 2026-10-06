@@ -306,6 +306,7 @@ _If you really appreciate the content of this repository, don't forget to give i
 | ------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [NodeReal](https://nodereal.io)       | NodeReal is a blockchain infrastructure and services provider                                 |
 | [Infura](https://infura.io/)          | Infura provides infrastructure and tools for developers to build amazing Web 3.0 applications |
+| [LYFTIUM](https://www.lyftium.com) | Ethereum Mainnet RPC — plain RPM pricing, `X-Api-Key` header auth, fail-closed tip (HTTP 503) |
 | [Alchemy](https://www.alchemy.com)    | Alchemy provides infrastructure service to build great blockchain applications                |
 | [Chainstack](https://www.chainstack.com) | Chainstack is the leading suite of services connecting developers with Web3 infrastructure |
 | [QuickNode](https://www.quicknode.com)| A single platform for your production, staging, and testing environments                      |
